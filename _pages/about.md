@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, this is Omar,"
+title: "Hello, this is Salman Farsi,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,40 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-<!---
 <p align="justify">
-  <b><font color="red"><h2> (Under Construction)</h2></font></b>
+Greetings! I'm a competitive programmer and natural language processing enthusiast, driven by a deep passion for tackling real-world challenges through the application of my acquired knowledge and skills. My journey in computer science began during my undergraduate years, where I immersed myself in problem-solving and honed my competitive programming skills. I solved 1500+ problems in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. Apart from that, I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential!
 </p>
--->
 
 <p align="justify">
+In addition to my academic pursuits, I've undertaken projects related to my coursework, allowing me to gain exposure to industry-level languages and technologies. My primary expertise lies in programming languages such as C++ and Python. My commitment to excellence is reflected in my consistently strong academic performance, underscoring my solid grasp of core computer science concepts like OOP, DBMS, OS etc. 
+</p>
 
-I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+<p align="justify">
+Beyond my academic pursuits, I've had the privilege of providing private tutoring to several students. This experience has nurtured my skills in managing individuals, teaching, and delivering effective presentations. I was the Vice President of the Greater Noakhali Student Forum C.U.E.T (GNSF), where I was responsible to various regional student welfare activities. I also served as Joint Programming Secretary in C.U.E.T Computer Club. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing. I am dedicated to continuous learning and eagerly embrace new opportunities for growth. 
 </p> 
- <!---
- I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
--->
-<p align="justify">
-I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
-</p>
- <!---
- Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
--->
-<b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
-
-<b>My latest CV: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1ggUpwNyVATOB-H4OQzSJAUiiGNJAQ9s_/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1t4CkBH8LP0Vdrn4QUCxJa3HUGEXHyH0b/view?usp=sharing"><font color="#990033">Short</font></a>]
 
 
-<!---
-I am also pursuing my M.Sc. from CUET . My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies.
-<font size="2">🟤</font> 
-<font size="2">🔴</font> 
-<font size="2">🟠</font> 
-<font size="2">🟡</font> 
-<font size="2">🟢</font> 
-<font size="2">🔵</font> 
-<font size="2">🟣</font> 
--->
+<b>Contact: 📧</b> [<font color= "#990033" >salman.cuet.cse@gmail.com</font>](salman.cuet.cse@gmail.com)
+
+<b>My latest CV: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1cFNL3UMEgUtrt-aIO4dmX68o56HJe0JV/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1cFNL3UMEgUtrt-aIO4dmX68o56HJe0JV/view?usp=sharing"><font color="#990033">Short</font></a>]
+
+
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
