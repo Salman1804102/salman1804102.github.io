@@ -29,9 +29,11 @@ Beyond my academic pursuits, I've had the privilege of providing private tutorin
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">20 March, 2024</span> Presented our paper virtually at <a href = "https://emw.ku.edu.tr/case-2024/"> CASE </a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a> [<a href = "https://twitter.com/caseworkshop/status/1771137001288323256"> Link </a> 
-<span style="color:rgb(201, 76, 76)">17 March, 2024</span> Three paper published at <a href = "https://sites.google.com/view/dravidianlangtech-2024/"> DravidianLangTech </a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>.
-<span style="color:rgb(201, 76, 76)">18 March, 2024</span> One paper published at <a href = "https://emw.ku.edu.tr/case-2024/"> CASE </a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">20 March, 2024</span> Presented our paper virtually at <a href = "https://emw.ku.edu.tr/case-2024/">CASE</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a> [<a href = "https://twitter.com/caseworkshop/status/1771137001288323256">Link</a>]
+  
+<span style="color:rgb(201, 76, 76)">17 March, 2024</span> Three paper published at <a href = "https://sites.google.com/view/dravidianlangtech-2024/">DravidianLangTech</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>.
+
+<span style="color:rgb(201, 76, 76)">18 March, 2024</span> One paper published at <a href = "https://emw.ku.edu.tr/case-2024/">CASE</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>.
 </pre>
 </div>
 
