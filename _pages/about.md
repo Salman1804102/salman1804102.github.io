@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, this is Salman Farsi,"
+title: "Greetings! this is Salman Farsi,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <p align="justify">
-Greetings! I'm a competitive programmer and natural language processing enthusiast, driven by a deep passion for tackling real-world challenges through the application of my acquired knowledge and skills. My journey in computer science began during my undergraduate years, where I immersed myself in problem-solving and honed my competitive programming skills. I solved 1500+ problems in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. Apart from that, I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential!
+I'm a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>, driven by a deep passion for tackling real-world challenges through the application of my acquired knowledge and skills. My journey in computer science began during my undergraduate years, where I immersed myself in problem-solving and honed my competitive programming skills. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. Apart from that, I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential!
 </p>
 
 <p align="justify">
-In addition to my academic pursuits, I've undertaken projects related to my coursework, allowing me to gain exposure to industry-level languages and technologies. My primary expertise lies in programming languages such as C++ and Python. My commitment to excellence is reflected in my consistently strong academic performance, underscoring my solid grasp of core computer science concepts like OOP, DBMS, OS etc. 
+In addition to my academic pursuits, I've undertaken <a href = "https://github.com/Salman1804102?tab=repositories">projects</a> related to my coursework, allowing me to gain exposure to industry-level languages and technologies. My primary expertise lies in programming languages such as C++ and Python. My commitment to excellence is reflected in my consistently strong academic performance, underscoring my solid grasp of core computer science concepts like OOP, DBMS, OS etc. 
 </p>
 
 <p align="justify">
-Beyond my academic pursuits, I've had the privilege of providing private tutoring to several students. This experience has nurtured my skills in managing individuals, teaching, and delivering effective presentations. I was the Vice President of the Greater Noakhali Student Forum C.U.E.T (GNSF), where I was responsible to various regional student welfare activities. I also served as Joint Programming Secretary in C.U.E.T Computer Club. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing. I am dedicated to continuous learning and eagerly embrace new opportunities for growth. 
+Beyond my academic pursuits, I've had the privilege of providing private tutoring to several students. This experience has nurtured my skills in managing individuals, teaching, and delivering effective presentations. I was the Vice President of the <a href = "https://m.facebook.com/people/Greater-Noakhali-Students-Forum-CUET/100083839316528/">Greater Noakhali Student Forum C.U.E.T (GNSF)</a>, where I was responsible to various regional student welfare activities. I also served as Joint Programming Secretary in <a href = "https://www.facebook.com/cuetcomputerclub/">C.U.E.T Computer Club</a>. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing. I am dedicated to continuous learning and eagerly embrace new opportunities for growth. 
 </p> 
 
 
