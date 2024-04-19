@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif | (ওমর শরিফ)"
+title                    : "Salman Farsi | (সালমান ফারসী)"
 title_separator          : "-"
-name                     : &name "Omar Sharif"
+name                     : &name "Salman Farsi"
 description              : &description ""
-url                      : https://omar-sharif03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://salman-farsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "omar-sharif03/omar-sharif03.github.io"
+repository               : "salman1804102/salman-farsi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,29 +81,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omar Sharif"
+  name             : "Salman Farsi"
   avatar           : "Sharif.jpg"
-  bio              : "Graduate student at Dartmouth CS, advised by Prof. Sarah M. Preum. Interested to apply deep learning to understand natural language."
-  location         : "Hanover, New Hampshire"
-  employer         : #"Lecturer at Dept. of CSE, CUET."
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  email            : "omar.sharif@cuet.ac.bd"
-  researchgate     :  "https://www.researchgate.net/profile/Omar-Sharif-5"
+  bio              : "Undergraduate student at Chittagong University of Engineering and Technology (CUET). Interested in software development and natural language processing."
+  location         : "Chattogram, Bangladesh"
+  employer         : #"Software Engineering Intern at Red Dot Digital Limited."
+  pubmed           : 
+  ACL Anthology    : "https://aclanthology.org/people/s/salman-farsi/"
+  email            : "salman.cuet.cse@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Salman-Farsi-5"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/MdSalmanFarsiShawon/"
   foursquare       :
-  github           : "omar-sharif03"
+  github           : "Salman1804102"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "omar1303"
+  linkedin         : "salmanfarsi0"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://www.semanticscholar.org/author/Omar-Sharif/2073472600"
+  dblp             : "https://www.semanticscholar.org/author/Salman-Farsi/2291362611"
   wikipedia        :
 
 
