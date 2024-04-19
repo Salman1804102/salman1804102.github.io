@@ -14,7 +14,7 @@ name                     : &name "Salman Farsi"
 description              : &description ""
 url                      : https://salman-farsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "salman1804102/salman-farsi.github.io"
+repository               : "salman1804102/salman1804102.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
