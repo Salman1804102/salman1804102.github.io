@@ -7,40 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-**[Dartmouth College](https://home.dartmouth.edu/)**   
-*PhD in Computer Science*   
-Study Period: <b>September 2022 - Ongoing</b>   
-Supervisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: [Persist Lab](https://persist-lab.github.io/)
-
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Masters in Computer Science and Engineering*   
-Study Period: <b>August 2019 - January 2022</b>   
-Supervisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) Lab: CUET NLP 
-
-
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
-Study Period: <b>March 2014 - November 2018</b>   
-Supervisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
+Study Period: <b>February 2019 - May 2024</b>
+CGPA: <b>3.79/4.00</b>  
+Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
+
+**Government Science College, Dhaka [(GSC)](https://www.gsctd.edu.bd/)**   
+*Higher Secondary School Certificate Examination (HSC)*   
+Study Period: <b>June 2015 - April 2018</b>
+GPA: <b>4.67/5.00</b>  
+
+**Bazra M L High School, Dhaka [(BHS)](https://www.sohopathi.com/bazra-ml-high-school/)**   
+*Secondary School Certificate Examination (SSC)*   
+Study Period: <b>January 2010 - February 2015</b>
+GPA: <b>5.00/5.00</b>
 
 <!---
-CGPA: <b>3.90/4.00</b>  
 Position: <b>1<sup>st</sup>/103</b>
 CGPA: <b>4.00/4.00</b>  
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
 ## <font color="#00cc66"> Academic Appointments </font>
- **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
- *Departmet of Computer Science, Dartmouth College*
 
- **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
- *Departmet of Computer Science and Engineering, CUET*
- 
- **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
- *Department of Computer Science and Engineering, CUET*
-
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
+ **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
  *CUET NLP Lab*
 
 ## <font color="#00cc66"> Certifications </font>
