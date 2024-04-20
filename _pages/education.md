@@ -9,18 +9,18 @@ redirect_from:
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
-Study Period: <b>February 2019 - May 2024</b>
+Study Period: <b>February 2019 - May 2024</b><br>
 CGPA: <b>3.79/4.00</b>  
 Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
 
 **Government Science College, Dhaka [(GSC)](https://www.gsctd.edu.bd/)**   
 *Higher Secondary School Certificate Examination (HSC)*   
-Study Period: <b>June 2015 - April 2018</b>
+Study Period: <b>June 2015 - April 2018</b><br>
 GPA: <b>4.67/5.00</b>  
 
 **Bazra M L High School, Dhaka [(BHS)](https://www.sohopathi.com/bazra-ml-high-school/)**   
 *Secondary School Certificate Examination (SSC)*   
-Study Period: <b>January 2010 - February 2015</b>
+Study Period: <b>January 2010 - February 2015</b><br>
 GPA: <b>5.00/5.00</b>
 
 <!---
