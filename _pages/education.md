@@ -6,11 +6,15 @@ permalink: /education/
 redirect_from: 
   - /about.html
 ---
+**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
+*M.Sc. in Computer Science and Engineering*   
+Study Period: <b>September 2024 - Present</b><br>  
+Supervisor: [Dr. Mohammed Moshiul Hoque](https://www.cuet.ac.bd/members/500) 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelors in Computer Science and Engineering*   
+*B.Sc. in Computer Science and Engineering*   
 Study Period: <b>February 2019 - May 2024</b><br>
-CGPA: <b>3.79/4.00</b>  
+CGPA: <b>3.80/4.00</b>  
 Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
 
 **Government Science College, Dhaka [(GSC)](https://www.gsctd.edu.bd/)**   
@@ -36,8 +40,8 @@ Position: <b>1<sup>st</sup>/48</b>
 
 ## <font color="#00cc66"> Certifications </font>
 
-**Deep Learning Specialization**   
-[*<font color="#ff6633">[Deep Learning]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/ELLF6SH732TL) [*<font color="#ff6633">[DL Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+**HackerRank Problem Solving Intermediate**   
+[*<font color="#ff6633">[Certificate URL]</font>*](https://www.hackerrank.com/certificates/46d4f5be4923) [*<font color="#ff6633">[DL Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
 
    * Get the foundations of deep learning and learn about CNN, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and other hyper-parameter optimization techniques which help me to build successful deep learning projects.
    * Implement different case studies on autonomous driving, sign language reading, music generation, and natural language processing using tensorflow and python.
