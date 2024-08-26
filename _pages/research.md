@@ -37,7 +37,7 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 1️⃣ <b><font color="#993333">Hate and Offensive Language Detection in Telugu Code-Mixed Text Using Sentence Similarity BERT</font>
 
-   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Jawad Hossain, Shawly Ahsan & Mohammed Moshiul Hoque  
+   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha & Mohammed Moshiul Hoque  
    
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.32/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/HOLD-DravidianLangTech2024)  
 
@@ -45,7 +45,7 @@ My broad research interests are in Natural Language Processing and Explainable A
 
    🥇 *<font color="#f00">[Top model in fake news detection challenge]</font>*
    
-   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher, Avishek Das, Jawad Hossain, Shawly Ahsan & Mohammed Moshiul Hoque<br>   
+   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher & Mohammed Moshiul Hoque<br>   
    
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.29/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/FakeNews-DravidianLangTech2024)  
   
@@ -62,7 +62,7 @@ My broad research interests are in Natural Language Processing and Explainable A
    
    🥇 *<font color="#f00">[Top model in sentiment analysis challenge]</font>*<br>
    
-   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam, Jawad Hasan, Shawly Ahsan & Mohammed Moshiul Hoque
+   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam & Mohammed Moshiul Hoque
    
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.34/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/SentiMent-DravidianLangTech2024)  
   
