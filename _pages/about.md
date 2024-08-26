@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings! this is Salman Farsi"
+title: "Greetings! this is Salman,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Greetings! I'm Salman Farsi, a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), where I graduated with a CGPA of 3.80/4.0. I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. My research experience has been enriched by my time as a Research Intern at the CUET NLP Lab, under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the publication of three conference papers. My work has primarily focused on exploring the intricacies of language models, stance detection, and sentiment analysis, contributing valuable insights to the academic community. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential! 
+I'm a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), where I graduated with a CGPA of 3.80/4.0. I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. My research experience has been enriched by my time as a Research Intern at the CUET NLP Lab, under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the publication of three conference papers. My work has primarily focused on exploring the intricacies of language models, stance detection, and sentiment analysis, contributing valuable insights to the academic community. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential! 
 </p>
  
 <p align="justify">
