@@ -38,32 +38,28 @@ My broad research interests are in Natural Language Processing and Explainable A
 1️⃣ <b><font color="#993333">Hate and Offensive Language Detection in Telugu Code-Mixed Text Using Sentence Similarity BERT</font>
 
    ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha & Mohammed Moshiul Hoque  
-   
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.32/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/HOLD-DravidianLangTech2024)  
 
 2️⃣ <b><font color="#993333">Fake News Detection in Malayalam Language Leveraging Fine-Tuned MuRIL BERT</font>
 
    🥇 *<font color="#f00">[Top model in fake news detection challenge]</font>*
-   
-   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher & Mohammed Moshiul Hoque<br>   
-   
+
+   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher & Mohammed Moshiul Hoque   
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.29/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/FakeNews-DravidianLangTech2024)  
   
 3️⃣ <b><font color="#993333">A Comprehensive Evaluation and Superior Performance of Transformer-Based Models in Hate Speech Event Detection and Stance Classification for Climate Activism</font></b>
 
    🥇 *<font color="#f00">[Top model in hate speech event detection challenge]</font>*
    
-   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha & Mohammed Shamsul Arefin<br> 
-   
+   ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha & Mohammed Shamsul Arefin 
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.case-1.20/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/CASE-2024)  
  
 
 4️⃣ <b><font color="#993333">Sentiment Analysis using Transformer-Based Models in Code-Mixed and Transliterated Tamil and Tulu</font></b> 
    
-   🥇 *<font color="#f00">[Top model in sentiment analysis challenge]</font>*<br>
+   🥇 *<font color="#f00">[Top model in sentiment analysis challenge]</font>*
    
    ✍ <b><font color="#2d862d">Salman Farsi</font></b>, Asrarul Hoque Eusha, Ariful Islam & Mohammed Moshiul Hoque
-   
    [<font color="#4796C9"> [DravidianLangTech-2024] </font>](https://sites.google.com/view/dravidianlangtech-2024/) | [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.dravidianlangtech-1.34/) | [<font   color="#4796C9"> [Code] </font>](https://github.com/Salman1804102/SentiMent-DravidianLangTech2024)  
   
   
