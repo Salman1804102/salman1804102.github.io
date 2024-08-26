@@ -6,10 +6,11 @@ permalink: /education/
 redirect_from: 
   - /about.html
 ---
+
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *M.Sc. in Computer Science and Engineering*   
 Study Period: <b>September 2024 - Present</b><br>  
-Supervisor: [Dr. Mohammed Moshiul Hoque](https://www.cuet.ac.bd/members/500) 
+Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *B.Sc. in Computer Science and Engineering*   
