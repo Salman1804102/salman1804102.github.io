@@ -82,12 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Salman Farsi"
-  avatar           : "salman.jpg"
-  bio              : "Undergraduate student at Chittagong University of Engineering and Technology (CUET). Interested in software development and natural language processing."
+  avatar           : "My project-1.png"
+  bio              : "Graduated from Chittagong University of Engineering and Technology (CUET). Interested in software development and natural language processing."
   location         : "Chattogram, Bangladesh"
   employer         : #"Software Engineering Intern at Red Dot Digital Limited."
   pubmed           : 
-  googlescholar    : "https://aclanthology.org/people/s/salman-farsi/"
+  googlescholar    : "https://scholar.google.com/citations?user=lNmtUxsAAAAJ&hl=en"
   email            : "salman.cuet.cse@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Salman-Farsi-5"
   uri              :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "salmanfarsi0"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-2435-8014"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
