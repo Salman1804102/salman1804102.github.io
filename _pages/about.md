@@ -13,7 +13,7 @@ I'm a <b>competitive programmer</b> and <b>natural language processing enthusias
 </p>
  
 <p align="justify">
-Apart from that, I immersed myself in problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. In addition to my academic pursuits, I've undertaken <a href = "https://github.com/Salman1804102?tab=repositories">projects</a> related to my coursework, allowing me to gain exposure to industry-level languages and technologies. My primary expertise lies in programming languages such as C++ and Python. My commitment to excellence is reflected in my consistently strong academic performance, underscoring my solid grasp of core computer science concepts like OOP, DBMS, OS etc. 
+Apart from that, I immersed myself in problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. In addition to my academic pursuits, I've undertaken <a href = "https://github.com/Salman1804102?tab=repositories">projects</a> related to my coursework. My primary expertise lies in programming languages such as C++ and Python.
 </p>
 
 <p align="justify">
