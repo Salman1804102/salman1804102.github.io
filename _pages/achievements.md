@@ -26,10 +26,10 @@ redirect_from:
 
 ## <font color="#00cc66">Programming Honors and Awards</font>
 <ul>
-  <li> <b><font color= "#737373" >**Codeforces:** Specialist (Max Rating 1527) | **Codechef:** 4 star(Max Rating 1737)</li>
-  <li> <b><font color= "#737373" >3857th (Top 11%) at Meta Hacker Cup - Qualification Round</font></b> (2021)</li>
-  <li> <b><font color= "#737373" >Honorable mention</font></b> (2023): ICPC Asia-Dhaka Regional Preliminary Contest</li>
-  <li> <b><font color= "#737373" >Programmer of the Semester</font></b> (2020): Awarded by CUET Computer Club</li>
+  <li> <b><font color= "#737373" >Codeforces: Specialist (Max Rating 1527) | Codechef: 4 star(Max Rating 1737)</li>
+  <li> <b><font color= "#737373" >3857th (Top 11%)</font></b> : Meta Hacker Cup - Qualification Round (2021)</li>
+  <li> <b><font color= "#737373" >Honorable mention</font></b> : ICPC Asia-Dhaka Regional Preliminary Contest (2023)</li>
+  <li> <b><font color= "#737373" >Programmer of the Semester</font></b> : Awarded by CUET Computer Club (2020)</li>
   <li> <b><font color= "#737373" >55<sup>th</sup> position (CUET_FossilCoders)</font></b> (among 100 teams): CUET Inter University Programming Contest CodeStorm 1.0 (National)</li>
   <li> <b><font color= "#737373" >18<sup>th</sup> position (CUET_Lazarus)</font></b> (among 100 teams): CUET Tech Carnival 1.0 IUPC 2021 (Divisional)</li>
   <li> <b><font color= "#737373" >15<sup>th</sup> position (CUET_Lazarus)</font></b> (among 70 teams): 15th IIUC Programming Contest 2023 (Divisional)</li>
