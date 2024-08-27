@@ -44,20 +44,40 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 <div class="slider">
   <div class="slides">
     <div class="slide">
-      <img src="Gallery/img_cc1.jpeg" alt="Image 1">
-      <div class="caption">This is the heading of img1</div>
+      <img src="Gallery/fossil1.jpg" alt="Image 1">
+      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
     </div>
     <div class="slide">
-      <img src="Gallery/img_cc2.jpeg" alt="Image 2">
-      <div class="caption">This is the heading of img2</div>
+      <img src="Gallery/iiuc.jpg" alt="Image 2">
+      <div class="caption">15th IIUC Inter University Programming Contest 2023</div>
     </div>
     <div class="slide">
-      <img src="Gallery/img_fossil1.jpeg" alt="Image 3">
-      <div class="caption">This is the heading of img3</div>
+      <img src="Gallery/cuetiupc.jpg" alt="Image 3">
+      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
     <div class="slide">
-      <img src="Gallery/img_fossil2.jpeg" alt="Image 4">
-      <div class="caption">This is the heading of img4</div>
+      <img src="Gallery/cc2.jpeg" alt="Image 4">
+      <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/cuetiupc2.jpg" alt="Image 5">
+      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/cuetiupc4.jpg" alt="Image 6">
+      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/cc1.jpg" alt="Image 7">
+      <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
+    </div>
+    <div class="slide">
+    <div class="slide">
+      <img src="Gallery/fossil2.jpg" alt="Image 81">
+      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
+    </div>
+      <img src="Gallery/cuetiupc3.jpg" alt="Image 9">
+      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
     <!-- Add more slides as needed -->
   </div>
