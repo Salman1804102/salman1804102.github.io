@@ -2,7 +2,7 @@
 title: "Leadership & Extra-Curricular Involvement"
 excerpt: ""
 author_profile: true
-permalink: /Leadership & Extra-Curricular/
+permalink: /leadership/
 redirect_from: 
   - /about.html
 ---
