@@ -56,8 +56,8 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">This is the heading of img3</div>
     </div>
     <div class="slide">
-      <img src="Gallery/img_fossil2.jpeg" alt="Image 3">
-      <div class="caption">This is the heading of img3</div>
+      <img src="Gallery/img_fossil2.jpeg" alt="Image 4">
+      <div class="caption">This is the heading of img4</div>
     </div>
     <!-- Add more slides as needed -->
   </div>
@@ -114,5 +114,5 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     slideIndex = (slideIndex + 1) % slides.length;
   }
   
-  setInterval(showSlides, 3000); // Change image every 3 seconds
+  setInterval(showSlides, 4000); // Change image every 4 seconds
 </script>
