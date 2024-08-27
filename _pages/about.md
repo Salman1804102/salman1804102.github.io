@@ -44,16 +44,16 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 <div class="slider">
   <div class="slides">
     <div class="slide">
-      <img src="Gallery/fossil1.jpg" alt="Image 1">
-      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/iiuc.jpg" alt="Image 2">
+      <img src="Gallery/iiuc.jpg" alt="Image 1">
       <div class="caption">15th IIUC Inter University Programming Contest 2023</div>
     </div>
     <div class="slide">
-      <img src="Gallery/cuetiupc.jpg" alt="Image 3">
+      <img src="Gallery/cuetiupc.jpg" alt="Image 2">
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/fossil1.jpg" alt="Image 3">
+      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
     </div>
     <div class="slide">
       <img src="Gallery/cc2.jpg" alt="Image 4">
@@ -80,6 +80,8 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
   </div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
 <style>
@@ -118,6 +120,31 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     word-wrap: break-word;
   }
 
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
   /* Hide navigation icons on touch or mouse click */
   .slider .slide, .slides {
     user-select: none;
@@ -133,6 +160,18 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
   function showSlides() {
     slides.style.transform = `translateX(${-slideIndex * 100}%)`;
   }
+
+  function plusSlides(n) {
+    slideIndex += n;
+    if (slideIndex < 0) slideIndex = slide.length - 1;
+    if (slideIndex >= slide.length) slideIndex = 0;
+    showSlides();
+  }
+
+  // Automatically slide every 3 seconds
+  setInterval(() => {
+    plusSlides(1);
+  }, 3000);
 
   // Allow sliding on touch or mouse click
   slides.addEventListener('touchstart', handleTouchStart, false);
@@ -178,19 +217,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     }
     xDown = null;
   }
-
-  function plusSlides(n) {
-    slideIndex += n;
-    if (slideIndex < 0) slideIndex = slide.length - 1;
-    if (slideIndex >= slide.length) slideIndex = 0;
-    showSlides();
-  }
-
-  // Automatically slide every 3 seconds
-  setInterval(() => {
-    slideIndex = (slideIndex + 1) % slide.length;
-    showSlides();
-  }, 3000);
 </script>
+
 
 
