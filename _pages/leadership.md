@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /Leadership & Extra-Curricular/
 redirect_from: 
-  - /leadership.html
+  - /about.html
 ---
 ## Volunteering Experience
 
