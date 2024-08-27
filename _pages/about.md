@@ -148,18 +148,17 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 
 <script>
   let slideIndex = 0;
-  const slides = document.querySelectorAll('.slide');
+  const slides = document.querySelector('.slides');
+  const slideElements = document.querySelectorAll('.slide');
 
   // Show slides function
   function showSlides() {
-    slides.forEach((slide, index) => {
-      slide.style.transform = `translateX(${-slideIndex * 100}%)`;
-    });
+    slides.style.transform = `translateX(${-slideIndex * 100}%)`;
   }
 
   // Change slide automatically every 3 seconds
   function autoSlide() {
-    slideIndex = (slideIndex + 1) % slides.length;
+    slideIndex = (slideIndex + 1) % slideElements.length;
     showSlides();
   }
 
@@ -167,7 +166,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 
   // Manual slide controls
   function plusSlides(n) {
-    slideIndex = (slideIndex + n + slides.length) % slides.length;
+    slideIndex = (slideIndex + n + slideElements.length) % slideElements.length;
     showSlides();
     clearInterval(slideInterval); // Clear interval to reset timer
     slideInterval = setInterval(autoSlide, 3000); // Restart timer
@@ -176,6 +175,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
   document.querySelector('.next').addEventListener('click', () => plusSlides(1));
   document.querySelector('.prev').addEventListener('click', () => plusSlides(-1));
 </script>
+
 
 
 
