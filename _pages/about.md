@@ -44,40 +44,20 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 <div class="slider">
   <div class="slides">
     <div class="slide">
-      <img src="Gallery/iiuc.jpg" alt="Image 1">
+      <img src="Gallery/fossil1.jpg" alt="Image 1">
+      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/iiuc.jpg" alt="Image 2">
       <div class="caption">15th IIUC Inter University Programming Contest 2023</div>
     </div>
     <div class="slide">
-      <img src="Gallery/cuetiupc.jpg" alt="Image 2">
+      <img src="Gallery/cuetiupc.jpg" alt="Image 3">
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/fossil1.jpg" alt="Image 3">
-      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
     </div>
     <div class="slide">
       <img src="Gallery/cc2.jpg" alt="Image 4">
       <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/cuetiupc2.jpg" alt="Image 5">
-      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/cuetiupc4.jpg" alt="Image 6">
-      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/cc1.jpg" alt="Image 7">
-      <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/fossil2.jpg" alt="Image 8">
-      <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
-    </div>
-    <div class="slide">
-      <img src="Gallery/cuetiupc3.jpg" alt="Image 9">
-      <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
   </div>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -144,80 +124,45 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
   .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
   }
-
-  /* Hide navigation icons on touch or mouse click */
-  .slider .slide, .slides {
-    user-select: none;
-  }
-
 </style>
 
 <script>
   let slideIndex = 0;
-  const slides = document.querySelector('.slides');
-  const slide = document.querySelectorAll('.slide');
-
+  const slides = document.querySelectorAll('.slide');
+  
   function showSlides() {
-    slides.style.transform = `translateX(${-slideIndex * 100}%)`;
+    slides.forEach((slide) => {
+      slide.style.transform = `translateX(${-slideIndex * 100}%)`;
+    });
+    slideIndex = (slideIndex + 1) % slides.length;
   }
+  
+  // Change image every 3 seconds
+  setInterval(showSlides, 3000);
 
+  // Manual sliding
+  document.querySelector('.next').addEventListener('click', () => plusSlides(1));
+  document.querySelector('.prev').addEventListener('click', () => plusSlides(-1));
+  
   function plusSlides(n) {
-    slideIndex += n;
-    if (slideIndex < 0) slideIndex = slide.length - 1;
-    if (slideIndex >= slide.length) slideIndex = 0;
+    slideIndex = (slideIndex + n + slides.length) % slides.length;
     showSlides();
   }
 
-  // Automatically slide every 3 seconds
-  setInterval(() => {
-    plusSlides(1);
-  }, 3000);
+  // Touch sliding
+  let startX = 0;
 
-  // Allow sliding on touch or mouse click
-  slides.addEventListener('touchstart', handleTouchStart, false);
-  slides.addEventListener('touchmove', handleTouchMove, false);
-  slides.addEventListener('mousedown', handleMouseDown, false);
-  slides.addEventListener('mousemove', handleMouseMove, false);
-  slides.addEventListener('mouseup', handleMouseUp, false);
+  document.querySelector('.slides').addEventListener('touchstart', (e) => {
+    startX = e.touches[0].clientX;
+  });
 
-  let xDown = null;
-  let xDiff = null;
-
-  function handleTouchStart(evt) {
-    xDown = evt.touches[0].clientX;
-  }
-
-  function handleTouchMove(evt) {
-    if (!xDown) return;
-
-    xDiff = xDown - evt.touches[0].clientX;
-    if (xDiff > 0) {
-      plusSlides(1);
-    } else {
-      plusSlides(-1);
-    }
-    xDown = null;
-  }
-
-  function handleMouseDown(evt) {
-    xDown = evt.clientX;
-  }
-
-  function handleMouseMove(evt) {
-    if (!xDown) return;
-
-    xDiff = xDown - evt.clientX;
-  }
-
-  function handleMouseUp(evt) {
-    if (xDiff > 0) {
-      plusSlides(1);
-    } else {
-      plusSlides(-1);
-    }
-    xDown = null;
-  }
+  document.querySelector('.slides').addEventListener('touchmove', (e) => {
+    let moveX = e.touches[0].clientX;
+    if (startX > moveX) plusSlides(1);
+    else if (startX < moveX) plusSlides(-1);
+  });
 </script>
+
 
 
 
