@@ -56,7 +56,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
     <div class="slide">
-      <img src="Gallery/cc2.jpeg" alt="Image 4">
+      <img src="Gallery/cc2.jpg" alt="Image 4">
       <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
     </div>
     <div class="slide">
@@ -72,10 +72,10 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">Programmer of the Semester Awarded by CUET Computer Club</div>
     </div>
     <div class="slide">
-    <div class="slide">
-      <img src="Gallery/fossil2.jpg" alt="Image 81">
+      <img src="Gallery/fossil2.jpg" alt="Image 8">
       <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
     </div>
+    <div class="slide">
       <img src="Gallery/cuetiupc3.jpg" alt="Image 9">
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
