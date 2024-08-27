@@ -149,39 +149,34 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 <script>
   let slideIndex = 0;
   const slides = document.querySelectorAll('.slide');
-  
+
+  // Show slides function
   function showSlides() {
-    slides.forEach((slide) => {
+    slides.forEach((slide, index) => {
       slide.style.transform = `translateX(${-slideIndex * 100}%)`;
     });
-    slideIndex = (slideIndex + 1) % slides.length;
   }
-  
-  // Change image every 3 seconds
-  setInterval(showSlides, 3000);
 
-  // Manual sliding
-  document.querySelector('.next').addEventListener('click', () => plusSlides(1));
-  document.querySelector('.prev').addEventListener('click', () => plusSlides(-1));
-  
-  function plusSlides(n) {
-    slideIndex = (slideIndex + n + slides.length) % slides.length;
+  // Change slide automatically every 3 seconds
+  function autoSlide() {
+    slideIndex = (slideIndex + 1) % slides.length;
     showSlides();
   }
 
-  // Touch sliding
-  let startX = 0;
+  let slideInterval = setInterval(autoSlide, 3000);
 
-  document.querySelector('.slides').addEventListener('touchstart', (e) => {
-    startX = e.touches[0].clientX;
-  });
+  // Manual slide controls
+  function plusSlides(n) {
+    slideIndex = (slideIndex + n + slides.length) % slides.length;
+    showSlides();
+    clearInterval(slideInterval); // Clear interval to reset timer
+    slideInterval = setInterval(autoSlide, 3000); // Restart timer
+  }
 
-  document.querySelector('.slides').addEventListener('touchmove', (e) => {
-    let moveX = e.touches[0].clientX;
-    if (startX > moveX) plusSlides(1);
-    else if (startX < moveX) plusSlides(-1);
-  });
+  document.querySelector('.next').addEventListener('click', () => plusSlides(1));
+  document.querySelector('.prev').addEventListener('click', () => plusSlides(-1));
 </script>
+
 
 
 
