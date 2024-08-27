@@ -44,15 +44,15 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 <div class="slider">
   <div class="slides">
     <div class="slide">
-      <img src="img1.png" alt="Image 1">
+      <img src="Gallery/img_cc1.jpeg" alt="Image 1">
       <div class="caption">This is the heading of img1</div>
     </div>
     <div class="slide">
-      <img src="img2.png" alt="Image 2">
+      <img src="Gallery/img_cc2.jpeg" alt="Image 2">
       <div class="caption">This is the heading of img2</div>
     </div>
     <div class="slide">
-      <img src="img3.png" alt="Image 3">
+      <img src="Gallery/img_fossil1.jpeg" alt="Image 3">
       <div class="caption">This is the heading of img3</div>
     </div>
     <!-- Add more slides as needed -->
