@@ -80,10 +80,6 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
   </div>
-  
-  <!-- Navigation buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
 <style>
@@ -110,7 +106,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
   .slide img {
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
   }
 
   .caption {
@@ -118,73 +114,83 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     background: rgba(0, 0, 0, 0.7);
     color: #fff;
     padding: 15px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    box-sizing: border-box;
     font-size: 1em;
     word-wrap: break-word;
   }
 
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
+  /* Hide navigation icons on touch or mouse click */
+  .slider .slide, .slides {
     user-select: none;
   }
 
-  .prev {
-    left: 0;
-    border-radius: 3px 0 0 3px;
-  }
-
-  .next {
-    right: 0;
-    border-radius: 3px 3px 0 0;
-  }
-
-  .prev:hover, .next:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-  }
-
-  /* Adding animation to caption */
-  .caption {
-    animation: fadeInCaption 1s ease-in-out;
-  }
-
-  @keyframes fadeInCaption {
-    from {opacity: 0;}
-    to {opacity: 1;}
-  }
 </style>
 
 <script>
   let slideIndex = 0;
-  const slides = document.querySelectorAll('.slide');
-  
+  const slides = document.querySelector('.slides');
+  const slide = document.querySelectorAll('.slide');
+
   function showSlides() {
-    slides.forEach((slide, index) => {
-      slide.style.transform = `translateX(${-slideIndex * 100}%)`;
-    });
-    
-    slideIndex = (slideIndex + 1) % slides.length;
+    slides.style.transform = `translateX(${-slideIndex * 100}%)`;
   }
-  
+
+  // Allow sliding on touch or mouse click
+  slides.addEventListener('touchstart', handleTouchStart, false);
+  slides.addEventListener('touchmove', handleTouchMove, false);
+  slides.addEventListener('mousedown', handleMouseDown, false);
+  slides.addEventListener('mousemove', handleMouseMove, false);
+  slides.addEventListener('mouseup', handleMouseUp, false);
+
+  let xDown = null;
+  let xDiff = null;
+
+  function handleTouchStart(evt) {
+    xDown = evt.touches[0].clientX;
+  }
+
+  function handleTouchMove(evt) {
+    if (!xDown) return;
+
+    xDiff = xDown - evt.touches[0].clientX;
+    if (xDiff > 0) {
+      plusSlides(1);
+    } else {
+      plusSlides(-1);
+    }
+    xDown = null;
+  }
+
+  function handleMouseDown(evt) {
+    xDown = evt.clientX;
+  }
+
+  function handleMouseMove(evt) {
+    if (!xDown) return;
+
+    xDiff = xDown - evt.clientX;
+  }
+
+  function handleMouseUp(evt) {
+    if (xDiff > 0) {
+      plusSlides(1);
+    } else {
+      plusSlides(-1);
+    }
+    xDown = null;
+  }
+
   function plusSlides(n) {
     slideIndex += n;
-    if (slideIndex < 0) slideIndex = slides.length - 1;
-    if (slideIndex >= slides.length) slideIndex = 0;
+    if (slideIndex < 0) slideIndex = slide.length - 1;
+    if (slideIndex >= slide.length) slideIndex = 0;
     showSlides();
   }
 
-  setInterval(showSlides, 3000); // Auto-slide every 3 seconds
+  // Automatically slide every 3 seconds
+  setInterval(() => {
+    slideIndex = (slideIndex + 1) % slide.length;
+    showSlides();
+  }, 3000);
 </script>
+
 
