@@ -79,46 +79,90 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <img src="Gallery/cuetiupc3.jpg" alt="Image 9">
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
-    <!-- Add more slides as needed -->
   </div>
+  
+  <!-- Navigation buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
 <style>
   .slider {
     position: relative;
-    max-width: 100%;
+    max-width: 90%;
     margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
 
   .slides {
     display: flex;
-    overflow: hidden;
-    width: 100%;
+    transition: transform 0.5s ease;
   }
 
   .slide {
     min-width: 100%;
     box-sizing: border-box;
-    transition: transform 0.5s ease;
+    position: relative;
   }
 
   .slide img {
     width: 100%;
     height: auto;
+    border-radius: 10px;
   }
 
   .caption {
     text-align: center;
     background: rgba(0, 0, 0, 0.7);
     color: #fff;
-    padding: 10px 0;
+    padding: 15px;
     position: absolute;
     bottom: 0;
     width: 100%;
+    box-sizing: border-box;
+    font-size: 1em;
+    word-wrap: break-word;
   }
 
-  .slider:hover .slides {
-    animation-play-state: paused;
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 3px 0 0;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Adding animation to caption */
+  .caption {
+    animation: fadeInCaption 1s ease-in-out;
+  }
+
+  @keyframes fadeInCaption {
+    from {opacity: 0;}
+    to {opacity: 1;}
   }
 </style>
 
@@ -134,5 +178,13 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     slideIndex = (slideIndex + 1) % slides.length;
   }
   
-  setInterval(showSlides, 4000); // Change image every 4 seconds
+  function plusSlides(n) {
+    slideIndex += n;
+    if (slideIndex < 0) slideIndex = slides.length - 1;
+    if (slideIndex >= slides.length) slideIndex = 0;
+    showSlides();
+  }
+
+  setInterval(showSlides, 3000); // Auto-slide every 3 seconds
 </script>
+
