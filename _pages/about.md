@@ -52,7 +52,11 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">This is the heading of img2</div>
     </div>
     <div class="slide">
-      <img src="img_fossil1.jpeg" alt="Image 3">
+      <img src="Gallery/img_fossil1.jpeg" alt="Image 3">
+      <div class="caption">This is the heading of img3</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/img_fossil2.jpeg" alt="Image 3">
       <div class="caption">This is the heading of img3</div>
     </div>
     <!-- Add more slides as needed -->
