@@ -167,10 +167,10 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
   function changeSlide(step) {
     clearInterval(autoSlideInterval);
     showSlide(currentIndex + step);
-    autoSlideInterval = setInterval(() => changeSlide(1), 3000);
+    autoSlideInterval = setInterval(() => changeSlide(1), 2000);
   }
 
-  let autoSlideInterval = setInterval(() => changeSlide(1), 3000);
+  let autoSlideInterval = setInterval(() => changeSlide(1), 2000);
 
   document.querySelector('.next').addEventListener('click', () => changeSlide(1));
   document.querySelector('.prev').addEventListener('click', () => changeSlide(-1));
