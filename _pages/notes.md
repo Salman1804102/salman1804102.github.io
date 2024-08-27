@@ -13,6 +13,35 @@ Some hand notes prepared by <a href="https://scholar.google.com/citations?user=T
  * Convolutional Neural Networks <a href="https://drive.google.com/file/d/1bCqlppOAW270Q4ZEv3lI6uw0-Zs1BI23/view?usp=sharing">Note</a>.
  * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
 
+## <font color="#00cc66"> NLP Resources </font>   
+List of few books, courses and blog posts that I find really helpful.
+
+* **Collected Advices**
+   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
+   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
+   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
+   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+
+* **Important Books**
+   * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
+   * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
+   * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
+   * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
+   * Deep Learning [[link]](https://www.deeplearningbook.org/)
+
+* **Key Courses**
+   * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
+   * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
+   * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+   * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+   * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
+
+* **Guidelines to Follow**
+   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
+   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * Colah's Blog [[Link]](http://colah.github.io/).
+   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
+   
 ## <font color="#00cc66">Must Read NLP Papers </font>
 A subset of papers that I found useful in clarifying my understanding of various NLP topics. 
 <pre>
