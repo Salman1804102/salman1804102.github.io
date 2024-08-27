@@ -11,7 +11,7 @@ redirect_from:
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; height: 500px; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="Gallery/gnsfLogo.jpg" alt="GNSF Logo" style="width: 100px; height: auto; margin-right: 20px;">
+      <img src="Gallery/gnsfLogo.jpg" alt="GNSF Logo" style="width: 600px; height: auto; margin-right: 20px;">
       <div>
         <h3 style="margin: 0; font-size: 2em;">Vice President</h3>
         <p style="margin: 5px 0; font-size: 1.2em;">Greater Noakhali Students Forum, CUET</p>
@@ -22,7 +22,7 @@ redirect_from:
     <div style="position: relative; width: 100%; height: 300px; overflow: hidden; border-radius: 10px;">
       <div id="carousel" style="display: flex; transition: transform 0.5s ease;">
         <div style="width: 100%; flex-shrink: 0; position: relative; text-align: center;">
-          <img src="Gallery/gnsf.jpg" alt="img1" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="Gallery/gnsf.png" alt="img1" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
           <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img1</div>
         </div>
         <div style="width: 100%; flex-shrink: 0; position: relative; text-align: center;">
@@ -31,7 +31,7 @@ redirect_from:
         </div>
         <!-- Add more images below -->
         <div style="width: 100%; flex-shrink: 0; position: relative; text-align: center;">
-          <img src="Gallery/gnsfAdmission2.jpg" alt="img3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="Gallery/gnsfAdmission2.JPG" alt="img3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
           <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img3</div>
         </div>
         <div style="width: 100%; flex-shrink: 0; position: relative; text-align: center;">
