@@ -30,7 +30,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal [•EAI Endorsed Transaction for Scalable Information System (Indexed: Scopus, WoS, etc. Quartile: Q2, IF: 1.9)]
+<span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal [EAI Endorsed Transaction for Scalable Information System (Indexed: Scopus, WoS, etc. Quartile: Q2, IF: 1.9)]
 <span style="color:rgb(201, 76, 76)">27 June, 2024</span> Defended my undergraduate thesis titled, "Machine Learning based Fraud Incident Classification and Assistance System for Bangladeshi E-Commerce Market"
 <span style="color:rgb(201, 76, 76)">21 March, 2024</span> Presented three of our paper virtually at <a href = "https://sites.google.com/view/dravidianlangtech-2024/">DravidianLangTech2024</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>
 <span style="color:rgb(201, 76, 76)">20 March, 2024</span> Presented our paper virtually at <a href = "https://emw.ku.edu.tr/case-2024/">CASE</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a> [<a href = "https://twitter.com/caseworkshop/status/1771137001288323256">Link</a>]
@@ -39,3 +39,76 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 </pre>
 </div>
 
+## Photo Gallery
+
+<div class="slider">
+  <div class="slides">
+    <div class="slide">
+      <img src="img1.png" alt="Image 1">
+      <div class="caption">This is the heading of img1</div>
+    </div>
+    <div class="slide">
+      <img src="img2.png" alt="Image 2">
+      <div class="caption">This is the heading of img2</div>
+    </div>
+    <div class="slide">
+      <img src="img3.png" alt="Image 3">
+      <div class="caption">This is the heading of img3</div>
+    </div>
+    <!-- Add more slides as needed -->
+  </div>
+</div>
+
+<style>
+  .slider {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .slides {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .slide {
+    min-width: 100%;
+    box-sizing: border-box;
+    transition: transform 0.5s ease;
+  }
+
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+
+  .caption {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .slider:hover .slides {
+    animation-play-state: paused;
+  }
+</style>
+
+<script>
+  let slideIndex = 0;
+  const slides = document.querySelectorAll('.slide');
+  
+  function showSlides() {
+    slides.forEach((slide, index) => {
+      slide.style.transform = `translateX(${-slideIndex * 100}%)`;
+    });
+    
+    slideIndex = (slideIndex + 1) % slides.length;
+  }
+  
+  setInterval(showSlides, 3000); // Change image every 3 seconds
+</script>
