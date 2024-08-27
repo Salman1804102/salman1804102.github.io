@@ -6,16 +6,19 @@ main:
   # - title: "Teaching"
   #   url: /teach/ 
     
-  - title: "Education"
+  - title: "Education & Experience"
     url: /education/ 
-   
-  - title: "Skills"
-    url: /skills/ 
   
   - title: "Achievements"
     url: /achievements/ 
-      
-  - title: "Notes/Links"
+
+  - title: "Skills"
+    url: /skills/ 
+    
+  - title: "Leadership & Extra-Curricular"
+    url: /leadership/   
+    
+  - title: "NLP Resources"
     url: /notes 
     
   - title: "Misc"
