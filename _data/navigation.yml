@@ -6,7 +6,7 @@ main:
   # - title: "Teaching"
   #   url: /teach/ 
     
-  - title: "Education & Experience"
+  - title: "Background"
     url: /education/ 
   
   - title: "Achievements"
@@ -15,7 +15,7 @@ main:
   - title: "Skills"
     url: /skills/ 
     
-  - title: "Leadership & Extra-Curricular"
+  - title: "Leadership"
     url: /leadership/   
     
   - title: "NLP Resources"
