@@ -80,8 +80,8 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
       <div class="caption">CUET CSE Fest 2022 - Inter University Programming Contest</div>
     </div>
   </div>
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
 
 <style>
@@ -96,13 +96,13 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 
   .slides {
     display: flex;
-    transition: transform 0.5s ease;
+    transition: transform 0.5s ease-in-out;
+    width: 100%; /* Ensure slides container takes full width */
   }
 
   .slide {
     min-width: 100%;
     box-sizing: border-box;
-    position: relative;
   }
 
   .slide img {
@@ -117,21 +117,18 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     color: #fff;
     padding: 15px;
     font-size: 1em;
-    word-wrap: break-word;
   }
 
   .prev, .next {
     cursor: pointer;
     position: absolute;
     top: 50%;
-    width: auto;
     padding: 16px;
     margin-top: -22px;
     color: white;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
     user-select: none;
     background-color: rgba(0, 0, 0, 0.5);
   }
@@ -141,40 +138,44 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
     border-radius: 3px 0 0 3px;
   }
 
+  .prev {
+    left: 0;
+    border-radius: 0 3px 3px 0;
+  }
+
   .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
   }
 </style>
 
 <script>
-  let slideIndex = 0;
-  const slides = document.querySelector('.slides');
-  const slideElements = document.querySelectorAll('.slide');
+  let currentIndex = 0;
+  const slides = document.querySelectorAll('.slide');
 
-  // Show slides function
-  function showSlides() {
-    slides.style.transform = `translateX(${-slideIndex * 100}%)`;
+  function showSlide(index) {
+    if (index >= slides.length) {
+      currentIndex = 0;
+    } else if (index < 0) {
+      currentIndex = slides.length - 1;
+    } else {
+      currentIndex = index;
+    }
+    const offset = -currentIndex * 100;
+    document.querySelector('.slides').style.transform = `translateX(${offset}%)`;
   }
 
-  // Change slide automatically every 3 seconds
-  function autoSlide() {
-    slideIndex = (slideIndex + 1) % slideElements.length;
-    showSlides();
+  function changeSlide(step) {
+    clearInterval(autoSlideInterval);
+    showSlide(currentIndex + step);
+    autoSlideInterval = setInterval(() => changeSlide(1), 3000);
   }
 
-  let slideInterval = setInterval(autoSlide, 3000);
+  let autoSlideInterval = setInterval(() => changeSlide(1), 3000);
 
-  // Manual slide controls
-  function plusSlides(n) {
-    slideIndex = (slideIndex + n + slideElements.length) % slideElements.length;
-    showSlides();
-    clearInterval(slideInterval); // Clear interval to reset timer
-    slideInterval = setInterval(autoSlide, 3000); // Restart timer
-  }
-
-  document.querySelector('.next').addEventListener('click', () => plusSlides(1));
-  document.querySelector('.prev').addEventListener('click', () => plusSlides(-1));
+  document.querySelector('.next').addEventListener('click', () => changeSlide(1));
+  document.querySelector('.prev').addEventListener('click', () => changeSlide(-1));
 </script>
+
 
 
 
