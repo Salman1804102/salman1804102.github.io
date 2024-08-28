@@ -10,37 +10,37 @@ redirect_from:
 
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfLogo.jpg" alt="GNSF Logo" style="width: 80px; height: auto; margin-right: 20px;">
-      <div>
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfLogo.jpg" alt="GNSF Logo" style="width: 100px; height: auto; margin-right: 20px;">
+      <div style="text-align: center;">
         <h3 style="margin: 0; font-size: 2em;">Vice President</h3>
         <p style="margin: 5px 0; font-size: 1.2em;">Greater Noakhali Students Forum, CUET</p>
-        <p style="margin: 0; color: #6a737d; font-size: 1.1em;">Jun 2023 - Present | 1 yr 3 mos</p>
+        <p style="margin: 0; color: #6a737d; font-size: 1.1em;">Jun 2023 - Aug 2024 | 1 yr 2 mos</p>
       </div>
     </div>
 
     <div style="position: relative; width: 100%; overflow: hidden; border-radius: 10px;">
       <div id="carousel" style="display: flex; transition: transform 0.5s ease;">
         <div style="flex: 0 0 100%; text-align: center; position: relative;">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsf.png" alt="img1" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;">
-          <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img1</div>
+          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsf.png" alt="img1" style="width: 100%; height: auto; object-fit: contain; max-height: 400px; border-radius: 10px;">
+          <div style="background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px; margin-top: 10px;">Caption for img1</div>
         </div>
         <div style="flex: 0 0 100%; text-align: center; position: relative;">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfAGM.jpeg" alt="img2" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;">
-          <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img2</div>
+          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfAGM.jpeg" alt="img2" style="width: 100%; height: auto; object-fit: contain; max-height: 400px; border-radius: 10px;">
+          <div style="background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px; margin-top: 10px;">Caption for img2</div>
         </div>
         <!-- Add more images below -->
         <div style="flex: 0 0 100%; text-align: center; position: relative;">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfAdmission2.JPG" alt="img3" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;">
-          <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img3</div>
+          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfAdmission2.JPG" alt="img3" style="width: 100%; height: auto; object-fit: contain; max-height: 400px; border-radius: 10px;">
+          <div style="background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px; margin-top: 10px;">Caption for img3</div>
         </div>
         <div style="flex: 0 0 100%; text-align: center; position: relative;">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfIftar1.jpg" alt="img4" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;">
-          <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img4</div>
+          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfIftar1.jpg" alt="img4" style="width: 100%; height: auto; object-fit: contain; max-height: 400px; border-radius: 10px;">
+          <div style="background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px; margin-top: 10px;">Caption for img4</div>
         </div>
         <div style="flex: 0 0 100%; text-align: center; position: relative;">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfIftar2.jpg" alt="img5" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;">
-          <div style="position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px;">Caption for img5</div>
+          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfIftar2.jpg" alt="img5" style="width: 100%; height: auto; object-fit: contain; max-height: 400px; border-radius: 10px;">
+          <div style="background: rgba(0, 0, 0, 0.5); color: #fff; width: 100%; text-align: center; padding: 10px; margin-top: 10px;">Caption for img5</div>
         </div>
       </div>
       <a href="javascript:void(0)" onclick="slide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); text-decoration: none; font-size: 24px; color: #fff; background-color: rgba(0,0,0,0.5); padding: 10px; border-radius: 50%;">&#10094;</a>
