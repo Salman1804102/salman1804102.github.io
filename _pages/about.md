@@ -30,8 +30,10 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal [EAI Endorsed Transaction for Scalable Information System (Indexed: Scopus, WoS, etc. Quartile: Q2, IF: 1.9)]
-<span style="color:rgb(201, 76, 76)">27 June, 2024</span> Defended my undergraduate thesis titled, "Machine Learning based Fraud Incident Classification and Assistance System for Bangladeshi E-Commerce Market"
+<span style="color:rgb(201, 76, 76)">15 August, 2024</span> Submitted one of our paper in an IEEE Conference 
+<span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal 
+<span style="color:rgb(201, 76, 76)">14 July, 2024</span> Submitted one of the extended abstract in <a href = "https://symposium24.ieeecsbdc.org/">IEEE CS BDC Symposium 2024</a>
+<span style="color:rgb(201, 76, 76)">27 June, 2024</span> Defended my undergraduate thesis titled, "Fraud Incident Classification and Assistance System for Bangladeshi E-Commerce Market Using Machine Learning"
 <span style="color:rgb(201, 76, 76)">21 March, 2024</span> Presented three of our paper virtually at <a href = "https://sites.google.com/view/dravidianlangtech-2024/">DravidianLangTech2024</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>
 <span style="color:rgb(201, 76, 76)">20 March, 2024</span> Presented our paper virtually at <a href = "https://emw.ku.edu.tr/case-2024/">CASE</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a> [<a href = "https://twitter.com/caseworkshop/status/1771137001288323256">Link</a>]
 <span style="color:rgb(201, 76, 76)">17 March, 2024</span> Three paper published at <a href = "https://sites.google.com/view/dravidianlangtech-2024/">DravidianLangTech</a> workshop in <a href="https://2024.eacl.org/">EACL-2024</a>
