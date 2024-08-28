@@ -14,11 +14,11 @@ redirect_from:
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfLogo.jpg" alt="GNSF Logo" class="logo">
       <div>
         <h3 class="title">Greater Noakhali Students Forum, CUET</h3>
-        <p class="position">Vice President</p>
+        <p class="position">📌Vice President</p>
         <p class="duration">Jun 2023 - Aug 2024 | 1 yr 2 mos</p>
-        <p class="position">Joint Literature Secretary</p>
+        <p class="position">📌Joint Literature Secretary</p>
         <p class="duration">Jun 2022 - Jun 2023 | 1 yr</p>
-        <p class="position">Executive Member</p>
+        <p class="position">📌Executive Member</p>
         <p class="duration">April 2019 - June 2022 | 3 yr 2 mos</p>
       </div>
     </div>
@@ -52,6 +52,8 @@ redirect_from:
     </div>
   </div>
 </div>
+
+
 
 <style>
   .container {
@@ -88,6 +90,7 @@ redirect_from:
     margin: 5px 0;
     font-size: 1.2em;
     text-align: left;
+    font-weight: bold;
   }
 
   .duration {
@@ -95,6 +98,7 @@ redirect_from:
     color: #6a737d;
     font-size: 1.0em;
     text-align: left;
+    font-style: italic;
   }
 
   .carousel-container {
