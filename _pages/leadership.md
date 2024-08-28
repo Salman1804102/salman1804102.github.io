@@ -9,7 +9,8 @@ redirect_from:
 ## Volunteering Experience
 
 <img src="Gallery/gnsfLogo.jpg" alt="GNSF Logo" style="width: 80px; height: auto; margin-right: 20px;">
-
+<img src="gnsfLogo.jpg" alt="GNSFLogo" style="width: 80px; height: auto; margin-right: 20px;">
+<img src="img_fossil1.jpeg" alt="img" style="width: 80px; height: auto; margin-right: 20px;">
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
