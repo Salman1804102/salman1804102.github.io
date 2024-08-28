@@ -23,10 +23,10 @@ My broad research interests are in Natural Language Processing and Explainable A
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?user=lNmtUxsAAAAJ&hl=en) | [[Semantic Scholar]](https://www.semanticscholar.org/author/Salman-Farsi/2291362611)
 
 ## <font > Works in Progress </font> 
-
+<!--
 <font color="#993333">EcomFraudEX: A Machine Learning based Explainable Fraud Incident Classification Framework and Assistance System for the E-Commerce Market</font>     
 *<font >Under Review</font>*  
-
+-->
 ## <font> Conferences </font> 
      
   
