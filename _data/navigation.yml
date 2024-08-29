@@ -11,9 +11,6 @@ main:
   
   - title: "Achievements"
     url: /achievements/ 
-
-  - title: "Skills"
-    url: /skills/ 
     
   - title: "Leadership"
     url: /leadership/   
