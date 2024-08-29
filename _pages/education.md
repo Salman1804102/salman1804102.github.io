@@ -36,33 +36,47 @@ Position: <b>1<sup>st</sup>/48</b>
 
 ## Educational Background
 
+## Educational Background
+
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 20px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
-        <p style="margin: 0; font-size: 1.6em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
-        <p style="margin: 5px 0; font-size: 1.2em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
-        <p><strong>Study Period:</strong> February 2019 - May 2024</p>
-        <p><strong>CGPA:</strong> 3.80/4.00</p>
-        <p><strong>Supervisor:</strong> <a href="#" style="color: #007bff; text-decoration: none;">Dr. Mahfuzulhoq Chowdhury</a></p>
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
+        <p style="margin: 5px 0;"><strong>Study Period:</strong> February 2019 - May 2024</p>
+        <p style="margin: 5px 0;"><strong>CGPA:</strong> 3.80/4.00</p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="#" style="color: #007bff; text-decoration: none;">Dr. Mahfuzulhoq Chowdhury</a></p>
       </div>
     </div>
-    <h4 style="margin-top: 0; color: #333;">Completed Coursework</h4>
-    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 300px;">
+    <h4 style="margin-top: 0; color: #333; text-align: left;">Completed Coursework</h4>
+    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 1</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
         <p>Course 3</p>
         <!-- Add more courses here -->
       </div>
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 2</p>
         <p>Course 4</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
+        <p>Course 3</p>
         <!-- Add more courses here -->
       </div>
     </div>
   </div>
 </div>
+
 
 
 
