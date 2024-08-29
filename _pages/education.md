@@ -35,7 +35,7 @@ CGPA: <b>4.00/4.00</b>
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
-<div align="center" style="margin-bottom: 10px;>
+<div align="center" style="margin-bottom: 5px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -62,7 +62,7 @@ Position: <b>1<sup>st</sup>/48</b>
 
 
 
-<div align="center" style="margin-bottom: 10px;>
+<div align="center" style="margin-bottom: 5px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -102,7 +102,7 @@ Position: <b>1<sup>st</sup>/48</b>
 </div>
 
 
-<div align="center" style="margin-bottom: 10px;>
+<div align="center" style="margin-bottom: 5px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gsclogo.png" alt="GSC Logo" style="width: 80px; height: auto; margin-right: 15px;">
