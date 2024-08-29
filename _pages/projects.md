@@ -13,16 +13,21 @@ redirect_from:
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
+    padding: 10px;
   }
 
   .grid-item {
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
 
   .card {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 8px;
     transition: transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
 
   .card:hover {
@@ -32,7 +37,6 @@ redirect_from:
   .card img {
     width: 100%;
     height: auto;
-    display: block;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
   }
@@ -40,6 +44,7 @@ redirect_from:
   .card-body {
     padding: 15px;
     text-align: center;
+    flex-grow: 1;
   }
 
   .card-text {
@@ -47,6 +52,7 @@ redirect_from:
     font-weight: bold;
   }
 </style>
+
 
 <div class="container mt-5">
   <div class="post">
