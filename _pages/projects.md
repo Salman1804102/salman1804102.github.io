@@ -11,15 +11,20 @@ redirect_from:
 <style>
   .projects {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 1fr;
     gap: 20px;
   }
 
   .grid-item {
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
 
   .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     transition: transform 0.2s ease;
@@ -130,4 +135,5 @@ redirect_from:
     </article>
   </div>
 </div>
+
 
