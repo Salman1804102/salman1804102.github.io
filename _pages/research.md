@@ -150,6 +150,7 @@ My broad research interests are in Natural Language Processing and Explainable A
   display: inline-block;
   background-color: var(--global-theme-color);
   color: white;
+  padding: 0.5rem 1rem;
   border-radius: 5px;
   font-weight: bold;
   text-align: center;
