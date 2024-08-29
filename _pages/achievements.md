@@ -24,7 +24,17 @@ redirect_from:
   <li> <b><font color= "#737373" >High School Scholarship</font></b> (2012, 2015): Government of Bangladesh</li>
 </ul>
 
-## <font color="#00cc66">Programming Honors and Awards</font>
+## <font color="#00cc66">Programming Profile</font>
+
+I have solved 1500+ problems on various online judges and participated in many onsite and online contests
+
+<pre>
+<span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 900+ problems | <font color="#00FFFF">Specialist</font> <b>(Max Rating: 1527)</b> <a href="https://codeforces.com/profile/woolgatherer"><font color="#ff6633">[Handle: woolgatherer]</font></a> 
+<span style="color:rgb(201, 76, 76)">Codechef</span>       Solved 50+ problems | <font color="#0000FF">4 star</font> <b>(Max Rating: 1737)</b> <a href="https://www.codechef.com/users/woolgatherer"><font color="#ff6633">[Handle: woolgatherer]</font></a> 
+<span style="color:rgb(201, 76, 76)">UVA</span>            Solved 80+ problems 
+<span style="color:rgb(201, 76, 76)">LightOJ</span>        Solved 80+ problems 
+</pre>
+
 <ul>
   <li> <b><font color= "#737373" >Codeforces:</font></b> Specialist (Max Rating 1527) | <b><font color= "#737373" >Codechef:</font></b> 4 star(Max Rating 1737)</li>
   <li> <b><font color= "#737373" >3857th (Top 11%)</font></b> : Meta Hacker Cup - Qualification Round (2021)</li>
