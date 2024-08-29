@@ -68,40 +68,36 @@ redirect_from:
 
   .header {
     display: flex;
-    align-items: center;
+    align-items: center
     justify-content: center;
     margin-bottom: 20px;
   }
 
   .logo {
-    width: 150px; /* Increased size */
+    width: 100px;
     height: auto;
-    margin-right: 20px; /* Fixed margin between logo and text */
+    margin-right: 20px;
   }
 
-  .title {
+  .title
+  {
     margin: 0;
-    font-size: 3em; /* Increased font size */
+    font-size: 2.5em;
     text-align: left;
     font-weight: bold;
   }
 
-  .header div {
-    margin-left: 10px; /* Margin between the title and the text block */
-  }
-
   .position {
-    margin-top: 15px; /* Additional margin after the title */
-    margin-bottom: 5px;
-    font-size: 1.5em; /* Adjusted font size for better visibility */
+    margin: 5px 0 5px 5px;
+    font-size: 1.2em;
     text-align: left;
     font-weight: bold;
   }
 
   .duration {
-    margin: 0 0 15px 0; /* Margin after each position and duration block */
+    margin: 0 0 0 8px;
     color: #6a737d;
-    font-size: 1.2em; /* Slightly increased font size */
+    font-size: 1.0em;
     text-align: left;
     font-style: italic;
   }
