@@ -56,106 +56,37 @@ redirect_from:
 
 
 <style>
-  .container {
-    border: 2px solid #e1e4e8;
-    border-radius: 10px;
-    padding: 20px;
-    max-width: 100%;
-    margin: auto;
-    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
-    background-color: #fff;
-  }
-
-  .header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-
   .logo {
-    width: 100px;
+    width: 150px; /* Increased size */
     height: auto;
-    margin-right: 20px;
+    margin-right: 20px; /* Fixed margin between logo and text */
   }
-
-  .title
-  {
+  
+  .title {
     margin: 0;
-    font-size: 2.5em;
+    font-size: 3em; /* Increased font size */
     text-align: left;
     font-weight: bold;
   }
-
+  
+  .header div {
+    margin-left: 10px; /* Margin between the title and the text block */
+  }
+  
   .position {
-    margin: 5px 0;
-    font-size: 1.2em;
+    margin-top: 15px; /* Additional margin after the title */
+    margin-bottom: 5px;
+    font-size: 1.5em; /* Adjusted font size for better visibility */
     text-align: left;
     font-weight: bold;
   }
-
+  
   .duration {
-    margin: 0;
+    margin: 0 0 15px 0; /* Margin after each position and duration block */
     color: #6a737d;
-    font-size: 1.0em;
+    font-size: 1.2em; /* Slightly increased font size */
     text-align: left;
     font-style: italic;
-  }
-
-  .carousel-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    border-radius: 10px;
-    height: 600px; /* Increased height to allow larger images */
-  }
-
-  .carousel {
-    display: flex;
-    transition: transform 0.5s ease;
-  }
-
-  .slide {
-    flex: 0 0 100%;
-    text-align: center;
-    position: relative;
-  }
-
-  .slide-image {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    max-height: 550px; /* Increased max-height for larger images */
-    border-radius: 10px;
-  }
-
-  .caption {
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
-    width: 100%;
-    text-align: center;
-    padding: 10px;
-    margin-top: 10px;
-  }
-
-  .nav-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    text-decoration: none;
-    font-size: 24px;
-    color: #fff;
-    background-color: rgba(0,0,0,0.5);
-    padding: 10px;
-    border-radius: 50%;
-  }
-
-  .nav-button.left {
-    left: 10px;
-  }
-
-  .nav-button.right {
-    right: 10px;
   }
 </style>
 
