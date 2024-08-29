@@ -38,9 +38,9 @@ Position: <b>1<sup>st</sup>/48</b>
 
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 20px;">
-      <div style="text-align: left; flex-grow: 1;">
+      <div style="text-align: left;">
         <p style="margin: 0; font-size: 2.0em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
         <p style="margin: 5px 0; font-size: 1.2em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
         <p><strong>Study Period:</strong> February 2019 - May 2024</p>
@@ -63,6 +63,7 @@ Position: <b>1<sup>st</sup>/48</b>
     </div>
   </div>
 </div>
+
 
 
 ## <font color="#00cc66"> Academic Appointments </font>
