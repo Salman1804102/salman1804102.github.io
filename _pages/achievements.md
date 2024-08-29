@@ -1,13 +1,13 @@
 ---
 title: "Achievements"
-excerpt: ""
+excerpt: "Honors and Awards"
 author_profile: true
 permalink: /achievements/
 redirect_from: 
   - /about.html
 ---
   
-## <font color="#00cc66">Machine Learning Honors and Awards</font>
+## <font color="#00cc66">Machine Learning Contest</font>
 <ul>
   <li> <b><font color= "#737373" >Champion</font></b>: Fake news detection shared task (subtask - 02), DravidianLangTech, EACL-2024</li>  
   <li> <b><font color= "#737373" >Champion</font></b>: Hate speech event detection shared task (subtask - 01), CASE, EACL-2024</li>  
@@ -17,14 +17,14 @@ redirect_from:
   <li> <b><font color= "#737373" >3<sup>rd</sup> position</font></b>: Sentiment analysis shared task (subtask - 02), DravidianLangTech, EACL-2024</li>
 </ul>
 
-## <font color="#00cc66">Academic Honors and Awards</font>
+## <font color="#00cc66">Academic</font>
 <ul>
   <li> <b><font color= "#737373" >Dean Award</font></b> (Undergraduate): To get higher CGPA than 3.75</li>
   <li> <b><font color= "#737373" >Technical Scholarship</font></b> (All 8 semesters): To get position among top 50% students in the class</li>
   <li> <b><font color= "#737373" >High School Scholarship</font></b> (2012, 2015): Government of Bangladesh</li>
 </ul>
 
-## <font color="#00cc66">Programming Profile</font>
+## <font color="#00cc66">Competitive Programming</font>
 
 I have solved 1500+ problems on various online judges and participated in many onsite and online contests
 
