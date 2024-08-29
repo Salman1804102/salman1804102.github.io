@@ -43,14 +43,14 @@ Position: <b>1<sup>st</sup>/48</b>
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
-        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
         <p style="margin: 5px 0;"><strong>Study Period:</strong> February 2019 - May 2024</p>
         <p style="margin: 5px 0;"><strong>CGPA:</strong> 3.80/4.00</p>
-        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="#" style="color: #007bff; text-decoration: none;">Dr. Mahfuzulhoq Chowdhury</a></p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Dr. Mahfuzulhoq Chowdhury</a></p>
       </div>
     </div>
-    <h4 style="margin-top: 0; color: #333; text-align: left;">Completed Coursework</h4>
+    <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 1</p>
