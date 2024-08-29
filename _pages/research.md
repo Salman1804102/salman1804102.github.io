@@ -91,8 +91,8 @@ My broad research interests are in Natural Language Processing and Explainable A
             </a>
           </div>
         </div>
-        <div class="badge-container">
-          <p>DravidianLangTech-2024</p>
+        <div>
+          <p class="badge-container">DravidianLangTech-2024</p>
         </div>
       </div>
     </li>
@@ -150,7 +150,6 @@ My broad research interests are in Natural Language Processing and Explainable A
   display: inline-block;
   background-color: var(--global-theme-color);
   color: white;
-  padding: 0.5rem 1rem;
   border-radius: 5px;
   font-weight: bold;
   text-align: center;
