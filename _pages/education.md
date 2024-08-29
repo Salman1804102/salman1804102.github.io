@@ -41,14 +41,14 @@ Position: <b>1<sup>st</sup>/48</b>
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 20px;">
       <div style="text-align: left;">
-        <p style="margin: 0; font-size: 2.0em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
+        <p style="margin: 0; font-size: 1.6em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
         <p style="margin: 5px 0; font-size: 1.2em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
         <p><strong>Study Period:</strong> February 2019 - May 2024</p>
         <p><strong>CGPA:</strong> 3.80/4.00</p>
         <p><strong>Supervisor:</strong> <a href="#" style="color: #007bff; text-decoration: none;">Dr. Mahfuzulhoq Chowdhury</a></p>
       </div>
     </div>
-    <h3 style="margin-top: 0; color: #333;">Completed Coursework</h3>
+    <h4 style="margin-top: 0; color: #333;">Completed Coursework</h4>
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 300px;">
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 1</p>
