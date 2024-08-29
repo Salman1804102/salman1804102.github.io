@@ -11,20 +11,15 @@ redirect_from:
 <style>
   .projects {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-auto-rows: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
   }
 
   .grid-item {
-    display: flex;
-    flex-direction: column;
+    overflow: hidden;
   }
 
   .card {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     transition: transform 0.2s ease;
@@ -64,17 +59,6 @@ redirect_from:
 
     <article>
       <div class="projects grid">
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/E-Complaint-Android-Application-Flutter" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/e-complaint.jpg" alt="E-Complaint Android Application thumbnail" />
-              <div class="card-body">
-                <p class="card-text">E-Complaint Android Application (Flutter)</p>
-              </div>
-            </div>
-          </a>
-        </div>
 
         <div class="grid-item">
           <a href="https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL" target="_blank">
@@ -130,10 +114,22 @@ redirect_from:
             </div>
           </a>
         </div>
+        
+       <div class="grid-item">
+          <a href="https://github.com/Salman1804102/E-Complaint-Android-Application-Flutter" target="_blank">
+            <div class="card hoverable">
+              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/e-complaint.jpg" alt="E-Complaint Android Application thumbnail" />
+              <div class="card-body">
+                <p class="card-text">E-Complaint Android Application (Flutter)</p>
+              </div>
+            </div>
+          </a>
+        </div>
 
       </div>
     </article>
   </div>
 </div>
+
 
 
