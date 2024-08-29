@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<!---
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *M.Sc. in Computer Science and Engineering*   
 Study Period: <b>September 2024 - Present</b><br>  
@@ -28,7 +29,7 @@ GPA: <b>4.67/5.00</b>
 Study Period: <b>January 2010 - February 2015</b><br>
 GPA: <b>5.00/5.00</b>
 
-<!---
+
 Position: <b>1<sup>st</sup>/103</b>
 CGPA: <b>4.00/4.00</b>  
 Position: <b>1<sup>st</sup>/48</b>
@@ -36,12 +37,35 @@ Position: <b>1<sup>st</sup>/48</b>
 
 ## Educational Background
 
-## Educational Background
+<div align="center">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>M.Sc. in Computer Science and Engineering</strong></p>
+        <p style="margin: 5px 0;"><strong>Study Period:</strong> September 2024 - Present</p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Dr. Mahfuzulhoq Chowdhury</a></p>
+      </div>
+    </div>
+    <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
+    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
+      <div style="width: 48%; word-wrap: break-word;">
+        <p>Course 1</p>
+        <!-- Add more courses here -->
+      </div>
+      <div style="width: 48%; word-wrap: break-word;">
+        <p>Course 2</p>
+        <!-- Add more courses here -->
+      </div>
+    </div>
+  </div>
+</div>
 
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 100px; height: auto; margin-right: 15px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
@@ -77,8 +101,33 @@ Position: <b>1<sup>st</sup>/48</b>
   </div>
 </div>
 
+<div align="center">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gsclogo.png" alt="GSC Logo" style="width: 80px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Government Science College (GSC), Dhaka</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Higher Secondary School Certificate Examination (HSC)</strong></p>
+        <p style="margin: 5px 0;"><strong>Study Period:</strong> June 2015 - April 2018</p>
+        <p style="margin: 5px 0;"><strong>GPA:</strong> 4.67/5.00</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-
+<div align="center">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/bazra.jpeg" alt="BHS Logo" style="width: 80px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Bazra M L High School, Noakhali</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Secondary School Certificate Examination (SSC)</strong></p>
+        <p style="margin: 5px 0;"><strong>Study Period:</strong> January 2010 - February 2015</p>
+        <p style="margin: 5px 0;"><strong>GPA:</strong> 5.00/5.00</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## <font color="#00cc66"> Academic Appointments </font>
 
