@@ -32,7 +32,6 @@ My broad research interests are in Natural Language Processing and Explainable A
 ## <font > Workshops </font>
 
 <div class="publications">
-  <h1>Research Publications</h1>
   <ol class="bibliography">
       <!-- Paper 1 -->
       <li>
@@ -47,7 +46,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d">Salman Farsi</span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
                       <em>In Proc. of DravidianLangTech-2024</em>, 2024
@@ -80,7 +79,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d">Salman Farsi</span>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher, & Mohammed Moshiul Hoque
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
                       <em>In Proc. of DravidianLangTech-2024</em>, 2024
@@ -116,7 +115,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d">Salman Farsi</span>, Asrarul Hoque Eusha, & Mohammed Shamsul Arefin
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Shamsul Arefin
                   </div>
                   <div class="periodical">
                       <em>In Proc. of DravidianLangTech-2024</em>, 2024
@@ -152,7 +151,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d">Salman Farsi</span>, Asrarul Hoque Eusha, Ariful Islam, & Mohammed Moshiul Hoque
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
                       <em>In Proc. of DravidianLangTech-2024</em>, 2024
@@ -248,13 +247,11 @@ My broad research interests are in Natural Language Processing and Explainable A
 }
 </style> 
   
-
-## <font > Others [Mentorship] </font>
 <!--
+## <font > Others [Mentorship] </font>
 <div class="publications">
   <h1>Research Publications</h1>
   <ol class="bibliography">
-    <!-- Paper 1 -->
     <li>
       <div class="publication-item">
         <div class="publication-content">
@@ -264,7 +261,7 @@ My broad research interests are in Natural Language Processing and Explainable A
             </a>
           </div>
           <div class="author">
-            <span style="color:#2d862d">Salman Farsi</span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
+            <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
           </div>
           <div class="periodical">
             <em>In Proc. of DravidianLangTech-2024</em>, 2024
@@ -286,9 +283,6 @@ My broad research interests are in Natural Language Processing and Explainable A
         </div>
       </div>
     </li>
-
-    <!-- Additional Papers go here in the same format -->
-
   </ol>
 </div>
 -->
