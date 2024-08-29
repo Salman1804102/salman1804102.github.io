@@ -35,8 +35,6 @@ CGPA: <b>4.00/4.00</b>
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
-## Educational Background
-
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -45,7 +43,7 @@ Position: <b>1<sup>st</sup>/48</b>
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Chittagong University of Engineering and Technology (CUET)</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>M.Sc. in Computer Science and Engineering</strong></p>
         <p style="margin: 5px 0;"><strong>Study Period:</strong> September 2024 - Present</p>
-        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Dr. Mahfuzulhoq Chowdhury</a></p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Mahfuzulhoq Chowdhury</a></p>
       </div>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
@@ -62,6 +60,8 @@ Position: <b>1<sup>st</sup>/48</b>
   </div>
 </div>
 
+
+
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -71,7 +71,7 @@ Position: <b>1<sup>st</sup>/48</b>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
         <p style="margin: 5px 0;"><strong>Study Period:</strong> February 2019 - May 2024</p>
         <p style="margin: 5px 0;"><strong>CGPA:</strong> 3.80/4.00</p>
-        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Dr. Mahfuzulhoq Chowdhury</a></p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Mahfuzulhoq Chowdhury</a></p>
       </div>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
@@ -101,9 +101,10 @@ Position: <b>1<sup>st</sup>/48</b>
   </div>
 </div>
 
+
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gsclogo.png" alt="GSC Logo" style="width: 80px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Government Science College (GSC), Dhaka</p>
@@ -117,7 +118,7 @@ Position: <b>1<sup>st</sup>/48</b>
 
 <div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/bazra.jpeg" alt="BHS Logo" style="width: 80px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Bazra M L High School, Noakhali</p>
@@ -130,10 +131,25 @@ Position: <b>1<sup>st</sup>/48</b>
 </div>
 
 ## <font color="#00cc66"> Academic Appointments </font>
-
+<!---
  **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
  *CUET NLP Lab*
+ -->
+<div align="center">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/nlplab.jpg" alt="NLPLAB Logo" style="width: 80px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">CUET NLP Lab</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Published Three Conference Papers in EACL2024</strong></p>
+        <p style="margin: 5px 0;"><strong>Study Period:</strong> November 2023 - Present</p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Moshiul Hoque</a></p>
+      </div>
+    </div>
+  </div>
+</div>
 
+<!---
 ## <font color="#00cc66"> Certifications </font>
 
 **HackerRank Problem Solving Intermediate**   
@@ -151,3 +167,4 @@ Position: <b>1<sup>st</sup>/48</b>
 [*<font color="#ff6633">[Enrolled]</font>*](https://www.coursera.org/specializations/natural-language-processing?)
    * Will learn about recurrent neural networks, LSTMs, GRUs & Siamese network in TensorFlow & Trax for sentiment analysis, text generation & named entity recognition.
    * Will apply encoder-decoder & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
+-->
