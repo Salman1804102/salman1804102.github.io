@@ -20,7 +20,7 @@ redirect_from:
   }
 
   .card {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 8px;
     transition: transform 0.2s ease;
   }
