@@ -68,7 +68,7 @@ redirect_from:
 
   .header {
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     margin-bottom: 20px;
   }
