@@ -28,7 +28,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 
 
 ## <font color="#00cc66"> Updates </font>
-<div style="height: 400px; overflow: auto;">
+<div style="height: 300px; overflow: auto;">
 <pre>
 <span style="color:rgb(201, 76, 76)">15 August, 2024</span> Submitted one of our paper in an IEEE Conference 
 <span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal 
@@ -41,7 +41,18 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 </pre>
 </div>
 
-## Photo Gallery
+## <font color="#00cc66">Skills</font>
+
+<pre>
+<span style="color:rgb(201, 76, 76)">Programming Language</span>   C, C++, Python
+<span style="color:rgb(201, 76, 76)">FrontEnd</span>               HTML5, CSS3, Bootstrap, Flutter
+<span style="color:rgb(201, 76, 76)">Database</span>               Firebase, MySQL
+<span style="color:rgb(201, 76, 76)">Tools</span>                  Git and Latex
+<span style="color:rgb(201, 76, 76)">Libraries</span>              TensorFlow, Keras, NLTK, Scikit-learn, Gensim, and Pytorch 
+<span style="color:rgb(201, 76, 76)">Other</span>                  Time Management, Event Managment and Team Work
+</pre>
+
+## <font color="#00cc66"> Photo Gallery </font>
 
 <div class="slider">
   <div class="slides">
