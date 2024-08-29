@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Salman Farsi | (সালমান ফারসী)"
 title_separator          : "-"
 name                     : &name "Salman Farsi"
-description              : &description ""
+description              : &description "Salman Farsi's personal website showcasing his projects, research, and professional background."
 url                      : "https://salman1804102.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "salman1804102/salman1804102.github.io"
@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  Gallery/image.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -267,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag  # Add this line for SEO
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
