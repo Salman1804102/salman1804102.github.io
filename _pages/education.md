@@ -116,7 +116,7 @@ Position: <b>1<sup>st</sup>/48</b>
   </div>
 </div>
 
-<div align="center" style="margin-bottom: 10px;>
+<div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/bazra.jpeg" alt="BHS Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -135,7 +135,7 @@ Position: <b>1<sup>st</sup>/48</b>
  **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
  *CUET NLP Lab*
  -->
-<div align="center" style="margin-bottom: 10px;>
+<div align="center">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/nlplab.jpg" alt="NLPLAB Logo" style="width: 80px; height: auto; margin-right: 15px;">
