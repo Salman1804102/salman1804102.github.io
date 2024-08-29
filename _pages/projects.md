@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: ""
 excerpt: "My Projects"
 author_profile: true
 permalink: /projects/
@@ -7,6 +7,46 @@ redirect_from:
   - /about.html
 ---
 
+
+<style>
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+
+  .grid-item {
+    overflow: hidden;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+  .card-body {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .card-text {
+    margin: 0;
+    font-weight: bold;
+  }
+</style>
 
 <div class="container mt-5">
   <div class="post">
@@ -19,14 +59,13 @@ redirect_from:
 
     <article>
       <div class="projects grid">
-
+        
         <div class="grid-item">
           <a href="https://github.com/Salman1804102/E-Complaint-Android-Application-Flutter" target="_blank">
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/e-complaint.jpg" alt="E-Complaint Android Application thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>E-Complaint Android Application (Flutter)</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">E-Complaint Android Application (Flutter)</p>
               </div>
             </div>
           </a>
@@ -37,8 +76,7 @@ redirect_from:
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/brickbreaker.png" alt="Bricks Breaker Game thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>Bricks Breaker Game (Graphics with OpenGL)</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">Bricks Breaker Game (Graphics with OpenGL)</p>
               </div>
             </div>
           </a>
@@ -49,8 +87,7 @@ redirect_from:
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/flex.PNG" alt="Flex Project Compiler Design thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>Flex Project (Compiler Design)</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">Flex Project (Compiler Design)</p>
               </div>
             </div>
           </a>
@@ -61,8 +98,7 @@ redirect_from:
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/HOLD.PNG" alt="Hate Speech Detection in Dravidian Languages thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>Hate Speech Detection in Dravidian Languages</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">Hate Speech Detection in Dravidian Languages</p>
               </div>
             </div>
           </a>
@@ -73,8 +109,7 @@ redirect_from:
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/Fake.PNG" alt="Fake News Detection in Dravidian Languages thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>Fake News Detection in Dravidian Languages</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">Fake News Detection in Dravidian Languages</p>
               </div>
             </div>
           </a>
@@ -85,8 +120,7 @@ redirect_from:
             <div class="card hoverable">
               <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/case.PNG" alt="CASE Task EACL 2024 thumbnail" />
               <div class="card-body">
-                <p class="card-text"><b>Hate Speech Event Detection, Target Detection and Stance Classification</b></p>
-                <div class="row ml-1 mr-1 p-0"></div>
+                <p class="card-text">Hate Speech Event Detection, Target Detection and Stance Classification</p>
               </div>
             </div>
           </a>
@@ -96,3 +130,4 @@ redirect_from:
     </article>
   </div>
 </div>
+
