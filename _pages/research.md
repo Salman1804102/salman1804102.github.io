@@ -149,14 +149,17 @@ My broad research interests are in Natural Language Processing and Explainable A
   margin-left: 1rem;
 }
 
-.publications ol.bibliography li .abbr abbr {
+.publications ol.bibliography li .abbr {
   display: inline-block;
   background-color: var(--global-theme-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
   color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
 }
 
+/* Additional Styles */
 .publications ol.bibliography li .title {
   font-weight: bolder;
   color: brown;
@@ -182,6 +185,7 @@ My broad research interests are in Natural Language Processing and Explainable A
   border-color: var(--global-theme-color);
 }
 </style>
+
 
 
 
