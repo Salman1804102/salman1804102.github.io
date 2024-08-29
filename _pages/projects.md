@@ -1,12 +1,12 @@
 ---
-permalink: /
 title: "Projects"
 excerpt: "My Projects"
 author_profile: true
+permalink: /projects/
 redirect_from: 
-  - /about/
   - /about.html
 ---
+
 
 <div class="container mt-5">
   <div class="post">
