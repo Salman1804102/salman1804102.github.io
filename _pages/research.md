@@ -7,14 +7,32 @@ permalink: /research/
 
 My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
 
- * Large Language Models, Information Extraction, Multilingual and low‐resource NLP
- * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate, stance) content classification]
+ * Information Extraction, Multilingual and low‐resource NLP, Social Computing [Important (aggressive, abusive, fake, hate, stance) content classification]
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
+ * Explainable AI
  
-
+<!--
 # <font color="#00cc66"> Publications </font> 
 
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?user=lNmtUxsAAAAJ&hl=en) | [[Semantic Scholar]](https://www.semanticscholar.org/author/Salman-Farsi/2291362611)
+-->
+
+<div class="publications">
+<h1>Publications</h1>
+<div style="text-align: center; margin: 20px 0;">
+  <p style="font-size: 1.2em; font-weight: bold; color: #333;">
+    To get the full list of my papers, please check:
+  </p>
+  <div style="font-size: 1.1em;">
+    <a href="https://scholar.google.com/citations?user=lNmtUxsAAAAJ&hl=en" target="_blank" style="color: #007bff; text-decoration: none; margin-right: 10px;">
+      <strong>Google Scholar</strong>
+    </a>
+    <span style="color: #333; font-weight: bold;">|</span>
+    <a href="https://www.semanticscholar.org/author/Salman-Farsi/2291362611" target="_blank" style="color: #007bff; text-decoration: none; margin-left: 10px;">
+      <strong>Semantic Scholar</strong>
+    </a>
+  </div>
+</div>
 
 ## <font > Works in Progress </font> 
 <!--
@@ -24,8 +42,6 @@ My broad research interests are in Natural Language Processing and Explainable A
 ## <font> Conferences </font> 
 
 
-
-  
 ## <font > Journals </font>  
 
 
