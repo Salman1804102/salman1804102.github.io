@@ -6,7 +6,9 @@ permalink: /achievements/
 redirect_from: 
   - /about.html
 ---
- ## <font color="#00cc66">Academic</font>
+
+## <font color="#00cc66">Academic</font>
+
 <ul>
   <li> <b><font color= "#737373" >Dean Award</font></b> (Undergraduate): To get higher CGPA than 3.75</li>
   <li> <b><font color= "#737373" >Technical Scholarship</font></b> (All 8 undergraduate semesters): To get position among top 50% students in the class</li>
@@ -14,6 +16,7 @@ redirect_from:
 </ul>
 
 ## <font color="#00cc66">Machine Learning Contest</font>
+
 <ul>
   <li> <b><font color= "#737373" >Champion</font></b>: Fake news detection shared task (subtask - 02), DravidianLangTech, EACL-2024</li>  
   <li> <b><font color= "#737373" >Champion</font></b>: Hate speech event detection shared task (subtask - 01), CASE, EACL-2024</li>  
