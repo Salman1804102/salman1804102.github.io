@@ -96,44 +96,37 @@ Position: <b>1<sup>st</sup>/48</b>
       </div>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
-    <!--
-    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
-     <div style="width: 48%; word-wrap: break-word;">
-      <p>CSE-111: Discrete Mathematics</p>
-      <p>CSE-121: Digital Logic Design</p>
-      <p>CSE-143: Object Oriented Programming</p>
-      <p>CSE-223: Digital Electronics and Pulse Technique</p>
-      <p>CSE-241: Data Structure</p>
-      <p>CSE-243: Algorithm Design and Analysis</p>
-      <p>CSE-251: Database Management Systems</p>
-      <p>CSE-311: Computer Networks</p>
-      <p>CSE-321: Computer Architecture</p>
-      <p>CSE-331: Theory of Computing</p>
-      <p>CSE-333: Microprocessors and Assembly Language Programming</p>
-      <p>CSE-423: Digital System Design</p>
-      <p>CSE-431: Compiler Design</p>
-      <p>CSE-433: Software Engineering</p>
-      <p>CSE-435: Information Security</p>
-    </div>
-    <div style="width: 48%; word-wrap: break-word;">
-      <p>CSE-335: Operating Systems</p>
-      <p>CSE-337: Computer Peripherals and Interfacing</p>
-      <p>CSE-345: Artificial Intelligence</p>
-      <p>CSE-353: System Analysis and Design</p>
-      <p>CSE-357: Computer Graphics</p>
-      <p>CSE-363: Machine Learning</p>
-      <p>CSE-431: Compiler Design</p>
-      <p>CSE-435: Information Security</p>
-      <p>CSE-457: Computer Graphics</p>
-      <p>CSE-463: Machine Learning</p>
-      <p>CSE-489: Software Architecture</p>
-      <p>CSE-489: Software Architecture</p>
-      <p>CSE-113: Microprocessors and Assembly Language Programming</p>
-      <p>CSE-133: Data Communication</p>
-      <p>CSE-135: Numerical Analysis</p>
+    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px; gap: 20px;">
+      <div style="width: 48%; text-align: left; word-wrap: break-word;">
+        <p>CSE-111: Discrete Mathematics</p>
+        <p>CSE-121: Digital Logic Design</p>
+        <p>CSE-143: Object Oriented Programming</p>
+        <p>CSE-223: Digital Electronics and Pulse Technique</p>
+        <p>CSE-241: Data Structure</p>
+        <p>CSE-243: Algorithm Design and Analysis</p>
+        <p>CSE-245: Numerical Analysis</p>
+        <p>CSE-251: Database Management Systems</p>
+        <p>CSE-311: Computer Networks</p>
+        <p>CSE-313: Data Communication</p>
+        <p>CSE-321: Computer Architecture</p>
+        <p>CSE-331: Theory of Computing</p>
+        <p>CSE-333: Microprocessors and Assembly Language Programming</p>
+        <p>CSE-335: Operating Systems</p>
+        <p>CSE-337: Computer Peripherals and Interfacing</p>
       </div>
+      <div style="width: 48%; text-align: left; word-wrap: break-word;">
+        <p>CSE-345: Artificial Intelligence</p>
+        <p>CSE-353: System Analysis and Design</p>
+        <p>CSE-423: Digital System Design</p>
+        <p>CSE-431: Compiler Design</p>
+        <p>CSE-433: Software Engineering</p>
+        <p>CSE-435: Information Security</p>
+        <p>CSE-457: Computer Graphics</p>
+        <p>CSE-463: Machine Learning</p>
+        <p>CSE-489: Software Architecture</p>
     </div>
-    -->
+  </div>
+    <!--
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px; flex-wrap: wrap; gap: 20px;">
   <div style="width: 200px;">
     <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-111: Discrete Mathematics</p>
@@ -217,7 +210,7 @@ Position: <b>1<sup>st</sup>/48</b>
 
   </div>
 </div>
-
+-->
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
