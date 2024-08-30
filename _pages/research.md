@@ -37,7 +37,7 @@ My broad research interests are in Natural Language Processing and Explainable A
       <li>
           <div class="row">
               <div class="col-sm-2 abbr">
-                  <abbr class="badge">DravidianLangTech-2024</abbr>
+                  <abbr class="badge">EACL-2024</abbr>
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
@@ -49,7 +49,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>In Proc. of DravidianLangTech-2024</em>, 2024
+                      <em>In 𝙋𝙧𝙤𝙘𝙚𝙚𝙙𝙞𝙣𝙜𝙨 𝙤𝙛 𝙁𝙤𝙪𝙧𝙩𝙝 𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 𝙤𝙣 𝙎𝙥𝙚𝙚𝙘𝙝 𝙑𝙞𝙨𝙞𝙤𝙣 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙛𝙤𝙧 𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 (𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣𝙇𝙖𝙣𝙜𝙏𝙚𝙘𝙝-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
@@ -70,7 +70,7 @@ My broad research interests are in Natural Language Processing and Explainable A
       <li>
           <div class="row">
               <div class="col-sm-2 abbr">
-                  <abbr class="badge">DravidianLangTech-2024</abbr>
+                  <abbr class="badge">EACL-2024</abbr>
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
@@ -82,7 +82,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>In Proc. of DravidianLangTech-2024</em>, 2024
+                      <em>In 𝙋𝙧𝙤𝙘𝙚𝙚𝙙𝙞𝙣𝙜𝙨 𝙤𝙛 𝙁𝙤𝙪𝙧𝙩𝙝 𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 𝙤𝙣 𝙎𝙥𝙚𝙚𝙘𝙝 𝙑𝙞𝙨𝙞𝙤𝙣 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙛𝙤𝙧 𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 (𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣𝙇𝙖𝙣𝙜𝙏𝙚𝙘𝙝-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
@@ -106,7 +106,7 @@ My broad research interests are in Natural Language Processing and Explainable A
       <li>
           <div class="row">
               <div class="col-sm-2 abbr">
-                  <abbr class="badge">DravidianLangTech-2024</abbr>
+                  <abbr class="badge">EACL-2024</abbr>
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
@@ -118,7 +118,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Shamsul Arefin
                   </div>
                   <div class="periodical">
-                      <em>In Proc. of DravidianLangTech-2024</em>, 2024
+                      <em>𝙋𝙧𝙤𝙘𝙚𝙚𝙙𝙞𝙣𝙜𝙨 𝙤𝙛 𝙩𝙝𝙚 7𝙩𝙝 𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 𝙤𝙣 𝘾𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚𝙨 𝙖𝙣𝙙 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙤𝙛 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙚𝙙 𝙀𝙭𝙩𝙧𝙖𝙘𝙩𝙞𝙤𝙣 𝙤𝙛 𝙎𝙤𝙘𝙞𝙤 𝙥𝙤𝙡𝙞𝙩𝙞𝙘𝙖𝙡 𝙀𝙫𝙚𝙣𝙩𝙨 𝙛𝙧𝙤𝙢 𝙏𝙚𝙭𝙩 (𝘾𝘼𝙎𝙀-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
@@ -142,7 +142,7 @@ My broad research interests are in Natural Language Processing and Explainable A
       <li>
           <div class="row">
               <div class="col-sm-2 abbr">
-                  <abbr class="badge">DravidianLangTech-2024</abbr>
+                  <abbr class="badge">EACL-2024</abbr>
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
@@ -154,7 +154,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>In Proc. of DravidianLangTech-2024</em>, 2024
+                      <em>In 𝙋𝙧𝙤𝙘𝙚𝙚𝙙𝙞𝙣𝙜𝙨 𝙤𝙛 𝙁𝙤𝙪𝙧𝙩𝙝 𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 𝙤𝙣 𝙎𝙥𝙚𝙚𝙘𝙝 𝙑𝙞𝙨𝙞𝙤𝙣 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙛𝙤𝙧 𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 (𝘿𝙧𝙖𝙫𝙞𝙙𝙞𝙖𝙣𝙇𝙖𝙣𝙜𝙏𝙚𝙘𝙝-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
