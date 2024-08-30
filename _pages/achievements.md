@@ -58,8 +58,31 @@ I have solved 1500+ problems on various online judges and participated in many o
 
 ## <font color="#00cc66">Certificates</font>
 
+<div align="center" margin-bottom: 20px;>
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
 
-<div align="center">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/googlelogo.png" alt="Google Logo" style="width: 80px; height: auto; margin-right: 25px;">
+      
+      <div style="flex-grow: 1; text-align: left;">
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">Introduction to Git and GitHub</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date: </strong>19 November 2023</p>
+        <ul style="margin: 5px 0; padding-left: 20px; list-style-type: disc;">
+          <li>Learned version control with Git</li>
+          <li>Understanding of GitHub for collaboration</li>
+          <li>Basic Git commands and repository management</li>
+        </ul>
+        <p style="margin: 5px 0; font-size: 1.0em;">
+          <a href="https://www.coursera.org/account/accomplishments/certificate/HEKVTYKJZGPG" target="_blank" style="color: #007bff; text-decoration: none;">
+            <strong>Show Credentials 🔗</strong>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div align="center" margin-bottom: 20px;>
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
 
@@ -69,11 +92,60 @@ I have solved 1500+ problems on various online judges and participated in many o
         <p style="margin: 0; font-size: 1.5em; font-weight: bold;">HackerRank Problem Solving (Intermediate)</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date: </strong>20 October, 2023</p>
         <ul style="margin: 5px 0; padding-left: 20px; list-style-type: disc;">
-          <li>Key Needed to Solve Two Problems</li>
-          <li>Key Intermediate Data Structures and Algorithm</li>
+          <li>Needed to Solve Two Problems</li>
+          <li>Intermediate Data Structures and Algorithm</li>
         </ul>
         <p style="margin: 5px 0; font-size: 1.0em;">
           <a href="https://www.hackerrank.com/certificates/46d4f5be4923" target="_blank" style="color: #007bff; text-decoration: none;">
+            <strong>Show Credentials 🔗</strong>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div align="center" margin-bottom: 20px;>
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/deepAI.png" alt="DeepAI Logo" style="width: 80px; height: auto; margin-right: 25px;">
+      
+      <div style="flex-grow: 1; text-align: left;">
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">Supervised Machine Learning: Regression and Classification</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date: </strong>18 June 2023</p>
+        <ul style="margin: 5px 0; padding-left: 20px; list-style-type: disc;">
+          <li>Understanding regression and classification algorithms</li>
+          <li>Hands-on experience with supervised learning models</li>
+          <li>Applied machine learning techniques to real-world problems</li>
+        </ul>
+        <p style="margin: 5px 0; font-size: 1.0em;">
+          <a href="https://www.coursera.org/account/accomplishments/certificate/BQ98VETHTX4E" target="_blank" style="color: #007bff; text-decoration: none;">
+            <strong>Show Credentials 🔗</strong>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div align="center" margin-bottom: 20px;>
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/hackerrank.png" alt="HR Logo" style="width: 80px; height: auto; margin-right: 25px;">
+      
+      <div style="flex-grow: 1; text-align: left;">
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">HackerRank Problem Solving (Basic)</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date: </strong>15 September 2020</p>
+        <ul style="margin: 5px 0; padding-left: 20px; list-style-type: disc;">
+          <li>Understanding basic problem-solving techniques</li>
+          <li>Mastery of simple algorithms and data structures</li>
+          <li>Preparation for intermediate problem solving</li>
+        </ul>
+        <p style="margin: 5px 0; font-size: 1.0em;">
+          <a href="https://www.hackerrank.com/certificates/eed2f3b7fd6b" target="_blank" style="color: #007bff; text-decoration: none;">
             <strong>Show Credentials 🔗</strong>
           </a>
         </p>
