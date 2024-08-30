@@ -96,7 +96,7 @@ Position: <b>1<sup>st</sup>/48</b>
       </div>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
-    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px; gap: 20px;">
+    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
       <div style="width: 48%; text-align: left; word-wrap: break-word;">
         <p>CSE-111: Discrete Mathematics</p>
         <p>CSE-121: Digital Logic Design</p>
@@ -126,91 +126,9 @@ Position: <b>1<sup>st</sup>/48</b>
         <p>CSE-489: Software Architecture</p>
     </div>
   </div>
-    <!--
-    <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-111: Discrete Mathematics</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-121: Digital Logic Design</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-143: Object Oriented Programming</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 40px; text-indent: -20px;">CSE-223: Digital Electronics and Pulse Technique</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-241: Data Structure</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-243: Algorithm Design and Analysis</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-245: Numerical Analysis</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-251: Database Management Systems</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-311: Computer Networks</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-313: Data Communication</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-321: Computer Architecture</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-331: Theory of Computing</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-333: Microprocessors and Assembly Language Programming</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-335: Operating Systems</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-337: Computer Peripherals and Interfacing</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-345: Artificial Intelligence</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-353: System Analysis and Design</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-357: Computer Graphics</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-363: Machine Learning</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-423: Digital System Design</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-431: Compiler Design</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-433: Software Engineering</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-435: Information Security</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-457: Computer Graphics</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-463: Machine Learning</p>
-  </div>
-  <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-489: Software Architecture</p>
   </div>
 </div>
 
-  </div>
-</div>
--->
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
