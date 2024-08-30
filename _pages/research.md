@@ -2,7 +2,6 @@
 title: "Research Interest"
 excerpt: ""
 permalink: /research/
-
 ---
 
 My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
