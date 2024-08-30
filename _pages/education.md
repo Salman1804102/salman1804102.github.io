@@ -7,34 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!---
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*M.Sc. in Computer Science and Engineering*   
-Study Period: <b>September 2024 - Present</b><br>  
-Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
-
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*B.Sc. in Computer Science and Engineering*   
-Study Period: <b>February 2019 - May 2024</b><br>
-CGPA: <b>3.80/4.00</b>  
-Supervisor: [Dr. Mahfuzulhoq Chowdhury](https://www.semanticscholar.org/author/Mahfuzulhoq-Chowdhury/37296895) 
-
-**Government Science College, Dhaka [(GSC)](https://www.gsctd.edu.bd/)**   
-*Higher Secondary School Certificate Examination (HSC)*   
-Study Period: <b>June 2015 - April 2018</b><br>
-GPA: <b>4.67/5.00</b>  
-
-**Bazra M L High School, Dhaka [(BHS)](https://www.sohopathi.com/bazra-ml-high-school/)**   
-*Secondary School Certificate Examination (SSC)*   
-Study Period: <b>January 2010 - February 2015</b><br>
-GPA: <b>5.00/5.00</b>
-
-
-Position: <b>1<sup>st</sup>/103</b>
-CGPA: <b>4.00/4.00</b>  
-Position: <b>1<sup>st</sup>/48</b>
--->
-
 
 ## <font color="#00cc66"> Academic Appointments </font>
 <!---
@@ -97,7 +69,7 @@ Position: <b>1<sup>st</sup>/48</b>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
-      <div style="width: 48%; text-align: left; word-wrap: break-word;">
+      <div style="width: 50%; text-align: left; word-wrap: break-word;">
         <p>CSE-111: Discrete Mathematics</p>
         <p>CSE-121: Digital Logic Design</p>
         <p>CSE-143: Object Oriented Programming</p>
@@ -109,12 +81,12 @@ Position: <b>1<sup>st</sup>/48</b>
         <p>CSE-311: Computer Networks</p>
         <p>CSE-313: Data Communication</p>
         <p>CSE-321: Computer Architecture</p>
-        <p>CSE-331: Theory of Computing</p>
-        <p>CSE-333: Microprocessors and Assembly Language Programming</p>
         <p>CSE-335: Operating Systems</p>
-        <p>CSE-337: Computer Peripherals and Interfacing</p>
       </div>
       <div style="width: 48%; text-align: left; word-wrap: break-word;">
+        <p>CSE-331: Theory of Computing</p>
+        <p>CSE-333: Microprocessors and Assembly Language Programming</p>
+        <p>CSE-337: Computer Peripherals and Interfacing</p>
         <p>CSE-345: Artificial Intelligence</p>
         <p>CSE-353: System Analysis and Design</p>
         <p>CSE-423: Digital System Design</p>
