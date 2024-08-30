@@ -1,5 +1,5 @@
 ---
-title: "Education"
+title: "Education & Experiences"
 excerpt: ""
 author_profile: true
 permalink: /education/
@@ -35,7 +35,29 @@ CGPA: <b>4.00/4.00</b>
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
-<div align="center" style="margin-bottom: 10px;">
+
+## <font color="#00cc66"> Academic Appointments </font>
+<!---
+ **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
+ *CUET NLP Lab*
+ -->
+<div align="center" style="margin-bottom: 15px;">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/nlplab.jpg" alt="NLPLAB Logo" style="width: 150px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">CUET NLP Lab</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Published Three Conference Papers in EACL2024</strong></p>
+        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2023 - Present</p>
+        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Moshiul Hoque</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+## <font color="#00cc66"> Education </font>
+
+<div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -61,8 +83,7 @@ Position: <b>1<sup>st</sup>/48</b>
 </div>
 
 
-
-<div align="center" style="margin-bottom: 10px;">
+<div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cuetlogo.png" alt="CUET Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -76,33 +97,45 @@ Position: <b>1<sup>st</sup>/48</b>
     </div>
     <h3 style="margin-top: 0; color: #333; text-align: center;">Completed Coursework</h3>
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
-      <div style="width: 48%; word-wrap: break-word;">
-        <p>Course 1</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <!-- Add more courses here -->
-      </div>
-      <div style="width: 48%; word-wrap: break-word;">
-        <p>Course 2</p>
-        <p>Course 4</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <p>Course 3</p>
-        <!-- Add more courses here -->
+     <div style="width: 48%; word-wrap: break-word;">
+      <p>CSE-111: Discrete Mathematics</p>
+      <p>CSE-121: Digital Logic Design</p>
+      <p>CSE-143: Object Oriented Programming</p>
+      <p>CSE-223: Digital Electronics and Pulse Technique</p>
+      <p>CSE-241: Data Structure</p>
+      <p>CSE-243: Algorithm Design and Analysis</p>
+      <p>CSE-251: Database Management Systems</p>
+      <p>CSE-311: Computer Networks</p>
+      <p>CSE-321: Computer Architecture</p>
+      <p>CSE-331: Theory of Computing</p>
+      <p>CSE-333: Microprocessors and Assembly Language Programming</p>
+      <p>CSE-423: Digital System Design</p>
+      <p>CSE-431: Compiler Design</p>
+      <p>CSE-433: Software Engineering</p>
+      <p>CSE-435: Information Security</p>
+    </div>
+    <div style="width: 48%; word-wrap: break-word;">
+      <p>CSE-335: Operating Systems</p>
+      <p>CSE-337: Computer Peripherals and Interfacing</p>
+      <p>CSE-345: Artificial Intelligence</p>
+      <p>CSE-353: System Analysis and Design</p>
+      <p>CSE-357: Computer Graphics</p>
+      <p>CSE-363: Machine Learning</p>
+      <p>CSE-431: Compiler Design</p>
+      <p>CSE-435: Information Security</p>
+      <p>CSE-457: Computer Graphics</p>
+      <p>CSE-463: Machine Learning</p>
+      <p>CSE-489: Software Architecture</p>
+      <p>CSE-489: Software Architecture</p>
+      <p>CSE-113: Microprocessors and Assembly Language Programming</p>
+      <p>CSE-133: Data Communication</p>
+      <p>CSE-135: Numerical Analysis</p>
       </div>
     </div>
   </div>
 </div>
 
-
-<div align="center" style="margin-bottom: 10px;">
+<div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gsclogo.png" alt="GSC Logo" style="width: 80px; height: auto; margin-right: 15px;">
@@ -125,25 +158,6 @@ Position: <b>1<sup>st</sup>/48</b>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Secondary School Certificate Examination (SSC)</strong></p>
         <p style="margin: 5px 0;"><strong>Study Period:</strong> January 2010 - February 2015</p>
         <p style="margin: 5px 0;"><strong>GPA:</strong> 5.00/5.00</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-## <font color="#00cc66"> Academic Appointments </font>
-<!---
- **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
- *CUET NLP Lab*
- -->
-<div align="center">
-  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
-    <div style="display: flex; align-items: center;">
-      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/nlplab.jpg" alt="NLPLAB Logo" style="width: 100px; height: auto; margin-right: 15px;">
-      <div style="text-align: left;">
-        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">CUET NLP Lab</p>
-        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Published Three Conference Papers in EACL2024</strong></p>
-        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2023 - Present</p>
-        <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Moshiul Hoque</a></p>
       </div>
     </div>
   </div>
