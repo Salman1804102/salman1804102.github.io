@@ -15,6 +15,7 @@ My broad research interests are in Natural Language Processing and Explainable A
 <div class="publications">
  <hr class="section-line">
  <h1>Publications</h1>
+ <!--
  <div style="text-align: center; margin: 20px 0;">
    <p style="font-size: 1.2em; font-weight: bold; color: #333;">
      To get the full list of my papers, please check:
@@ -29,6 +30,7 @@ My broad research interests are in Natural Language Processing and Explainable A
      </a>
    </div>
  </div>
+ -->
 <hr class="section-line">
 </div>
 
@@ -63,7 +65,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
+                      <em>In Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
@@ -96,7 +98,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, Hasan Mesbaul Ali Taher, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
+                      <em>In Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
@@ -168,7 +170,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
-                      <em>Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
+                      <em>In Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
                   </div>
                   <div class="links">
                       <a href="https://sites.google.com/view/dravidianlangtech-2024/" target="_blank">
