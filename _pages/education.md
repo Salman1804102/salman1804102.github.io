@@ -145,7 +145,7 @@ Position: <b>1<sup>st</sup>/48</b>
     <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-143: Object Oriented Programming</p>
   </div>
   <div style="width: 200px;">
-    <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-223: Digital Electronics and Pulse Technique</p>
+    <p style="margin: 0; text-align: left; padding-left: 40px; text-indent: -20px;">CSE-223: Digital Electronics and Pulse Technique</p>
   </div>
   <div style="width: 200px;">
     <p style="margin: 0; text-align: left; padding-left: 20px; text-indent: -20px;">CSE-241: Data Structure</p>
