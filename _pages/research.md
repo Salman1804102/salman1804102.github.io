@@ -264,7 +264,7 @@ My broad research interests are in Natural Language Processing and Explainable A
  /* Section Lines */
 .section-line {
   border: none;
-  border-top: 2px solid var(--global-theme-color);
+  border-top: 4px solid var(--global-theme-color);
   margin: 1rem 0;
 }
  
