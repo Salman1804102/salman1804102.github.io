@@ -63,16 +63,20 @@ I have solved 1500+ problems on various online judges and participated in many o
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
 
-      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/hackerrank.png" alt="HM Logo" style="width: 80px; height: auto; margin-right: 15px;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/hackerrank.png" alt="HM Logo" style="width: 80px; height: auto; margin-right: 25px;">
       
       <div style="flex-grow: 1; text-align: left;">
-        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">HackerRank Problem Solving (Intermediate) Certificate</p>
-        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date:</strong>20 October, 2023</p>
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">HackerRank Problem Solving (Intermediate)</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Issued Date: </strong>20 October, 2023</p>
         <ul style="margin: 5px 0; padding-left: 20px; list-style-type: disc;">
           <li>Key Needed to Solve Two Problems</li>
           <li>Key Intermediate Data Structures and Algorithm</li>
         </ul>
-      <p style="margin: 5px 0; font-size: 1.0em;"><a href="https://www.hackerrank.com/certificates/46d4f5be4923" target="_blank" style="color: #007bff;><strong>Show Credentials🔗</strong></a></p>
+        <p style="margin: 5px 0; font-size: 1.0em;">
+          <a href="https://www.hackerrank.com/certificates/46d4f5be4923" target="_blank" style="color: #007bff; text-decoration: none;">
+            <strong>Show Credentials 🔗</strong>
+          </a>
+        </p>
       </div>
     </div>
   </div>
