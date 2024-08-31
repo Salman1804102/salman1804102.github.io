@@ -13,7 +13,7 @@ redirect_from:
     <div class="header">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/gnsfLogo.jpg" alt="GNSF Logo" class="logo">
       <div>
-        <p class="title">Greater Noakhali Students Forum, CUET</p>
+        <h4 class="title">Greater Noakhali Students Forum, CUET</h4>
         <p class="position">📌Vice President</p>
         <p class="duration">Jun 2023 - Aug 2024 | 1 yr 2 mos</p>
         <p class="position">📌Joint Literature Secretary</p>
