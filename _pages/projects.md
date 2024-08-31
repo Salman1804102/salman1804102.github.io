@@ -68,6 +68,7 @@ redirect_from:
       <section>
         <h2>Machine Learning Projects</h2>
         <div class="projects grid">
+          
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Machine-Learning-From-Scratch-CSE-464" target="_blank">
               <div class="card hoverable">
@@ -78,6 +79,7 @@ redirect_from:
               </div>
             </a>
           </div>
+          
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Task-Scheduling-Using-Reinforcement-Learning-and-DQN" target="_blank">
               <div class="card hoverable">
@@ -88,6 +90,7 @@ redirect_from:
               </div>
             </a>
           </div>
+          
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Clustering-of-Shopping-Mall-Customers-by-K-Means-Hierarchical-clustering" target="_blank">
               <div class="card hoverable">
@@ -98,6 +101,7 @@ redirect_from:
               </div>
             </a>
           </div>
+          
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Multiple-Disease-Prediction-System" target="_blank">
               <div class="card hoverable">
@@ -108,6 +112,7 @@ redirect_from:
               </div>
             </a>
           </div>
+          
         </div>
       </section>
       
@@ -148,6 +153,7 @@ redirect_from:
               </div>
             </a>
           </div>
+          
         </div>
       </section>
 
@@ -155,16 +161,29 @@ redirect_from:
       <section>
         <h2>Web Development and Related Projects</h2>
         <div class="projects grid">
+        
+        <div class="grid-item">
+          <a href="https://github.com/Salman1804102/E-Complaint-Android-Application-Flutter" target="_blank">
+            <div class="card hoverable">
+              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/e-complaint.jpg" alt="E-Complaint Android Application thumbnail" />
+              <div class="card-body">
+                <p class="card-text">E-Complaint Android Application (Flutter)</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Web-Development-Project" target="_blank">
               <div class="card hoverable">
                 <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/biyebari.png" alt="Web Development Project thumbnail" />
                 <div class="card-body">
-                  <p class="card-text">Web Development Project</p>
+                  <p class="card-text">BiyeBari.com</p>
                 </div>
               </div>
             </a>
           </div>
+          
           <div class="grid-item">
             <a href="https://github.com/Salman1804102/Student-CGPA-Calculator-Using-JAVA" target="_blank">
               <div class="card hoverable">
@@ -175,7 +194,7 @@ redirect_from:
               </div>
             </a>
           </div>
-        </div>
+          
         <div class="grid-item">
           <a href="https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL" target="_blank">
             <div class="card hoverable">
@@ -186,6 +205,7 @@ redirect_from:
             </div>
           </a>
         </div>
+        
         <div class="grid-item">
           <a href="https://github.com/Salman1804102/Flex-Project-Compiler-Design" target="_blank">
             <div class="card hoverable">
@@ -196,6 +216,7 @@ redirect_from:
             </div>
           </a>
         </div>
+        
         <div class="grid-item">
         <a href="https://github.com/Salman1804102/CPU-Scheduling-Algoirthm-Solver" target="_blank">
           <div class="card hoverable">
@@ -205,6 +226,8 @@ redirect_from:
             </div>
           </div>
         </a>
+      </div>
+      
       </div>
       </section>
 
