@@ -82,7 +82,7 @@ redirect_from:
   .title
   {
     margin: 0;
-    font-size: 2.5em;
+    font-size: 1.0em;
     text-align: left;
     font-weight: bold;
   }
