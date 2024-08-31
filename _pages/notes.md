@@ -6,7 +6,7 @@ permalink: /notes/
 redirect_from: 
   - /about.html
 ---
-Everything of this page's credit goes to <a href="https://scholar.google.com/citations?user=TBBRv2wAAAAJ&hl=en">© Omar Sharif</a>. These are handmade notes of him on the popular <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> on Coursera.
+Credit goes to <a href="https://scholar.google.com/citations?user=TBBRv2wAAAAJ&hl=en">© Omar Sharif</a> for everything in this page. These are handmade notes of him on the popular <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> on Coursera.
  * Neural Networks and Deep Learning <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
  * Improving Deep Neural Networks  <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
  * Structuring Machine Learning Projects <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
