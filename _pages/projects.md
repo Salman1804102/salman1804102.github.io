@@ -166,16 +166,6 @@ redirect_from:
             </a>
           </div>
           <div class="grid-item">
-            <a href="https://github.com/Salman1804102/Python-Tutorial-Colab-Notebooks" target="_blank">
-              <div class="card hoverable">
-                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/python.png" alt="Python Tutorial Colab Notebooks thumbnail" />
-                <div class="card-body">
-                  <p class="card-text">Python Tutorial (Colab Notebooks)</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="grid-item">
             <a href="https://github.com/Salman1804102/Student-CGPA-Calculator-Using-JAVA" target="_blank">
               <div class="card hoverable">
                 <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cgpa.png" alt="Student CGPA Calculator thumbnail" />
@@ -186,6 +176,36 @@ redirect_from:
             </a>
           </div>
         </div>
+        <div class="grid-item">
+          <a href="https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL" target="_blank">
+            <div class="card hoverable">
+              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/brickbreaker.png" alt="Bricks Breaker Game thumbnail" />
+              <div class="card-body">
+                <p class="card-text">Bricks Breaker Game (Graphics with OpenGL)</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="grid-item">
+          <a href="https://github.com/Salman1804102/Flex-Project-Compiler-Design" target="_blank">
+            <div class="card hoverable">
+              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/flex.PNG" alt="Flex Project Compiler Design thumbnail" />
+              <div class="card-body">
+                <p class="card-text">Flex Project (Compiler Design)</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="grid-item">
+        <a href="https://github.com/Salman1804102/CPU-Scheduling-Algoirthm-Solver" target="_blank">
+          <div class="card hoverable">
+            <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cpuscheduling.png" alt="CPU Scheduling Algorithm Solver thumbnail" />
+            <div class="card-body">
+              <p class="card-text">CPU Scheduling Algorithm Solver</p>
+            </div>
+          </div>
+        </a>
+      </div>
       </section>
 
       <!-- CSE Lab and Programming Language -->
@@ -208,6 +228,16 @@ redirect_from:
                 <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/compilerdesign.png" alt="Compiler Design Lab thumbnail" />
                 <div class="card-body">
                   <p class="card-text">Compiler Design Lab (CSE 432)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Python-Tutorial-Colab-Notebooks" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/python.png" alt="Python Tutorial Colab Notebooks thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Python Tutorial (Colab Notebooks)</p>
                 </div>
               </div>
             </a>
