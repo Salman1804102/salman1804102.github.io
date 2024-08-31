@@ -1,19 +1,20 @@
 # main links links
 main:
+  
+  - title: "Background"
+    url: /education/ 
+    
   - title: "Research"
     url: /research/
+
+  - title: "Projects"
+    url: /projects/ 
   
   # - title: "Teaching"
   #   url: /teach/ 
     
-  - title: "Background"
-    url: /education/ 
-  
   - title: "Achievements"
     url: /achievements/ 
-    
-  - title: "Projects"
-    url: /projects/ 
     
   - title: "Leadership"
     url: /leadership/   
