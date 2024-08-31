@@ -6,7 +6,7 @@ permalink: /notes/
 redirect_from: 
   - /about.html
 ---
-Some hand notes prepared by <a href="https://scholar.google.com/citations?user=TBBRv2wAAAAJ&hl=en">Omar Sharif</a> on the popular <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> on Coursera.
+Everything of this page's credit goes to <a href="https://scholar.google.com/citations?user=TBBRv2wAAAAJ&hl=en">© Omar Sharif</a>. These are handmade notes of him on the popular <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> on Coursera.
  * Neural Networks and Deep Learning <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
  * Improving Deep Neural Networks  <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
  * Structuring Machine Learning Projects <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
@@ -14,7 +14,7 @@ Some hand notes prepared by <a href="https://scholar.google.com/citations?user=T
  * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
 
 ## <font color="#00cc66"> NLP Resources </font>   
-List of few books, courses and blog posts that I find really helpful.
+List of few books, courses and blog posts that is really helpful.
 
 * **Collected Advices**
    * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
@@ -43,7 +43,7 @@ List of few books, courses and blog posts that I find really helpful.
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
    
 ## <font color="#00cc66">Must Read NLP Papers </font>
-A subset of papers that I found useful in clarifying my understanding of various NLP topics. 
+A subset of papers that are useful in clarifying my understanding of various NLP topics. 
 <pre>
 * <span style="color:rgb(201, 76, 76)"><a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></span> 
 * <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1301.3781">[Word2Vec]</a>/<a href="https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html">[Negative Sampling]</a>/<a href="https://aclanthology.org/D14-1162.pdf">[GloVe]</a> </span>
@@ -59,7 +59,7 @@ A subset of papers that I found useful in clarifying my understanding of various
 </pre>
 
 ## <font color="#00cc66">Few Useful Links </font>
-Few blog posts/links that I found really useful to understand various fundamental concepts of NLP.
+Few blog posts/links that are found really useful to understand various fundamental concepts of NLP.
 <pre>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's coding-based backpropagation post</span> <a href="http://karpathy.github.io/neuralnets/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's blog on RNNs</span> <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">[Link]</a>
