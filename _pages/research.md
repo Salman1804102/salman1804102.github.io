@@ -6,9 +6,9 @@ permalink: /research/
 
 My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
 
- * Information Extraction, Multilingual and low‐resource NLP, Social Computing [Important (aggressive, abusive, fake, hate, stance) content classification]
- * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
- * Explainable AI
+ * Information Extraction, Multilingual and low‐resource NLP, Social Computing [Important (fake, hate, abusive, stance) content classification]
+ * Multimodal NLP [utilize linguistic, acoustic, and visual features to build intelligent systems]
+ * Explainable AI [explain behind the scenes of the prediction of ML models]
 
  
 <div class="publications">
