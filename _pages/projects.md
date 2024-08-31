@@ -110,6 +110,46 @@ redirect_from:
           </div>
         </div>
       </section>
+      
+    <!-- Papers with Code Section -->
+    
+      <section>
+        <h2>Papers with Code</h2>
+        <div class="projects grid">
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/DravidianLangTech-EACL-2024-HOLD" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/HOLD.PNG" alt="Hate Speech Detection in Dravidian Languages thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Hate Speech Detection in Dravidian Languages</p>
+                </div>
+              </div>
+            </a>
+          </div>
+      
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/DravidianLangTech-EACL-2024-FakeNews" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/Fake.PNG" alt="Fake News Detection in Dravidian Languages thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Fake News Detection in Dravidian Languages</p>
+                </div>
+              </div>
+            </a>
+          </div>
+      
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/CASE-EACL-2024" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/case.PNG" alt="CASE Task EACL 2024 thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Hate Speech Event Detection, Target Detection, and Stance Classification</p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
 
       <!-- Web Development and Related Projects -->
       <section>
