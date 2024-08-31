@@ -34,10 +34,10 @@ My broad research interests are in Natural Language Processing and Explainable A
 </div>
 
 ## <font > Works in Progress </font> 
-<!--
-<font color="#993333">EcomFraudEX: A Machine Learning based Explainable Fraud Incident Classification Framework and Assistance System for the E-Commerce Market</font>     
-*<font >Under Review</font>*  
--->
+
+<font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
+*<font >Ongoing</font>*  
+
 ## <font> Conferences </font> 
 
 
