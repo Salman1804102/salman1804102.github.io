@@ -53,7 +53,6 @@ redirect_from:
   }
 </style>
 
-
 <div class="container mt-5">
   <div class="post">
     <header class="post-header">
@@ -64,218 +63,148 @@ redirect_from:
     </header>
 
     <article>
-      <div class="projects grid">
 
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/brickbreaker.png" alt="Bricks Breaker Game thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Bricks Breaker Game (Graphics with OpenGL)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Flex-Project-Compiler-Design" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/flex.PNG" alt="Flex Project Compiler Design thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Flex Project (Compiler Design)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/DravidianLangTech-EACL-2024-HOLD" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/HOLD.PNG" alt="Hate Speech Detection in Dravidian Languages thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Hate Speech Detection in Dravidian Languages</p>
-              </div>
-            </div>
-          </a>
-        </div>
-
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/DravidianLangTech-EACL-2024-FakeNews" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/Fake.PNG" alt="Fake News Detection in Dravidian Languages thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Fake News Detection in Dravidian Languages</p>
-              </div>
-            </div>
-          </a>
-        </div>
-
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/CASE-EACL-2024" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/case.PNG" alt="CASE Task EACL 2024 thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Hate Speech Event Detection, Target Detection and Stance Classification</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-       <div class="grid-item">
-          <a href="https://github.com/Salman1804102/E-Complaint-Android-Application-Flutter" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/e-complaint.jpg" alt="E-Complaint Android Application thumbnail" />
-              <div class="card-body">
-                <p class="card-text">E-Complaint Android Application (Flutter)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
+      <!-- Machine Learning Projects -->
+      <section>
+        <h2>Machine Learning Projects</h2>
+        <div class="projects grid">
           <div class="grid-item">
-      <a href="https://github.com/Salman1804102/Machine-Learning-From-Scratch-CSE-464" target="_blank">
-        <div class="card hoverable">
-          <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/mlscratch.png" alt="Machine Learning from Scratch thumbnail" />
-          <div class="card-body">
-            <p class="card-text">Machine Learning from Scratch (CSE 464)</p>
+            <a href="https://github.com/Salman1804102/Machine-Learning-From-Scratch-CSE-464" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/mlscratch.png" alt="Machine Learning from Scratch thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Machine Learning from Scratch (CSE 464)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Task-Scheduling-Using-Reinforcement-Learning-and-DQN" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/taskscheduling.png" alt="Task Scheduling Using Reinforcement Learning thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Task Scheduling Using Reinforcement Learning (DQN)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Clustering-of-Shopping-Mall-Customers-by-K-Means-Hierarchical-clustering" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/clustering.png" alt="Clustering of Shopping Mall Customers thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Clustering of Shopping Mall Customers (K-Means & Hierarchical)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Multiple-Disease-Prediction-System" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/disease.png" alt="Multiple Disease Prediction System thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Multiple Disease Prediction System</p>
+                </div>
+              </div>
+            </a>
           </div>
         </div>
-      </a>
-    </div>
+      </section>
 
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Graphics-Lab-OpenGL-CSE-458" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/computergraphics.png" alt="Computer Graphics with OpenGL thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Computer Graphics Lab (CSE 458)</p>
+      <!-- Web Development and Related Projects -->
+      <section>
+        <h2>Web Development and Related Projects</h2>
+        <div class="projects grid">
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Web-Development-Project" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/biyebari.png" alt="Web Development Project thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Web Development Project</p>
+                </div>
               </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Compiler-Design-Lab-CSE-432" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/compilerdesign.png" alt="Compiler Design thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Compiler Design Lab (CSE 432)</p>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Python-Tutorial-Colab-Notebooks" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/python.png" alt="Python Tutorial Colab Notebooks thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Python Tutorial (Colab Notebooks)</p>
+                </div>
               </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/System-Design-and-Analysis-of-Sonali-Bank-Bahaddarhat-Chittagong-Branch" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/systemDesign.png" alt="System Design and Analysis thumbnail" />
-              <div class="card-body">
-                <p class="card-text">System Design and Analysis (Sonali Bank Bahaddarhat Branch)</p>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Student-CGPA-Calculator-Using-JAVA" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cgpa.png" alt="Student CGPA Calculator thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Student CGPA Calculator (JAVA)</p>
+                </div>
               </div>
-            </div>
-          </a>
+            </a>
+          </div>
         </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Ansi-C-By-Balagurusamy" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/ansic.png" alt="Ansi C Programming thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Ansi C Programming by Balagurusamy</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Teach-Yourself-CPlusPlus-OOP-Herbert-Schildt" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/herbert.png" alt="Teach Yourself C++ thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Teach Yourself C++ (Herbert Schildt)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Web-Development-Project" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/biyebari.png" alt="Web Development Project thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Web Development Project</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Student-CGPA-Calculator-Using-JAVA" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cgpa.png" alt="Student CGPA Calculator thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Student CGPA Calculator (JAVA)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Python-Tutorial-Colab-Notebooks" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/python.png" alt="Python Tutorial Colab Notebooks thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Python Tutorial (Colab Notebooks)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Task-Scheduling-Using-Reinforcement-Learning-and-DQN" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/taskscheduling.png" alt="Task Scheduling Using Reinforcement Learning thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Task Scheduling Using Reinforcement Learning (DQN)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Clustering-of-Shopping-Mall-Customers-by-K-Means-Hierarchical-clustering" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/clustering.png" alt="Clustering of Shopping Mall Customers thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Clustering of Shopping Mall Customers (K-Means & Hierarchical)</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/CPU-Scheduling-Algoirthm-Solver" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/cpuscheduling.png" alt="CPU Scheduling Algorithm Solver thumbnail" />
-              <div class="card-body">
-                <p class="card-text">CPU Scheduling Algorithm Solver</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="grid-item">
-          <a href="https://github.com/Salman1804102/Multiple-Disease-Prediction-System" target="_blank">
-            <div class="card hoverable">
-              <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/disease.png" alt="Multiple Disease Prediction System thumbnail" />
-              <div class="card-body">
-                <p class="card-text">Multiple Disease Prediction System</p>
-              </div>
-            </div>
-          </a>
-        </div>
+      </section>
 
-      </div>
+      <!-- CSE Lab and Programming Language -->
+      <section>
+        <h2>CSE Lab and Programming Language</h2>
+        <div class="projects grid">
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Graphics-Lab-OpenGL-CSE-458" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/computergraphics.png" alt="Computer Graphics with OpenGL thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Computer Graphics Lab (CSE 458)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Compiler-Design-Lab-CSE-432" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/compilerdesign.png" alt="Compiler Design Lab thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Compiler Design Lab (CSE 432)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/System-Design-and-Analysis-of-Sonali-Bank-Bahaddarhat-Chittagong-Branch" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/systemDesign.png" alt="System Design and Analysis thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">System Design and Analysis (Sonali Bank Bahaddarhat Branch)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Ansi-C-By-Balagurusamy" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/ansic.png" alt="Ansi C Programming thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Ansi C Programming by Balagurusamy</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="grid-item">
+            <a href="https://github.com/Salman1804102/Teach-Yourself-CPlusPlus-OOP-Herbert-Schildt" target="_blank">
+              <div class="card hoverable">
+                <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/herbert.png" alt="Teach Yourself C++ Programming thumbnail" />
+                <div class="card-body">
+                  <p class="card-text">Teach Yourself C++ (OOP by Herbert Schildt)</p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+
     </article>
   </div>
 </div>
