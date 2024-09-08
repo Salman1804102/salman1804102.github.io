@@ -1,10 +1,10 @@
 ---
 title: 'My Interview Experience with WellDev for a Trainee Software Engineer Position'
 date: 2024-09-05
-permalink: /posts/2024/09/blog-post-1/
+permalink: /welldev-trainee-software-engineer-interview-experience/
 tags:
-  - Interview Experience
-  - Software Engineering
+  - Interview Questions
+  - Trainee Software Engineer
   - WellDev
 ---
 
@@ -102,6 +102,8 @@ int fun(int n) {
 - **Q11**: Write a SQL to show all the duplicate rows in a table
   
 - **Q12**: Can we make stack with queue?
+- **Q13**: Given a chessboard, there are some knights placed initially. Asked to discuss the solution of how can we place some another knights in such a way so that no one attacked each other.
+  *(Graph - DFS or BFS type solution) 
 
 ## 2nd Round Interview Questions
 
