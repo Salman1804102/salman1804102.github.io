@@ -13,11 +13,11 @@ I'm a <b>competitive programmer</b> and <b>natural language processing enthusias
 </p>
  
 <p align="justify">
-Apart from that, I immersed myself in problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. In addition to my academic pursuits, I've undertaken <a href = "https://github.com/Salman1804102?tab=repositories">projects</a> related to my coursework. My primary expertise lies in programming languages such as C++ and Python.
+Apart from that, I immersed myself in problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. My primary expertise lies in programming languages such as C++ and Python.
 </p>
 
 <p align="justify">
-Beyond my academic pursuits, I've had the privilege of serving as the Vice President of the <a href = "https://m.facebook.com/people/Greater-Noakhali-Students-Forum-CUET/100083839316528/">Greater Noakhali Student Forum C.U.E.T (GNSF)</a>, where I was responsible to various regional student welfare activities. I also served as Joint Programming Secretary in <a href = "https://www.facebook.com/cuetcomputerclub/">C.U.E.T Computer Club</a>. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing.
+Beyond my academic pursuits, I've had the privilege of serving as the Vice President of the <a href = "https://m.facebook.com/people/Greater-Noakhali-Students-Forum-CUET/100083839316528/">Greater Noakhali Student Forum C.U.E.T (GNSF)</a>, where I was responsible to various regional student welfare activities. I also served as Assistant Programming Secretary in <a href = "https://www.facebook.com/cuetcomputerclub/">C.U.E.T Computer Club</a>. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing.
 </p> 
 
 
@@ -30,6 +30,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 300px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">19 September, 2024</span> Our paper is accepted in <a href = "https://www.acctcomputing.com/"> 2nd International Conference on Advanced Computing & Communication Technologies (Delhi, India) </a>
 <span style="color:rgb(201, 76, 76)">15 August, 2024</span> Submitted one of our paper in an IEEE Conference 
 <span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal 
 <span style="color:rgb(201, 76, 76)">14 July, 2024</span> Submitted one of the extended abstract in <a href = "https://symposium24.ieeecsbdc.org/">IEEE CS BDC Symposium 2024</a>
