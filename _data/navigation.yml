@@ -19,8 +19,8 @@ main:
   - title: "Leadership"
     url: /leadership/   
     
-  - title: "NLP Resources"
-    url: /notes 
+  # - title: "NLP Resources"
+  #   url: /notes 
     
   # - title: "Misc"
   #   url: /misc/ 
