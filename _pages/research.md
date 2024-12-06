@@ -40,6 +40,37 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 ## <font> Conferences </font> 
 
+<div class="publications">
+  <ol class="bibliography">
+      <!-- Paper 1 -->
+      <li>
+          <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">IEEE-ICACCTech2024</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank">
+                          <b style="color:brown">E-Vigilant: An e-commerce assistant smartphone application with customer and seller fraud detection, seller identity check, legal help, e-shopping features </b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
+                  </div>
+                  <div class="periodical">
+                      <em>In Proceedings of the 2024 Second International Conference on Advanced Computing & Communication Technologies (ICACCTech)</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.acctcomputing.com/" target="_blank">
+                          <font color="#4796C9">[Conference Link]</font></a> |
+                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+      </li>
+   <!-- paper 2 will appear here -->
+  </ol>
+</div>
 
 ## <font > Journals </font>  
 
