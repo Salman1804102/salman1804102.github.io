@@ -13,18 +13,12 @@ I'm a <b>competitive programmer</b> and <b>natural language processing enthusias
 </p>
  
 <p align="justify">
-Apart from that, I'm passionate about problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">2000+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. My primary expertise lies in programming languages such as C++ and Python.
+Apart from that, I'm passionate about problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">2000+ problems</a> in different online judges and participated in numerous onsite and online programming contests. I've had the privilege of serving as the Vice President of the <a href = "https://m.facebook.com/people/Greater-Noakhali-Students-Forum-CUET/100083839316528/">Greater Noakhali Student Forum C.U.E.T (GNSF)</a>, where I was responsible to various regional student welfare activities. I also served as Assistant Programming Secretary in <a href = "https://www.facebook.com/cuetcomputerclub/">C.U.E.T Computer Club</a>. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing.
 </p>
-
-<p align="justify">
-Beyond my academic pursuits, I've had the privilege of serving as the Vice President of the <a href = "https://m.facebook.com/people/Greater-Noakhali-Students-Forum-CUET/100083839316528/">Greater Noakhali Student Forum C.U.E.T (GNSF)</a>, where I was responsible to various regional student welfare activities. I also served as Assistant Programming Secretary in <a href = "https://www.facebook.com/cuetcomputerclub/">C.U.E.T Computer Club</a>. There, I took several data structure and algorithm sessions for my fellow junior coders. These experiences have honed my leadership and mentoring skills, showcasing my commitment to fostering community engagement and knowledge sharing.
-</p> 
-
 
 <b>Contact: 📧</b> [<font color= "#990033" >salman.cuet.cse@gmail.com</font>](salman.cuet.cse@gmail.com)
 
 <b>My latest CV: </b> Salman-Farsi-CV [<a href="https://drive.google.com/file/d/1_7lC5zATh2PGc4ef-JCXLRcz664zJYPB/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1vaJNmTMOFxaMtTRCiwy0_8gqLSRaK18M/view?usp=sharing"><font color="#990033">Short</font></a>]
-
 
 
 ## <font color="#00cc66"> Updates </font>
