@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <p align="justify">
-I'm a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), where I graduated with a CGPA of 3.80/4.0. I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual) in natural language processing (NLP) are focus of my interest. My research experience has been enriched by my time as a Research Intern at the CUET NLP Lab, under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the publication of three conference papers. My work has primarily focused on exploring the intricacies of language models, stance detection, and sentiment analysis, contributing valuable insights to the academic community. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential! 
+I'm a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), where I graduated with a CGPA of 3.80/4.0 (position 8th, top 6%) . I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual). Therefore, natural language processing (NLP) are focus of my research interest. My research experience has been enriched by my time as a Research Intern at the CUET NLP Lab, under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the participation of the numerious shared task and publishing system description papers. My work has primarily focused on exploring the intricacies of language models, stance detection, and sentiment analysis, contributing valuable insights to the academic community. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential! 
 </p>
  
 <p align="justify">
-Apart from that, I immersed myself in problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">1500+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. My primary expertise lies in programming languages such as C++ and Python.
+Apart from that, I'm passionate about problem-solving and honed my competitive programming skills during my undergraduate times. I solved <a href = "https://www.stopstalk.com/user/profile/woolgatherer">2000+ problems</a> in different online judges and participated in numerous onsite and online programming contests. As a result, I've cultivated a strong foundation in various algorithms and data structures. My primary expertise lies in programming languages such as C++ and Python.
 </p>
 
 <p align="justify">
@@ -30,6 +30,7 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 300px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">20 November, 2024</span> Presented our extended abstract in <a href = "https://symposium24.ieeecsbdc.org/">IEEE CS BDC Symposium 2024</a>
 <span style="color:rgb(201, 76, 76)">19 September, 2024</span> Our paper is accepted in <a href = "https://www.acctcomputing.com/"> 2nd International Conference on Advanced Computing & Communication Technologies (Delhi, India) </a>
 <span style="color:rgb(201, 76, 76)">15 August, 2024</span> Submitted one of our paper in an IEEE Conference 
 <span style="color:rgb(201, 76, 76)">28 July, 2024</span> Submitted one of our paper in a Journal 
@@ -57,6 +58,16 @@ Beyond my academic pursuits, I've had the privilege of serving as the Vice Presi
 
 <div class="slider">
   <div class="slides">
+    
+    <div class="slide">
+      <img src="Gallery/ieeecsbdc1.png" alt="Image 9">
+      <div class="caption">Presenting paper in IEEE CS BDC Symposium</div>
+    </div>
+        <div class="slide">
+      <img src="Gallery/ieeecsbdc2.png" alt="Image 10">
+      <div class="caption">Receiving certificate in IEEE CS BDC Symposium</div>
+    </div>
+    
     <div class="slide">
       <img src="Gallery/fossil1.jpg" alt="Image 1">
       <div class="caption">Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0 2024</div>
