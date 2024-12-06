@@ -35,8 +35,8 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 ## <font > Works in Progress </font> 
 
-<font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
-*<font >Ongoing</font>*  
+<!-- font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
+*<font >Ongoing</font>* -->
 
 ## <font> Conferences </font> 
 
