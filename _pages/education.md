@@ -19,10 +19,11 @@ redirect_from:
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
         <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - Present</p>
         <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic (NNFL) | <a href="../files/NNFL.pdf"           style="color: #990033;">🎯OBE Course Plan[CSE-451]</a></p>
-        <p style="margin: 5px 0 5px 20px;">Neural Networks and Fuzzy Logic Laboratory (NNFLL) | <a href="../files/NNFLL.pdf"                     style="color: #990033;">🎯OBE Course Plan[CSE-452]</a></p>
-        <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing (CGIP) | <a href="../files/CGIP.pdf" 
+        <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Laboratory (NNFLL) | <a href="../files/NNFLL.pdf"                     
+        style="color: #990033;">🎯OBE Course Plan[CSE-452]</a></p>
+        <p style="margin: 5px 0;">Computer Graphics & Image Processing (CGIP) | <a href="../files/CGIP.pdf" 
         style="color: #990033;">🎯OBE Course Plan[CSE-455]</a></p>
-        <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing Laboratory (CGIPL) | <a href="../files/CGIPL.pdf"       
+        <p style="margin: 5px 0;">Computer Graphics & Image Processing Laboratory (CGIPL) | <a href="../files/CGIPL.pdf"       
         style="color: #990033;">🎯OBE Course Plan[CSE-456]</a></p>
         <p style="margin: 5px 0 5px 20px;">Mobile Application Development Laboratory (MADL)</p>
       </div>
