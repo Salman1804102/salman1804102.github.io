@@ -18,14 +18,14 @@ redirect_from:
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
         <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - Present</p>
-        <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic (NNFL) | <a href="../files/NNFL.pdf"           style="color: #990033;">🎯OBE Course Plan[CSE-451]</a></p>
-        <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Laboratory | <a href="../files/NNFLL.pdf"                     
-        style="color: #990033;">🎯OBE Course Plan[CSE-452]</a></p>
+        <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic | <a href="../files/NNFL.pdf"           style="color: #990033;">🎯[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Lab | <a href="../files/NNFLL.pdf"                     
+        style="color: #990033;">🎯[OBE Course Plan]</a></p>
         <p style="margin: 5px 0;">Computer Graphics & Image Processing | <a href="../files/CGIP.pdf" 
-        style="color: #990033;">🎯OBE Course Plan[CSE-455]</a></p>
-        <p style="margin: 5px 0;">Computer Graphics & Image Processing Laboratory | <a href="../files/CGIPL.pdf"       
-        style="color: #990033;">🎯OBE Course Plan[CSE-456]</a></p>
-        <p style="margin: 5px 0;">Mobile Application Development Laboratory</p>
+        style="color: #990033;">🎯[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Computer Graphics & Image Processing Lab | <a href="../files/CGIPL.pdf"       
+        style="color: #990033;">🎯[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Mobile Application Development Lab</p>
       </div>
     </div>
   </div>
