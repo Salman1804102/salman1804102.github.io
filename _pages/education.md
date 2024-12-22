@@ -18,7 +18,7 @@ redirect_from:
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
         <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - Present</p>
-        <p style="margin: 5px 0;"><strong>Courses Taken: Neural Network and Fuzzy Logic (NNFL)</p>
+        <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Network and Fuzzy Logic (NNFL)</p>
         <p style="margin: 5px 0 5px 20px;">Neural Network and Fuzzy Logic Laboratory (NNFLL)</p>
         <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing (CGIP)</p>
         <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing Laboratory (CGIPL)</p>
