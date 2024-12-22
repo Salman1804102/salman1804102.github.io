@@ -9,10 +9,26 @@ redirect_from:
 
 
 ## <font color="#00cc66"> Academic Appointments </font>
-<!---
- **Researcher <font color="#541A75">[November 2023 - Present]</font>**    
- *CUET NLP Lab*
- -->
+
+<div align="center" style="margin-bottom: 15px;">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/PU Logo.png" alt="Lecturer" style="width: 150px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
+        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - Present</p>
+        <p style="margin: 5px 0;"><strong>Courses Taken: Neural Network and Fuzzy Logic (NNFL)</p>
+        <p style="margin: 5px 0 5px 20px;">Neural Network and Fuzzy Logic Laboratory (NNFLL)</p>
+        <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing (CGIP)</p>
+        <p style="margin: 5px 0 5px 20px;">Computer Graphics & Image Processing Laboratory (CGIPL)</p>
+        <p style="margin: 5px 0 5px 20px;">Mobile Application Development Laboratory (MADL)</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center;">
