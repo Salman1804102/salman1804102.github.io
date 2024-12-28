@@ -101,7 +101,7 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
       <img src="Gallery/ieeecsbdc1.png" alt="Image 9">
       <div class="caption">Presenting paper in IEEE CS BDC Symposium</div>
     </div>
-        <div class="slide">
+    <div class="slide">
       <img src="Gallery/ieeecsbdc2.png" alt="Image 10">
       <div class="caption">Receiving certificate in IEEE CS BDC Symposium</div>
     </div>
@@ -123,7 +123,7 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
   .slides {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    width: 100%; /* Ensure slides container takes full width */
+    width: 100%;
   }
 
   .slide {
@@ -175,32 +175,36 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 </style>
 
 <script>
-  let currentIndex = 0;
-  const slides = document.querySelectorAll('.slide');
+  document.querySelectorAll('.slider').forEach((slider) => {
+    let currentIndex = 0;
+    const slides = slider.querySelectorAll('.slide');
+    const slidesContainer = slider.querySelector('.slides');
 
-  function showSlide(index) {
-    if (index >= slides.length) {
-      currentIndex = 0;
-    } else if (index < 0) {
-      currentIndex = slides.length - 1;
-    } else {
-      currentIndex = index;
+    function showSlide(index) {
+      if (index >= slides.length) {
+        currentIndex = 0;
+      } else if (index < 0) {
+        currentIndex = slides.length - 1;
+      } else {
+        currentIndex = index;
+      }
+      const offset = -currentIndex * 100;
+      slidesContainer.style.transform = `translateX(${offset}%)`;
     }
-    const offset = -currentIndex * 100;
-    document.querySelector('.slides').style.transform = `translateX(${offset}%)`;
-  }
 
-  function changeSlide(step) {
-    clearInterval(autoSlideInterval);
-    showSlide(currentIndex + step);
-    autoSlideInterval = setInterval(() => changeSlide(1), 2000);
-  }
+    function changeSlide(step) {
+      clearInterval(autoSlideInterval);
+      showSlide(currentIndex + step);
+      autoSlideInterval = setInterval(() => changeSlide(1), 3000);
+    }
 
-  let autoSlideInterval = setInterval(() => changeSlide(1), 2000);
+    let autoSlideInterval = setInterval(() => changeSlide(1), 3000);
 
-  document.querySelector('.next').addEventListener('click', () => changeSlide(1));
-  document.querySelector('.prev').addEventListener('click', () => changeSlide(-1));
+    slider.querySelector('.next').addEventListener('click', () => changeSlide(1));
+    slider.querySelector('.prev').addEventListener('click', () => changeSlide(-1));
+  });
 </script>
+
 
 
 
