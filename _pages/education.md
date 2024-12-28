@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## <font color="#00cc66"> Academic Appointments </font>
+## <font color="#00cc66"> Experiences </font>
 
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
@@ -18,14 +18,15 @@ redirect_from:
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
         <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - Present</p>
-        <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic | <a href="../files/NNFL.pdf"           style="color: #990033;">🎯[OBE Course Plan]</a></p>
-        <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Lab | <a href="../files/NNFLL.pdf"                     
-        style="color: #990033;">🎯[OBE Course Plan]</a></p>
-        <p style="margin: 5px 0;">Computer Graphics & Image Processing | <a href="../files/CGIP.pdf" 
-        style="color: #990033;">🎯[OBE Course Plan]</a></p>
-        <p style="margin: 5px 0;">Computer Graphics & Image Processing Lab | <a href="../files/CGIPL.pdf"       
-        style="color: #990033;">🎯[OBE Course Plan]</a></p>
-        <p style="margin: 5px 0;">Mobile Application Development Lab</p>
+        <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic | 🎯<a href="../files/NNFL.pdf"           style="color: #990033;">[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Lab | 🎯<a href="../files/NNFLL.pdf"                     
+        style="color: #990033;">[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Computer Graphics & Image Processing | 🎯<a href="../files/CGIP.pdf" 
+        style="color: #990033;">[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Computer Graphics & Image Processing Lab | 🎯<a href="../files/CGIPL.pdf"       
+        style="color: #990033;">[OBE Course Plan]</a></p>
+        <p style="margin: 5px 0;">Mobile Application Development Lab | 🎯<a href="../files/MAD.pdf"       
+        style="color: #990033;">[OBE Course Plan]</a></p>
       </div>
     </div>
   </div>
@@ -48,6 +49,7 @@ redirect_from:
 
 ## <font color="#00cc66"> Education </font>
 
+<!--
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -63,16 +65,14 @@ redirect_from:
     <div style="display: flex; justify-content: space-between; overflow-y: auto; max-height: 150px; border-top: 1px solid #e1e4e8; padding-top: 10px;">
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 1</p>
-        <!-- Add more courses here -->
       </div>
       <div style="width: 48%; word-wrap: break-word;">
         <p>Course 2</p>
-        <!-- Add more courses here -->
       </div>
     </div>
   </div>
-</div>
-
+</div> 
+-->
 
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
@@ -128,7 +128,7 @@ redirect_from:
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Government Science College (GSC), Dhaka</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Higher Secondary School Certificate Examination (HSC)</strong></p>
         <p style="margin: 5px 0;"><strong>Study Period:</strong> June 2015 - April 2018</p>
-        <p style="margin: 5px 0;"><strong>GPA:</strong> 4.67/5.00</p>
+        <p style="margin: 5px 0;"><strong>GPA:</strong> 5.00/5.00</p>
       </div>
     </div>
   </div>
