@@ -24,6 +24,7 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 300px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">20 January, 2025</span> Feeling Excited! My very first journal article is published in a <a href = "https://publications.eai.eu/index.php/sis/article/view/6789">Scopus indexed Q2 journal</a>
 <span style="color:rgb(201, 76, 76)">20 November, 2024</span> Presented our extended abstract in <a href = "https://symposium24.ieeecsbdc.org/">IEEE CS BDC Symposium 2024</a>
 <span style="color:rgb(201, 76, 76)">19 September, 2024</span> Our paper is accepted in <a href = "https://www.acctcomputing.com/"> 2nd International Conference on Advanced Computing & Communication Technologies (Delhi, India) </a>
 <span style="color:rgb(201, 76, 76)">15 August, 2024</span> Submitted one of our paper in an IEEE Conference 
