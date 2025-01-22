@@ -6,9 +6,9 @@ permalink: /research/
 
 My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
 
- * Information Extraction, Multilingual and low‐resource NLP, Social Computing [Important (fake, hate, abusive, stance) content classification]
+ * Information Extraction, Multilingual and low‐resource NLP, Social Computing [fake, hate, abusive, stance related content classification]
  * Multimodal NLP [utilize linguistic, acoustic, and visual features to build intelligent systems]
- * Explainable AI [explain behind the scenes of the prediction of ML models]
+ * Explainable AI 
 
  
 <div class="publications">
@@ -74,6 +74,38 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 ## <font > Journals </font>  
 
+<div class="publications">
+  <ol class="bibliography">
+      <!-- Paper 1 -->
+      <li>
+          <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">EAI</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789" target="_blank">
+                          <b style="color:brown">EcomFraudEX: An Explainable Machine Learning Framework for Victim-Centric and Dual-Sided Fraud Incident Classification in E-Commerce</b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
+                  </div>
+                  <div class="periodical">
+                      <em>EAI Endorsed Transaction on Scalable Information System, vol. 12, Jan. 2025</em><br>
+                      <em>Indexed By: Scopus, Web of Science, etc. IF: 1.98</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
+                          <font color="#4796C9">[Schimago Journal Rank]</font></a> |
+                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+      </li>
+   <!-- paper 2 will appear here -->
+  </ol>
+</div>
 
 ## <font > Workshops </font>
 
