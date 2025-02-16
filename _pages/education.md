@@ -16,9 +16,10 @@ redirect_from:
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/samsung.jpeg" alt="SWE" style="width: 150px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Samsung R&D Institute Bangladesh</p>
-        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Software Engineer (Project: Samsung Internet Browser)</strong></p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Software Engineer</strong></p>
         <p style="margin: 5px 0;"><strong>Work Period:</strong> January 2025 - Present</p>
         <p style="margin: 5px 0;"><strong>Team:</strong> Application Development Group (ADG)</p>
+        <p style="margin: 5px 0;"><strong>Project:</strong> Samsung Internet Browser</p>
       </div>
     </div>
   </div>
