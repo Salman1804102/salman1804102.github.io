@@ -98,7 +98,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                   <div class="links">
                       <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
                           <font color="#4796C9">[Schimago Journal Rank]</font></a> |
-                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501">[Paper]</font> </a> 
+                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501"><font color="#4796C9">[Paper]</font> </a> 
                   </div>
               </div>
           </div>
@@ -229,7 +229,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusha, Ariful Islam, & Mohammed Moshiul Hoque
+                      Asrarul Hoque Eusha, <span style="color:#2d862d"><b>Salman Farsi</b></span>, Ariful Islam, & Mohammed Moshiul Hoque
                   </div>
                   <div class="periodical">
                       <em>In Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2024)</em>
