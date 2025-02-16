@@ -13,6 +13,22 @@ redirect_from:
 <div align="center" style="margin-bottom: 15px;">
   <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
     <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/samsung.jpeg" alt="SWE" style="width: 150px; height: auto; margin-right: 15px;">
+      <div style="text-align: left;">
+        <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Samsung R&D Institute Bangladesh</p>
+        <p style="margin: 5px 0; font-size: 1.0em;"><strong>Software Engineer (Project: Samsung Internet Browser)</strong></p>
+        <p style="margin: 5px 0;"><strong>Work Period:</strong> January 2025 - Present</p>
+        <p style="margin: 5px 0;"><strong>Team:</strong> Application Development Group (ADG)</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div align="center" style="margin-bottom: 15px;">
+  <div style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; max-width: 100%; margin: auto; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+    <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Salman1804102/salman1804102.github.io/master/Gallery/PU Logo.png" alt="Lecturer" style="width: 150px; height: auto; margin-right: 15px;">
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
