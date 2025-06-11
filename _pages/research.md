@@ -7,8 +7,9 @@ permalink: /research/
 My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
 
  * Information Extraction, Multilingual and low‐resource NLP, Social Computing [fake, hate, abusive, stance related content classification]
- * Multimodal NLP [utilize linguistic, acoustic, and visual features to build intelligent systems]
- * Explainable AI 
+ * Multimodal NLP [utilizing linguistic, acoustic, and visual features to build intelligent systems]
+ * Explainable AI
+ * Application of Computer Vision in Goescience & Medical Science
 
  
 <div class="publications">
@@ -35,42 +36,8 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 ## <font > Works in Progress </font> 
 
-<!-- font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
-*<font >Ongoing</font>* -->
-
-## <font> Conferences </font> 
-
-<div class="publications">
-  <ol class="bibliography">
-      <!-- Paper 1 -->
-      <li>
-          <div class="row">
-              <div class="col-sm-2 abbr">
-                  <abbr class="badge">IEEE-ICACCTech2024</abbr>
-              </div>
-              <div id="m-bad" class="col-sm-8">
-                  <div class="title">
-                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank">
-                          <b style="color:brown">E-Vigilant: An e-commerce assistant smartphone application with customer and seller fraud detection, seller identity check, legal help, e-shopping features </b>
-                      </a>
-                  </div>
-                  <div class="author">
-                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
-                  </div>
-                  <div class="periodical">
-                      <em>In Proceedings of the 2024 Second International Conference on Advanced Computing & Communication Technologies (ICACCTech)</em>
-                  </div>
-                  <div class="links">
-                      <a href="https://www.acctcomputing.com/" target="_blank">
-                          <font color="#4796C9">[Conference Link]</font></a> |
-                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
-                  </div>
-              </div>
-          </div>
-      </li>
-   <!-- paper 2 will appear here -->
-  </ol>
-</div>
+font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
+*<font >Ongoing</font>*
 
 ## <font > Journals </font>  
 
@@ -99,6 +66,66 @@ My broad research interests are in Natural Language Processing and Explainable A
                       <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
                           <font color="#4796C9">[Schimago Journal Rank]</font></a> |
                       <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501"><font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+      </li>
+   <!-- paper 2 will appear here -->
+  </ol>
+</div>
+
+## <font> Conferences </font> 
+
+<div class="publications">
+  <ol class="bibliography">
+      <!-- Paper 1 -->
+      <li>
+       
+       <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">IEEE-COMP-SIF 2025</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank">
+                          <b style="color:brown">Endeavour: A Migrant Worker Assistance Mobile Application with Recruit Agency Search, Emigration, Overseas Employment Help Features</b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Mahfuzulhoq Chowdhury</b></span>, & Salman Farsi
+                  </div>
+                  <div class="periodical">
+                      <em>2025 International Conference on Computing for Sustainability and Intelligent Future (COMP-SIF)</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.aconf.org/conf_212893.html" target="_blank">
+                          <font color="#4796C9">[Conference Link]</font></a> |
+                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+
+       
+          <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">IEEE-ICACCTech 2024</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank">
+                          <b style="color:brown">E-Vigilant: An e-commerce assistant smartphone application with customer and seller fraud detection, seller identity check, legal help, e-shopping features </b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
+                  </div>
+                  <div class="periodical">
+                      <em>In Proceedings of the 2024 Second International Conference on Advanced Computing & Communication Technologies (ICACCTech)</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.acctcomputing.com/" target="_blank">
+                          <font color="#4796C9">[Conference Link]</font></a> |
+                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
                   </div>
               </div>
           </div>
