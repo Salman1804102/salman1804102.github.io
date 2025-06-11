@@ -36,7 +36,7 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 ## <font > Works in Progress </font> 
 
-font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
+<font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
 *<font >Ongoing</font>*
 
 ## <font > Journals </font>  
@@ -60,7 +60,7 @@ font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News 
                   </div>
                   <div class="periodical">
                       <em>EAI Endorsed Transaction on Scalable Information System, vol. 12, Jan. 2025</em><br>
-                      <em>Indexed By: Scopus, Web of Science, etc. IF: 1.98</em>
+                      <em>Indexed By: Scopus, Web of Science, etc. IF: 1.98, Quartile: Q2</em>
                   </div>
                   <div class="links">
                       <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
@@ -79,33 +79,7 @@ font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News 
 <div class="publications">
   <ol class="bibliography">
       <!-- Paper 1 -->
-      <li>
-       
-       <div class="row">
-              <div class="col-sm-2 abbr">
-                  <abbr class="badge">IEEE-COMP-SIF 2025</abbr>
-              </div>
-              <div id="m-bad" class="col-sm-8">
-                  <div class="title">
-                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank">
-                          <b style="color:brown">Endeavour: A Migrant Worker Assistance Mobile Application with Recruit Agency Search, Emigration, Overseas Employment Help Features</b>
-                      </a>
-                  </div>
-                  <div class="author">
-                      <span style="color:#2d862d"><b>Mahfuzulhoq Chowdhury</b></span>, & Salman Farsi
-                  </div>
-                  <div class="periodical">
-                      <em>2025 International Conference on Computing for Sustainability and Intelligent Future (COMP-SIF)</em>
-                  </div>
-                  <div class="links">
-                      <a href="https://www.aconf.org/conf_212893.html" target="_blank">
-                          <font color="#4796C9">[Conference Link]</font></a> |
-                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
-                  </div>
-              </div>
-          </div>
-
-       
+      <li> 
           <div class="row">
               <div class="col-sm-2 abbr">
                   <abbr class="badge">IEEE-ICACCTech 2024</abbr>
@@ -130,7 +104,35 @@ font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News 
               </div>
           </div>
       </li>
+
+   
    <!-- paper 2 will appear here -->
+   <li>
+    <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">IEEE-COMP-SIF 2025</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank">
+                          <b style="color:brown">Endeavour: A Migrant Worker Assistance Mobile Application with Recruit Agency Search, Emigration, Overseas Employment Help Features</b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Mahfuzulhoq Chowdhury</b></span>, & Salman Farsi
+                  </div>
+                  <div class="periodical">
+                      <em>2025 International Conference on Computing for Sustainability and Intelligent Future (COMP-SIF)</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.aconf.org/conf_212893.html" target="_blank">
+                          <font color="#4796C9">[Conference Link]</font></a> |
+                      <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+   </li>
+   
   </ol>
 </div>
 
