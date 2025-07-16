@@ -1,43 +1,111 @@
 ---
-title: "Research Interest"
+title: "🔬 Research Interest"
 excerpt: ""
 permalink: /research/
 ---
 
-My broad research interests are in Natural Language Processing and Explainable AI. Some of the areas I wish to work are,
+My broad research interests are in Natural Language Processing, Multimodal Learning, Explainable AI, Applied Computer Vision, HCI, and Software Engieering. Some of the areas I wish to work are,
 
- * Information Extraction, Multilingual and low‐resource NLP, Social Computing [fake, hate, abusive, stance related content classification]
- * Multimodal NLP [utilizing linguistic, acoustic, and visual features to build intelligent systems]
- * Explainable AI
- * Application of Computer Vision in Goescience & Medical Science
+### 🧠 Information Extraction & Low-Resource NLP  
+Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.<br>
+
+### 🎥 Multimodal Natural Language Processing  
+Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.
+
+### 🧩 Explainable AI (XAI)  
+Designing transparent and interpretable models for NLP and multimodal learning tasks.
+
+### 🌍 Applied Computer Vision and Bioinformatics
+Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.
+
+### 📱 Human-Computer Interaction, Mobile AI and Software Engineering
+Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.
 
  
 <div class="publications">
  <hr class="section-line">
  <h1>Publications</h1>
- <!--
- <div style="text-align: center; margin: 20px 0;">
-   <p style="font-size: 1.2em; font-weight: bold; color: #333;">
-     To get the full list of my papers, please check:
-   </p>
-   <div style="font-size: 1.1em;">
-     <a href="https://scholar.google.com/citations?user=lNmtUxsAAAAJ&hl=en" target="_blank" style="color: #007bff; text-decoration: none; margin-right: 10px;">
-       <strong>Google Scholar</strong>
-     </a>
-     <span style="color: #333; font-weight: bold;">|</span>
-     <a href="https://www.semanticscholar.org/author/Salman-Farsi/2291362611" target="_blank" style="color: #007bff; text-decoration: none; margin-left: 10px;">
-       <strong>Semantic Scholar</strong>
-     </a>
-   </div>
- </div>
- -->
 <hr class="section-line">
 </div>
 
-## <font > Works in Progress </font> 
+## <font > Works in Progress </font>  
 
-<font color="#993333">BanglaMM-FNX: A Multimodal Framework for Bengali Fake News Classification</font>     
-*<font >Ongoing</font>*
+<div class="publications">
+  <ol class="bibliography">
+      <!-- Paper 1 -->
+     <li>
+      <div class="row">
+       <div class="col-sm-2 abbr">
+         <abbr class="badge">Extended-Abstracts: IEEE Symposium 2024</abbr>
+       </div>
+   
+       <div id="m-bad" class="col-sm-8">
+         <div class="title">
+           <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection" target="_blank">
+             <b style="color:brown">A Multimodal Framework for Bengali Fake News Detection</b>
+           </a>
+         </div>
+   
+         <div class="author">
+           <span style="color:#2d862d"><b>Salman Farsi</b></span>, Asrarul Hoque Eusa & Mohammad Shamsul Arefin
+         </div>
+   
+         <div class="periodical">
+           <em>IEEE CS BDC Symposium 2024</em>
+         </div>
+   
+         <div class="links">
+           <a href="https://s24.ieeecsbdc.org/" target="_blank">
+             <font color="#4796C9">[Symposium Link]</font></a> |
+           <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection"><font color="#4796C9">[Paper </font> </a> 
+         </div>
+   
+         <!-- Abstract toggle + tags -->
+         <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+           <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+           <div class="tags">
+             <span class="tag">Multimodal</span>
+             <span class="tag">Fake News</span>
+             <span class="tag">Low-Resource NLP</span>
+           </div>
+         </div>
+   
+         <!-- Collapsible abstract -->
+         <div class="abstract-content" style="display: none; margin-top: 0.5rem;">
+           <p>This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.</p>
+         </div>
+       </div>
+     </div>
+   </li>
+
+   <!-- paper 2 will appear here -->
+         <li>
+          <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">Extended-Abstracts: IEEE Symposium 2024</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://s24.ieeecsbdc.org/papers/34-multimodal-hate-event-detection-in-russia-ukraine-war" target="_blank">
+                          <b style="color:brown">Multimodal Hate Event Detection in Russia-Ukraine War</b>
+                      </a>
+                  </div>
+                  <div class="author">
+                       Asrarul Hoque Eusa, <span style="color:#2d862d"><b>Salman Farsi</b></span> & Mohammad Shamsul Arefin
+                  </div>
+                  <div class="periodical">
+                      <em>IEEE CS BDC Symposium 2024</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://s24.ieeecsbdc.org/" target="_blank">
+                          <font color="#4796C9">[Symposium Link]</font></a> |
+                      <a href="https://s24.ieeecsbdc.org/papers/34-multimodal-hate-event-detection-in-russia-ukraine-war"><font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+              </div>
+          </div>
+      </li>
+  </ol>
+</div>
 
 ## <font > Journals </font>  
 
@@ -78,8 +146,7 @@ My broad research interests are in Natural Language Processing and Explainable A
 
 <div class="publications">
   <ol class="bibliography">
-     
-   <!-- paper 2 will appear here -->
+   <!-- paper 1 will appear here -->
    <li>
     <div class="row">
               <div class="col-sm-2 abbr">
@@ -92,7 +159,7 @@ My broad research interests are in Natural Language Processing and Explainable A
                       </a>
                   </div>
                   <div class="author">
-                      <span style="color:#2d862d"><b>Mahfuzulhoq Chowdhury</b></span>, & Salman Farsi
+                      Mahfuzulhoq Chowdhury & <span style="color:#2d862d"><b>Salman Farsi</b></span>
                   </div>
                   <div class="periodical">
                       <em>2025 International Conference on Computing for Sustainability and Intelligent Future (COMP-SIF)</em>
@@ -106,7 +173,7 @@ My broad research interests are in Natural Language Processing and Explainable A
           </div>
    </li>
    
-    <!-- Paper 1 -->
+    <!-- Paper 2 -->
       <li> 
           <div class="row">
               <div class="col-sm-2 abbr">
@@ -280,8 +347,16 @@ My broad research interests are in Natural Language Processing and Explainable A
           </div>
       </li>
   </ol>
-  
 </div>
+
+<script>
+function toggleAbstract(button) {
+  const abstractDiv = button.nextElementSibling;
+  const isVisible = abstractDiv.style.display === 'block';
+  abstractDiv.style.display = isVisible ? 'none' : 'block';
+  button.textContent = isVisible ? 'Show Abstract' : 'Hide Abstract';
+}
+</script>
 
 <style>
 /* Global Settings */
@@ -290,12 +365,10 @@ My broad research interests are in Natural Language Processing and Explainable A
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
 }
-
 /* Publications Section */
 .publications {
   margin-top: 2rem;
 }
-
 .publications h1 {
   color: var(--global-theme-color);
   font-size: 2rem;
@@ -303,22 +376,18 @@ My broad research interests are in Natural Language Processing and Explainable A
   margin-top: 1em;
   margin-bottom: 1em;
 }
-
 .publications ol.bibliography {
   list-style: none;
   padding: 0;
   margin-top: 0;
 }
-
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
-
 .publications ol.bibliography li .abbr {
   height: 2rem;
   margin-bottom: 0.5rem;
 }
-
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
   background-color: var(--global-theme-color);
@@ -326,40 +395,68 @@ My broad research interests are in Natural Language Processing and Explainable A
   padding-right: 1rem;
   color: white;
 }
-
 .publications ol.bibliography li .title {
   font-weight: bolder;
   color: brown;
 }
-
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
 }
-
 .publications ol.bibliography li .author a:hover {
   border-bottom-style: solid;
   text-decoration: none;
 }
-
 .publications ol.bibliography li .links a.btn {
   color: var(--global-text-color);
   border: 1px solid var(--global-theme-color);
   padding: 0.25rem 1rem;
 }
-
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
-
  /* Section Lines */
 .section-line {
   border: none;
   border-top: 4px solid var(--global-theme-color);
   margin: 1rem 0;
 }
- 
-</style> 
+ .abstract-toggle {
+  background-color: var(--global-theme-color);
+  color: white;
+  border: none;
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.abstract-toggle:hover {
+  background-color: #520dc2;
+}
+.abstract-content {
+  font-size: 0.9rem;
+  color: #444;
+  background-color: #f1f1f1;
+  padding: 0.75rem;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 4px;
+}
+.tags {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+.tag {
+  background-color: #dee2e6;
+  color: #333;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.75rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+</style>
+
+
   
 
 
