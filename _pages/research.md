@@ -57,22 +57,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
            <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection"><font color="#4796C9">[Paper </font> </a> 
          </div>
    
-         <!-- Abstract toggle + tags -->
-         <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
-           <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
-           <!-- Collapsible abstract -->
-           <div class="abstract-content" style="display: none; margin-top: 0.5rem;">
-             <p>This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.
-             </p>
-           </div>
-         </div>
-         
-         <!-- Tags should be in separate sibling -->
-         <div class="tags">
-             <span class="tag">Multimodal</span>
-             <span class="tag">Fake News</span>
-             <span class="tag">Low-Resource NLP</span>
+          <div class="meta-header">
+            <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+            <div class="tags">
+              <span class="tag">Multimodal</span>
+              <span class="tag">Fake News</span>
+              <span class="tag">Low-Resource NLP</span>
+            </div>
           </div>
+          
+          <!-- Abstract content below -->
+          <div class="abstract-content">
+            <p>
+              This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.
+            </p>
+          </div>
+
 
        </div>
      </div>
@@ -419,7 +419,16 @@ function toggleAbstract(button) {
   border-top: 4px solid var(--global-theme-color);
   margin: 0.7rem 0;
 }
- .abstract-toggle {
+ 
+.meta-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.abstract-toggle {
   background-color: var(--global-abstract-btn-color);
   color: black;
   border: none;
@@ -428,22 +437,29 @@ function toggleAbstract(button) {
   border-radius: 5px;
   cursor: pointer;
 }
+
 .abstract-toggle:hover {
   background-color: #11d1ce;
 }
+
 .abstract-content {
+  display: none; /* default hidden */
   font-size: 0.7rem;
   color: #444;
   background-color: #f1f1f1;
   padding: 0.75rem;
   border-left: 4px solid var(--global-theme-color);
   border-radius: 4px;
+  margin-top: 0.5rem;
 }
+
 .tags {
   display: flex;
   gap: 0.4rem;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
+
 .tag {
   background-color: #dee2e6;
   color: #333;
@@ -452,6 +468,7 @@ function toggleAbstract(button) {
   border-radius: 3px;
   white-space: nowrap;
 }
+
 </style>
 
 
