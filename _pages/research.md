@@ -357,7 +357,7 @@ function toggleAbstract(button) {
   --global-theme-color: #6610f2;
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
-  --global-abstract-btn-color: ##d0d8f2
+  --global-abstract-btn-color: ##d0d8f2;
 }
 /* Publications Section */
 .publications {
@@ -434,6 +434,7 @@ function toggleAbstract(button) {
   background-color: #939dbf;
 }
 .abstract-content {
+  display: none;
   font-size: 1rem;
   color: #444;
   background-color: #f1f1f1;
