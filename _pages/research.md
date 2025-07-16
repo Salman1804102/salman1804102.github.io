@@ -27,7 +27,7 @@ Development of intelligent, user-centric mobile applications that enhance intera
      <li>
       <div class="row">
        <div class="col-sm-2 abbr">
-         <abbr class="badge">Extended-Abstracts: IEEE Symposium 2024</abbr>
+         <abbr class="badge">Extended-Abstract: IEEE Symposium 2024</abbr>
        </div>
    
        <div id="m-bad" class="col-sm-8">
@@ -73,7 +73,7 @@ Development of intelligent, user-centric mobile applications that enhance intera
          <li>
           <div class="row">
               <div class="col-sm-2 abbr">
-                  <abbr class="badge">Extended-Abstracts: IEEE Symposium 2024</abbr>
+                  <abbr class="badge">Extended-Abstract: IEEE Symposium 2024</abbr>
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
@@ -507,7 +507,7 @@ function toggleAbstract(button) {
   margin-top: 0;
 }
 .publications ol.bibliography li {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
 .publications ol.bibliography li .abbr {
   height: 1rem;
