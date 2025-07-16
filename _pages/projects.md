@@ -55,13 +55,7 @@ redirect_from:
 
 <div class="container mt-5">
   <div class="post">
-    <header class="post-header">
-      <h1 class="post-title">Projects</h1>
-      <p class="post-description" style="border-bottom: 1px solid #e8e8e8; padding-bottom: 1rem; text-align: left;">
-        <em>I have worked on a wide range of projects, spanning areas such as Machine Learning, Natural Language Processing, and Mobile Application Development.</em>
-      </p>
-    </header>
-
+    
     <article>
 
       <!-- Machine Learning Projects -->
