@@ -27,7 +27,6 @@ Development of intelligent, user-centric mobile applications that enhance intera
 </div>
 
 ## <font > Works in Progress </font>  
-
 <div class="publications">
   <ol class="bibliography">
       <!-- Paper 1 -->
@@ -61,17 +60,20 @@ Development of intelligent, user-centric mobile applications that enhance intera
          <!-- Abstract toggle + tags -->
          <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
            <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
-           <div class="tags">
+           <!-- Collapsible abstract -->
+           <div class="abstract-content" style="display: none; margin-top: 0.5rem;">
+             <p>This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.
+             </p>
+           </div>
+         </div>
+         
+         <!-- Tags should be in separate sibling -->
+         <div class="tags">
              <span class="tag">Multimodal</span>
              <span class="tag">Fake News</span>
              <span class="tag">Low-Resource NLP</span>
-           </div>
-         </div>
-   
-         <!-- Collapsible abstract -->
-         <div class="abstract-content" style="display: none; margin-top: 0.5rem;">
-           <p>This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.</p>
-         </div>
+          </div>
+
        </div>
      </div>
    </li>
@@ -106,7 +108,6 @@ Development of intelligent, user-centric mobile applications that enhance intera
 </div>
 
 ## <font > Journals </font>  
-
 <div class="publications">
   <ol class="bibliography">
       <!-- Paper 1 -->
@@ -141,7 +142,6 @@ Development of intelligent, user-centric mobile applications that enhance intera
 </div>
 
 ## <font> Conferences </font> 
-
 <div class="publications">
   <ol class="bibliography">
    <!-- paper 1 will appear here -->
@@ -201,7 +201,6 @@ Development of intelligent, user-centric mobile applications that enhance intera
 </div>
 
 ## <font > Workshops </font>
-
 <div class="publications">
   <ol class="bibliography">
       <!-- Paper 1 -->
@@ -385,7 +384,7 @@ function toggleAbstract(button) {
 }
 .publications ol.bibliography li .abbr {
   height: 1rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
@@ -425,7 +424,7 @@ function toggleAbstract(button) {
   color: black;
   border: none;
   padding: 0.4rem 1rem;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   border-radius: 5px;
   cursor: pointer;
 }
