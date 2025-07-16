@@ -3,7 +3,6 @@ title: "🔬 Research Interest"
 excerpt: ""
 permalink: /research/
 ---
-
 My broad research interests are in Natural Language Processing, Multimodal Learning, Explainable AI, Applied Computer Vision, HCI, and Software Engieering. Some of the areas I wish to work are,
 
 ### 🧠 Information Extraction & Low-Resource NLP  
@@ -21,7 +20,6 @@ Applying deep vision techniques to real-world problems in geoscience, medical im
 ### 📱 Human-Computer Interaction, Mobile AI and Software Engineering
 Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.
 
- 
 <div class="publications">
  <hr class="section-line">
  <h1>Publications</h1>
@@ -364,6 +362,7 @@ function toggleAbstract(button) {
   --global-theme-color: #6610f2;
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
+  --global-abstract-btn-color: #05fcf8
 }
 /* Publications Section */
 .publications {
@@ -373,8 +372,8 @@ function toggleAbstract(button) {
   color: var(--global-theme-color);
   font-size: 2rem;
   text-align: center;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 .publications ol.bibliography {
   list-style: none;
@@ -382,10 +381,10 @@ function toggleAbstract(button) {
   margin-top: 0;
 }
 .publications ol.bibliography li {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .publications ol.bibliography li .abbr {
-  height: 2rem;
+  height: 1rem;
   margin-bottom: 0.5rem;
 }
 .publications ol.bibliography li .abbr abbr {
@@ -419,22 +418,22 @@ function toggleAbstract(button) {
 .section-line {
   border: none;
   border-top: 4px solid var(--global-theme-color);
-  margin: 1rem 0;
+  margin: 0.7rem 0;
 }
  .abstract-toggle {
-  background-color: var(--global-theme-color);
-  color: white;
+  background-color: var(--global-abstract-btn-color);
+  color: black;
   border: none;
   padding: 0.4rem 1rem;
-  font-size: 0.85rem;
+  font-size: 0.65rem;
   border-radius: 5px;
   cursor: pointer;
 }
 .abstract-toggle:hover {
-  background-color: #520dc2;
+  background-color: #11d1ce;
 }
 .abstract-content {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   color: #444;
   background-color: #f1f1f1;
   padding: 0.75rem;
