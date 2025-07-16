@@ -56,23 +56,20 @@ Development of intelligent, user-centric mobile applications that enhance intera
              <font color="#4796C9">[Symposium Link]</font></a> |
            <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection"><font color="#4796C9">[Paper </font> </a> 
          </div>
-   
-          <div class="meta-header">
-            <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
-            <div class="tags">
-              <span class="tag">Multimodal</span>
-              <span class="tag">Fake News</span>
-              <span class="tag">Low-Resource NLP</span>
-            </div>
-          </div>
-          
-          <!-- Abstract content below -->
-          <div class="abstract-content">
-            <p>
-              This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.
-            </p>
-          </div>
-
+         
+           <div class="meta-header">
+           <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+           <div class="tags">
+             <span class="tag">Multimodal</span>
+             <span class="tag">Fake News</span>
+             <span class="tag">Low-Resource NLP</span>
+           </div>
+         </div>
+         <div class="abstract-content">
+           <p>
+             This study introduces a multimodal fake news detection framework for Bengali, combining text and image analysis to improve accuracy. Using the BanglaMM-FND dataset, the approach integrates BERT-based models with Vision Transformer, achieving a macro-averaged F1-score of 0.71, highlighting the potential of multimodal fusion in combating fake news in low-resourced languages.
+           </p>
+         </div>
 
        </div>
      </div>
@@ -348,9 +345,14 @@ Development of intelligent, user-centric mobile applications that enhance intera
 
 <script>
 function toggleAbstract(button) {
-  const abstractDiv = button.nextElementSibling;
+  const container = button.closest('.meta-header');
+  const abstractDiv = container.nextElementSibling;
+  const tagDiv = container.querySelector('.tags');
+
   const isVisible = abstractDiv.style.display === 'block';
+
   abstractDiv.style.display = isVisible ? 'none' : 'block';
+  tagDiv.style.display = isVisible ? 'flex' : 'none';
   button.textContent = isVisible ? 'Show Abstract' : 'Hide Abstract';
 }
 </script>
@@ -361,7 +363,7 @@ function toggleAbstract(button) {
   --global-theme-color: #6610f2;
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
-  --global-abstract-btn-color: #05fcf8
+  --global-abstract-btn-color: ##d0d8f2
 }
 /* Publications Section */
 .publications {
@@ -419,56 +421,45 @@ function toggleAbstract(button) {
   border-top: 4px solid var(--global-theme-color);
   margin: 0.7rem 0;
 }
- 
-.meta-header {
+ .meta-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
 }
-
-.abstract-toggle {
+ .abstract-toggle {
   background-color: var(--global-abstract-btn-color);
   color: black;
   border: none;
   padding: 0.4rem 1rem;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   border-radius: 5px;
   cursor: pointer;
 }
-
 .abstract-toggle:hover {
-  background-color: #11d1ce;
+  background-color: #939dbf;
 }
-
 .abstract-content {
-  display: none; /* default hidden */
-  font-size: 0.7rem;
+  font-size: 1rem;
   color: #444;
   background-color: #f1f1f1;
   padding: 0.75rem;
   border-left: 4px solid var(--global-theme-color);
   border-radius: 4px;
-  margin-top: 0.5rem;
 }
-
 .tags {
   display: flex;
   gap: 0.4rem;
   flex-wrap: wrap;
-  justify-content: flex-end;
 }
-
 .tag {
   background-color: #dee2e6;
   color: #333;
   padding: 0.25rem 0.6rem;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   border-radius: 3px;
   white-space: nowrap;
 }
-
 </style>
 
 
