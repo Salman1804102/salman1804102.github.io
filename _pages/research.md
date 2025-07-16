@@ -3,20 +3,14 @@ title: "🔬 Research Interest"
 excerpt: ""
 permalink: /research/
 ---
-My broad research interests are in Natural Language Processing, Multimodal Learning, Explainable AI, Applied Computer Vision, HCI, and Software Engieering. Some of the areas I wish to work are,
-
 ### 🧠 Information Extraction & Low-Resource NLP  
 Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.<br>
-
 ### 🎥 Multimodal Natural Language Processing  
 Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.
-
-### 🧩 Explainable AI (XAI)  
-Designing transparent and interpretable models for NLP and multimodal learning tasks.
-
 ### 🌍 Applied Computer Vision and Bioinformatics
 Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.
-
+### 🧩 Explainable AI (XAI)  
+Designing transparent and interpretable models for NLP and multimodal learning tasks.
 ### 📱 Human-Computer Interaction, Mobile AI and Software Engineering
 Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.
 
