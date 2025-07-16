@@ -48,14 +48,14 @@ Development of intelligent, user-centric mobile applications that enhance intera
          <div class="links">
            <a href="https://s24.ieeecsbdc.org/" target="_blank">
              <font color="#4796C9">[Symposium Link]</font></a> |
-           <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection"><font color="#4796C9">[Paper </font> </a> 
+           <a href="https://s24.ieeecsbdc.org/papers/51-a-multimodal-framework-for-bengali-fake-news-detection"><font color="#4796C9">[Paper]</font> </a> 
          </div>
-         
+         <!-- Abstract Showing Mechanism -->
            <div class="meta-header">
            <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
            <div class="tags">
              <span class="tag">Multimodal</span>
-             <span class="tag">Fake News</span>
+             <span class="tag">Early & Late Fusion</span>
              <span class="tag">Low-Resource NLP</span>
            </div>
          </div>
@@ -92,9 +92,26 @@ Development of intelligent, user-centric mobile applications that enhance intera
                           <font color="#4796C9">[Symposium Link]</font></a> |
                       <a href="https://s24.ieeecsbdc.org/papers/34-multimodal-hate-event-detection-in-russia-ukraine-war"><font color="#4796C9">[Paper]</font> </a> 
                   </div>
+   
+                  <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Multimodal</span>
+                      <span class="tag">MLP Fusion</span>
+                      <span class="tag">Low-Resource NLP</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      This study introduces a unified multimodal fusion model for hate speech detection (HD) and target detection (TD) using the CrisisHateMM dataset of 4,700 annotated text-embedded images. Combining TwHIN-BERT for text and Vision Transformer (ViT) for visuals, the model achieved state-of-the-art F1-scores of 0.806 (HD) and 0.683 (TD). Future work focuses on enhancing model performance and expanding datasets to strengthen online hate speech mitigation during crises.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
+ 
   </ol>
 </div>
 
@@ -125,6 +142,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
                           <font color="#4796C9">[Schimago Journal Rank]</font></a> |
                       <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501"><font color="#4796C9">[Paper]</font> </a> 
                   </div>
+
+                     <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Explainable AI</span>
+                      <span class="tag">Fraud Detection</span>
+                      <span class="tag">E-Commerce</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      The popularity of e-commerce businesses and online shopping is experiencing rapid growth all around the world. Nowadays, people are more inclined to shop online than in the actual shops. Due to this advancement, fraudsters have set new traps to deceive consumers. Whether it is true that customers often become victims of fraud, it also happens that a fraud customer tries to deceive the seller and hassle the seller intentionally in several ways. To address these issues, an automated system is required so that fraud incidents can be classified. This will facilitate taking legal action and reporting to consumer rights authorities. Existing research on fraud detection and prevention didn't cover customer and seller-side fraud simultaneously. Besides, most of the work focused on fraud detection rather than post-fraud incident classification. To overcome these gaps, this research endeavor conducts a thorough online survey of customers and sellers to gather incident-specific victim data on fraud cases and it addresses the issue for both customer and seller. This paper proposes a machine learning (ML) based explainable fraud incident classification framework EcomFraudEX, that can efficiently classify these fraud incidents and analyze the reason behind each incident. This framework particularly focuses on proper feature selection techniques, hyper-parameter tuning of models, and exploring different ML and ensemble models. Ensemble majority voting schemes consisting of Random Forest (RF), XGBoost, and CatBoost achieved the highest F1-score of 96% with the Chi-Square feature selection technique in the customer complaint dataset and 98% with the RF feature selection technique in the seller complaint dataset. To explain the incident reasoning, Local Interpretable Model Agnostic Explanation (LIME) and Shapely Additive Explanation (SHAP) were further utilized. The proposed scheme achieved a 1.57% higher F1-score and 2.13% higher accuracy than previous works.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
@@ -158,6 +191,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
                           <font color="#4796C9">[Conference Link]</font></a> |
                       <a href="https://ieeexplore.ieee.org/document/10969945" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
                   </div>
+
+                    <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Mobile AI</span>
+                      <span class="tag">Intelligent Computing</span>
+                      <span class="tag">HCI</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      Migrant workers not only help fill the labor shortage, but they also make a substantial contribution to the economic growth. Existing research works on migrant workers assistance did not develop any mobile or web application with legal migration prediction, recruit agency, foreign mission, medical center search, emigration clearance, document attestation, remittance transfer, casting vote, and employment search features. In order to alleviate these issues, this article creates a smartphone application for migrant worker support that includes capabilities for detecting labor rights and legal migration, searching for recruit agencies, foreign missions, transferring remittances, and casting votes. This mobile application offers features for finding medical centers, finding a job, training, emigration clearance, document attestations, feedback on migration, and financial aid. Over 65 percent of the migrants provided very impactful comments regarding the planned application, according to the app's impact and potential analysis results.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
    </li>
@@ -170,7 +219,7 @@ Development of intelligent, user-centric mobile applications that enhance intera
               </div>
               <div id="m-bad" class="col-sm-8">
                   <div class="title">
-                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank">
+                      <a href="https://ieeexplore.ieee.org/document/10918549" target="_blank">
                           <b style="color:brown">E-Vigilant: An e-commerce assistant smartphone application with customer and seller fraud detection, seller identity check, legal help, e-shopping features </b>
                       </a>
                   </div>
@@ -183,8 +232,25 @@ Development of intelligent, user-centric mobile applications that enhance intera
                   <div class="links">
                       <a href="https://www.acctcomputing.com/" target="_blank">
                           <font color="#4796C9">[Conference Link]</font></a> |
-                      <a href="https://drafts.acctcomputing.com/pdfs/ICACCTech2024-32S2u1I0hhCM1Dtms4YwyH/190500a412/190500a412.pdf" target="_blank"> <font color="#4796C9">[Paper]</font> </a> 
+                      <a href="https://ieeexplore.ieee.org/document/10918549">[Paper]</font> </a> 
                   </div>
+
+                    <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Mobile AI</span>
+                      <span class="tag">Intelligent Computing</span>
+                      <span class="tag">HCI</span>
+                      <span class="tag">E-commerce</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      Ecommerce or online shopping is popular all over the world due to increased internet and smartphone usage, convenience, easy access to product and seller information, reduced communication difficulties, and changing consumer behaviors. The previous literary works on ecommerce assistants did not offer adequate support to both customers and sellers. This was due to the absence of an automated application that could predict customer and seller fraud, submit electronic complaints, search for legal help, and provide options for verifying the identity of sellers, products, and customers. To rectify the existing concerns, this paper exhibits an ecommerce assistant smartphone application that includes customer and seller side fraud prediction, seller, customer, and product identity checks, electronic complaint against fraud, legal help search, customer choice-based e-shopping feature, seller contact, inquiry, loan application for sellers, ecommerce tips, and seller review submission features. The app success measurement and fruitfulness investigation results revealed that more than 57% of investigators supported the proposed application with excellent feedback.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
@@ -223,6 +289,23 @@ Development of intelligent, user-centric mobile applications that enhance intera
                           <font color="#4796C9">[Code]</font>
                       </a>
                   </div>
+
+                     <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Low-Resource NLP</span>
+                      <span class="tag">Text Classification</span>
+                      <span class="tag">Social Computing</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      With the continuous evolution of technology and widespread internet access, various social media platforms have gained immense popularity, attracting a vast number of active users globally. However, this surge in online activity has also led to a concerning trend by driving many individuals to resort to posting hateful and offensive comments or posts, publicly targeting groups or individuals. In response to these challenges, we participated in this shared task. Our approach involved proposing a fine-tuning-based pre-trained transformer model to effectively discern whether a given text contains offensive content that propagates hatred. We conducted comprehensive experiments, exploring various machine learning (LR, SVM, and Ensemble), deep learning (CNN, BiLSTM, CNN+BiLSTM), and transformer-based models (Indic-SBERT, m- BERT, MuRIL, Distil-BERT, XLM-R), adhering to a meticulous fine-tuning methodology. Among the models evaluated, our fine-tuned L3Cube-Indic-Sentence-Similarity- BERT or Indic-SBERT model demonstrated superior performance, achieving a macro-average F1-score of 0.7013. This notable result positioned us at the 6th place in the task. The implementation details of the task will be found in the GitHub repository.
+                    </p>
+                  </div>
+
+                  
               </div>
           </div>
       </li>
@@ -259,6 +342,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
                   <div class="award">
                       <p style="color:#f00;">🥇 Top model in fake news detection challenge</p>
                   </div>
+
+                     <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Low-Resource NLP</span>
+                      <span class="tag">Text Classification</span>
+                      <span class="tag">Social Computing</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      Due to technological advancements, various methods have emerged for disseminating news to the masses. The pervasive reach of news, however, has given rise to a significant concern: the proliferation of fake news. In response to this challenge, a shared task in Dravidian- LangTech EACL2024 was initiated to detect fake news and classify its types in the Malayalam language. The shared task consisted of two sub-tasks. Task 1 focused on a binary classification problem, determining whether a piece of news is fake or not. Whereas task 2 delved into a multi-class classification problem, categorizing news into five distinct levels. Our approach involved the exploration of various machine learning (RF, SVM, XGBoost, Ensemble), deep learning (BiLSTM, CNN), and transformer-based models (MuRIL, Indic- SBERT, m-BERT, XLM-R, Distil-BERT) by emphasizing parameter tuning to enhance overall model performance. As a result, we introduce a fine-tuned MuRIL model that leverages parameter tuning, achieving notable success with an F1-score of 0.86 in task 1 and 0.5191 in task 2. This successful implementation led to our system securing the 3rd position in task 1 and the 1st position in task 2. The source code will be found in the GitHub repository at this link: https://github.com/Salman1804102/DravidianLangTech-EACL-2024-FakeNews.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
@@ -295,6 +394,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
                   <div class="award">
                       <p style="color:#f00;">🥇 Top model in hate speech event detection challenge</p>
                   </div>
+
+                    <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">NLP</span>
+                      <span class="tag">Stance Classification</span>
+                      <span class="tag">Social Computing</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      The escalating impact of climate change on our environment and lives has spurred a global surge in climate change activism. However, the misuse of social media platforms like Twitter has opened the door to the spread of hatred against activism, targeting individuals, organizations, or entire communities. Also, the identification of the stance in a tweet holds paramount significance, especially in the context of understanding the success of activism. So, to address the challenge of detecting such hate tweets, identifying their targets, and classifying stances from tweets, this shared task introduced three sub-tasks, each aiming to address exactly one mentioned issue. We participated in all three sub-tasks and in this paper, we showed a comparative analysis between the different machine learning (ML), deep learning (DL), hybrid, and transformer models. Our approach involved proper hyper-parameter tuning of models and effectively handling class imbalance datasets through data oversampling. Notably, our fine-tuned m-BERT achieved a macro-average $f1$ score of 0.91 in sub-task A (Hate Speech Detection) and 0.74 in sub-task B (Target Identification). On the other hand, Climate-BERT achieved a $f1$ score of 0.67 in sub-task C. These scores positioned us at the forefront, securing 1st, 6th, and 15th ranks in the respective sub-tasks. The detailed implementation information for the tasks is available in the GitHub.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
@@ -331,6 +446,22 @@ Development of intelligent, user-centric mobile applications that enhance intera
                   <div class="award">
                       <p style="color:#f00;">🥇 Top model in sentiment analysis challenge</p>
                   </div>
+
+                    <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Low-Resource NLP</span>
+                      <span class="tag">Text Classification</span>
+                      <span class="tag">Social Computing</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      Textual Sentiment Analysis (TSA) delves into people’s opinions, intuitions, and emotions regarding any entity. Natural Language Processing (NLP) serves as a technique to extract subjective knowledge, determining whether an idea or comment leans positive, negative, neutral, or a mix thereof toward an entity. In recent years, it has garnered substantial attention from NLP researchers due to the vast availability of online comments and opinions. Despite extensive studies in this domain, sentiment analysis in low-resourced languages such as Tamil and Tulu needs help handling code-mixed and transliterated content. To address these challenges, this work focuses on sentiment analysis of code-mixed and transliterated Tamil and Tulu social media comments. It explored four machine learning (ML) approaches (LR, SVM, XGBoost, Ensemble), four deep learning (DL) methods (BiLSTM and CNN with FastText and Word2Vec), and four transformer-based models (m-BERT, MuRIL, L3Cube-IndicSBERT, and Distilm-BERT) for both languages. For Tamil, L3Cube-IndicSBERT and ensemble approaches outperformed others, while m-BERT demonstrated superior performance among the models for Tulu. The presented models achieved the 3rd and 1st ranks by attaining macro F1-scores of 0.227 and 0.584 in Tamil and Tulu, respectively.
+                    </p>
+                  </div>
+                  
               </div>
           </div>
       </li>
@@ -357,7 +488,7 @@ function toggleAbstract(button) {
   --global-theme-color: #6610f2;
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
-  --global-abstract-btn-color: ##d0d8f2;
+  --global-abstract-btn-color: #d0d8f2;
 }
 /* Publications Section */
 .publications {
@@ -441,6 +572,7 @@ function toggleAbstract(button) {
   padding: 0.75rem;
   border-left: 4px solid var(--global-theme-color);
   border-radius: 4px;
+  margin-top:1em;
 }
 .tags {
   display: flex;
