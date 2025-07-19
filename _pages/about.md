@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I'm a <b>competitive programmer</b> and <b>natural language processing enthusiast</b>. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), where I graduated with a CGPA of 3.80/4.0 (Position: 8th, Top 6%). I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual). Therefore, natural language processing (NLP) are focus of my research interest. My research experience has been enriched by my time as a Research Intern at the CUET NLP Lab, under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the participation of the numerious shared task and publishing system description papers. My work has primarily focused on exploring the intricacies of language models, stance detection, and sentiment analysis, contributing valuable insights to the academic community. Recently, I've embarked on an exciting journey to master the concept of generative AI, and I can't wait to explore its transformative potential! 
+I'm a <b>full-time Software Engineer at Samsung Research</b> and a former University Lecturer. I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) in early August 2024, where I graduated with a CGPA of 3.80 / 4.0 (Position: 8th, Top 6%). I am greatly interested about machine learning and its practical applications in the real world. Specially uncovering the textual meaning within social media data and exploring the context of multimodal data (i.e. linguistic, acoustic, visual). My research journey began at the CUET NLP Lab as a Research Intern under the mentorship of Prof. Dr. Moshiul Hoque. During this period, I had the opportunity to work on cutting-edge NLP projects, resulting in the participation of the numerious shared task and publishing system description papers. My Undergraduate thesis titled, "EcomFraudEX: An Explainable Machine Learning Framework for Victim-Centric and Dual-Sided Fraud Incident Classification in E-Commerce" focused on Explainable AI in E-commerce fraud detection. I also have strong interests in HCI, Software Engineering and Computer Vision. I've published two papers on Intelligent Mobile Application Development, where I contributed intelligent solutions to real-world social problems. Currently, I am preparing a manuscript on satellite image classification and look forward to submitting it soon! 
 </p>
  
 <p align="justify">
@@ -18,7 +18,7 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 
 <b>Contact: 📧</b> [<font color= "#990033" >salman.cuet.cse@gmail.com</font>](salman.cuet.cse@gmail.com)
 
-<b>My latest CV: </b> Salman-Farsi-CV [<a href="https://drive.google.com/file/d/1_7lC5zATh2PGc4ef-JCXLRcz664zJYPB/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1vaJNmTMOFxaMtTRCiwy0_8gqLSRaK18M/view?usp=sharing"><font color="#990033">Short</font></a>]
+<b>My latest CV: </b> Salman-Farsi-CV [<a href=../files/Salman Farsi CV PhD.pdf"><font color="#990033">Long</font></a>]
 
 
 ## <font color="#00cc66"> Updates </font>
