@@ -47,7 +47,6 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 </pre>
 
 ## <font color="#00cc66"> Photo Gallery - Programming Contest</font>
-
 <div class="slider">
   <div class="slides">  
     <div class="slide">
@@ -92,7 +91,6 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 </div>
 
 ## <font color="#00cc66"> Photo Gallery - Conference Attendance</font>
-
 <div class="slider">
   <div class="slides">
     <div class="slide">
@@ -109,27 +107,26 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 </div>
 
 ## <font color="#00cc66"> Photo Gallery - Teaching</font>
-
 <div class="slider">
   <div class="slides">
     <div class="slide">
-      <img src="Gallery/teaching2.jpg" alt="Image 12">
+      <img src="Gallery/teaching2.jpg" alt="Image 11">
       <div class="caption">Taking Lab viva of students</div>
     </div>
     <div class="slide">
-      <img src="Gallery/teaching.jpg" alt="Image 11">
+      <img src="Gallery/teaching.jpg" alt="Image 12">
       <div class="caption">Teaching in a class</div>
     </div>
     <div class="slide">
-      <img src="Gallery/teaching6.jpg" alt="Image 11">
+      <img src="Gallery/teaching6.jpg" alt="Image 13">
       <div class="caption">A random NNFL class</div>
     </div>
     <div class="slide">
-      <img src="Gallery/teaching5.jpg" alt="Image 11">
+      <img src="Gallery/teaching5.jpg" alt="Image 14">
       <div class="caption">Teaching student how to utilize ChatGPT</div>
     </div>
     <div class="slide">
-      <img src="Gallery/teaching1.jpg" alt="Image 11">
+      <img src="Gallery/teaching1.jpg" alt="Image 15">
       <div class="caption">Bunch of writings in the board</div>
     </div>
   </div>
