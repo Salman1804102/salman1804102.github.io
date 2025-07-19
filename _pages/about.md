@@ -108,6 +108,36 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
 
+## <font color="#00cc66"> Photo Gallery - Teaching</font>
+
+<div class="slider">
+  <div class="slides">
+    <div class="slide">
+      <img src="Gallery/teaching2.jpg" alt="Image 12">
+      <div class="caption">Taking Lab viva of students</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/teaching.jpg" alt="Image 11">
+      <div class="caption">Teaching in a class</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/teaching6.jpg" alt="Image 11">
+      <div class="caption">A random NNFL class</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/teaching5.jpg" alt="Image 11">
+      <div class="caption">Teaching student how to utilize ChatGPT</div>
+    </div>
+    <div class="slide">
+      <img src="Gallery/teaching1.jpg" alt="Image 11">
+      <div class="caption">Bunch of writings in the board</div>
+    </div>
+  </div>
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
+
+
 <style>
   .slider {
     position: relative;
