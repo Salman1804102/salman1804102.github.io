@@ -18,9 +18,6 @@ Apart from that, I'm passionate about problem-solving and honed my competitive p
 
 <b>Contact: 📧</b> [<font color= "#990033" >salman.cuet.cse@gmail.com</font>](salman.cuet.cse@gmail.com)
 
-<b>My latest CV: </b> Salman-Farsi-CV [<a href=../files/Salman Farsi CV PhD.pdf"><font color="#990033">Long</font></a>]
-
-
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 300px; overflow: auto;">
 <pre>
