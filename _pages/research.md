@@ -3,16 +3,35 @@ title: "🔬 Research Interest"
 excerpt: ""
 permalink: /research/
 ---
-### 🧠 Information Extraction & Low-Resource NLP  
-Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.<br>
-### 🎥 Multimodal Natural Language Processing  
-Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.
-### 🌍 Applied Computer Vision and Bioinformatics
-Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.
-### 🧩 Explainable AI (XAI)  
-Designing transparent and interpretable models for NLP and multimodal learning tasks.
-### 📱 Human-Computer Interaction, Mobile AI and Software Engineering
-Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.
+<div class="research-area">
+  <h3>🧠 Information Extraction & Low-Resource NLP</h3>
+  <p>Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.</p>
+</div>
+
+<div class="research-area">
+  <h3>💒 NLP for Social Goods</h3>
+  <p>Hate Speech Detection, Misinformation Detection, Sentiment Analysis, Social Stance Classification etc.</p>
+</div>
+
+<div class="research-area">
+  <h3>🎥 Multimodality</h3>
+  <p>Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.</p>
+</div>
+ 
+<div class="research-area">
+  <h3>🧩 Explainable AI (XAI)</h3>
+  <p>Designing transparent and interpretable models for NLP and multimodal learning tasks.</p>
+</div>
+
+<div class="research-area">
+  <h3>🌍 Applied Computer Vision</h3>
+  <p>Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.</p>
+</div>
+
+<div class="research-area">
+  <h3>📱 HCI and Software Engineering</h3>
+  <p>Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.</p>
+</div>
 
 <div class="publications">
  <hr class="section-line">
@@ -586,6 +605,19 @@ function toggleAbstract(button) {
   font-size: 0.85rem;
   border-radius: 3px;
   white-space: nowrap;
+}
+.research-area {
+     margin-bottom: 10px; 
+     line-height: 1.4;    
+}
+.research-area h3 {
+  margin: 0;
+  font-size: 1.1em;
+}
+.research-area p {
+  margin: 4px 0 0 0;
+  font-size: 0.95em;
+  color: #333;
 }
 </style>
 
