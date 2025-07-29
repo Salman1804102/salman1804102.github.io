@@ -1,43 +1,45 @@
 ---
-title: "🔬 Research Interest"
+title: "Research Profile"
 excerpt: ""
 permalink: /research/
 ---
-<div class="research-area">
-  <h3>🧠 Information Extraction & Low-Resource NLP</h3>
-  <p>Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.</p>
-</div>
-
-<div class="research-area">
-  <h3>💒 NLP for Social Goods</h3>
-  <p>Hate Speech Detection, Misinformation Detection, Sentiment Analysis, Social Stance Classification etc.</p>
-</div>
-
-<div class="research-area">
-  <h3>🎥 Multimodality</h3>
-  <p>Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.</p>
-</div>
- 
-<div class="research-area">
-  <h3>🧩 Explainable AI (XAI)</h3>
-  <p>Designing transparent and interpretable models for NLP and multimodal learning tasks.</p>
-</div>
-
-<div class="research-area">
-  <h3>🌍 Applied Computer Vision</h3>
-  <p>Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.</p>
-</div>
-
-<div class="research-area">
-  <h3>📱 HCI and Software Engineering</h3>
-  <p>Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.</p>
-</div>
-
-<div class="publications">
- <hr class="section-line">
- <h1>Publications</h1>
-<hr class="section-line">
-</div>
+<!--- 
+  <div class="research-area">
+    <h3>🧠 Information Extraction & Low-Resource NLP</h3>
+    <p>Multilingual natural language processing with a focus on extracting structured information from underrepresented languages and domains.</p>
+  </div>
+  
+  <div class="research-area">
+    <h3>💒 NLP for Social Goods</h3>
+    <p>Hate Speech Detection, Misinformation Detection, Sentiment Analysis, Social Stance Classification etc.</p>
+  </div>
+  
+  <div class="research-area">
+    <h3>🎥 Multimodality</h3>
+    <p>Combining textual, acoustic, and visual modalities to build context-aware and human-centric AI systems.</p>
+  </div>
+   
+  <div class="research-area">
+    <h3>🧩 Explainable AI (XAI)</h3>
+    <p>Designing transparent and interpretable models for NLP and multimodal learning tasks.</p>
+  </div>
+  
+  <div class="research-area">
+    <h3>🌍 Applied Computer Vision</h3>
+    <p>Applying deep vision techniques to real-world problems in geoscience, medical imaging, and precision agriculture.</p>
+  </div>
+  
+  <div class="research-area">
+    <h3>📱 HCI and Software Engineering</h3>
+    <p>Development of intelligent, user-centric mobile applications that enhance interaction between humans and AI.</p>
+  </div>
+  
+  <div class="publications">
+   <hr class="section-line">
+   <h1>Publications</h1>
+  <hr class="section-line">
+  </div> 
+--->
 
 ## <font > Works in Progress </font>  
 <div class="publications">
