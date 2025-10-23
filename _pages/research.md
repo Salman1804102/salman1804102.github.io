@@ -41,7 +41,57 @@ permalink: /research/
   </div> 
 --->
 
-## <font > Works in Progress </font>  
+## <font > Journals </font>  
+<div class="publications">
+  <ol class="bibliography">
+      <!-- Paper 1 -->
+      <li>
+          <div class="row">
+              <div class="col-sm-2 abbr">
+                  <abbr class="badge">EAI</abbr>
+              </div>
+              <div id="m-bad" class="col-sm-8">
+                  <div class="title">
+                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789" target="_blank">
+                          <b style="color:brown">EcomFraudEX: An Explainable Machine Learning Framework for Victim-Centric and Dual-Sided Fraud Incident Classification in E-Commerce</b>
+                      </a>
+                  </div>
+                  <div class="author">
+                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
+                  </div>
+                  <div class="periodical">
+                      <em>EAI Endorsed Transaction on Scalable Information System, vol. 12, Jan. 2025</em><br>
+                      <em>Indexed By: Scopus, Web of Science, etc. IF: 1.98, Quartile: Q2</em>
+                  </div>
+                  <div class="links">
+                      <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
+                          <font color="#4796C9">[Schimago Journal Rank]</font></a> |
+                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501"><font color="#4796C9">[Paper]</font> </a> 
+                  </div>
+
+                     <!-- Abstract Showing Mechanism -->
+                    <div class="meta-header">
+                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
+                    <div class="tags">
+                      <span class="tag">Explainable AI</span>
+                      <span class="tag">Fraud Detection</span>
+                      <span class="tag">E-Commerce</span>
+                    </div>
+                  </div>
+                  <div class="abstract-content">
+                    <p>
+                      The popularity of e-commerce businesses and online shopping is experiencing rapid growth all around the world. Nowadays, people are more inclined to shop online than in the actual shops. Due to this advancement, fraudsters have set new traps to deceive consumers. Whether it is true that customers often become victims of fraud, it also happens that a fraud customer tries to deceive the seller and hassle the seller intentionally in several ways. To address these issues, an automated system is required so that fraud incidents can be classified. This will facilitate taking legal action and reporting to consumer rights authorities. Existing research on fraud detection and prevention didn't cover customer and seller-side fraud simultaneously. Besides, most of the work focused on fraud detection rather than post-fraud incident classification. To overcome these gaps, this research endeavor conducts a thorough online survey of customers and sellers to gather incident-specific victim data on fraud cases and it addresses the issue for both customer and seller. This paper proposes a machine learning (ML) based explainable fraud incident classification framework EcomFraudEX, that can efficiently classify these fraud incidents and analyze the reason behind each incident. This framework particularly focuses on proper feature selection techniques, hyper-parameter tuning of models, and exploring different ML and ensemble models. Ensemble majority voting schemes consisting of Random Forest (RF), XGBoost, and CatBoost achieved the highest F1-score of 96% with the Chi-Square feature selection technique in the customer complaint dataset and 98% with the RF feature selection technique in the seller complaint dataset. To explain the incident reasoning, Local Interpretable Model Agnostic Explanation (LIME) and Shapely Additive Explanation (SHAP) were further utilized. The proposed scheme achieved a 1.57% higher F1-score and 2.13% higher accuracy than previous works.
+                    </p>
+                  </div>
+                  
+              </div>
+          </div>
+      </li>
+   <!-- paper 2 will appear here -->
+  </ol>
+</div>
+
+## <font > Extended Abstract </font>  
 <div class="publications">
   <ol class="bibliography">
       <!-- Paper 1 -->
@@ -133,56 +183,6 @@ permalink: /research/
           </div>
       </li>
  
-  </ol>
-</div>
-
-## <font > Journals </font>  
-<div class="publications">
-  <ol class="bibliography">
-      <!-- Paper 1 -->
-      <li>
-          <div class="row">
-              <div class="col-sm-2 abbr">
-                  <abbr class="badge">EAI</abbr>
-              </div>
-              <div id="m-bad" class="col-sm-8">
-                  <div class="title">
-                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789" target="_blank">
-                          <b style="color:brown">EcomFraudEX: An Explainable Machine Learning Framework for Victim-Centric and Dual-Sided Fraud Incident Classification in E-Commerce</b>
-                      </a>
-                  </div>
-                  <div class="author">
-                      <span style="color:#2d862d"><b>Salman Farsi</b></span>, & Mahfuzulhoq Chowdhury
-                  </div>
-                  <div class="periodical">
-                      <em>EAI Endorsed Transaction on Scalable Information System, vol. 12, Jan. 2025</em><br>
-                      <em>Indexed By: Scopus, Web of Science, etc. IF: 1.98, Quartile: Q2</em>
-                  </div>
-                  <div class="links">
-                      <a href="https://www.scimagojr.com/journalsearch.php?q=21101072199&tip=sid&exact=no" target="_blank">
-                          <font color="#4796C9">[Schimago Journal Rank]</font></a> |
-                      <a href="https://publications.eai.eu/index.php/sis/article/view/6789/3501"><font color="#4796C9">[Paper]</font> </a> 
-                  </div>
-
-                     <!-- Abstract Showing Mechanism -->
-                    <div class="meta-header">
-                    <button class="abstract-toggle" onclick="toggleAbstract(this)">Show Abstract</button>
-                    <div class="tags">
-                      <span class="tag">Explainable AI</span>
-                      <span class="tag">Fraud Detection</span>
-                      <span class="tag">E-Commerce</span>
-                    </div>
-                  </div>
-                  <div class="abstract-content">
-                    <p>
-                      The popularity of e-commerce businesses and online shopping is experiencing rapid growth all around the world. Nowadays, people are more inclined to shop online than in the actual shops. Due to this advancement, fraudsters have set new traps to deceive consumers. Whether it is true that customers often become victims of fraud, it also happens that a fraud customer tries to deceive the seller and hassle the seller intentionally in several ways. To address these issues, an automated system is required so that fraud incidents can be classified. This will facilitate taking legal action and reporting to consumer rights authorities. Existing research on fraud detection and prevention didn't cover customer and seller-side fraud simultaneously. Besides, most of the work focused on fraud detection rather than post-fraud incident classification. To overcome these gaps, this research endeavor conducts a thorough online survey of customers and sellers to gather incident-specific victim data on fraud cases and it addresses the issue for both customer and seller. This paper proposes a machine learning (ML) based explainable fraud incident classification framework EcomFraudEX, that can efficiently classify these fraud incidents and analyze the reason behind each incident. This framework particularly focuses on proper feature selection techniques, hyper-parameter tuning of models, and exploring different ML and ensemble models. Ensemble majority voting schemes consisting of Random Forest (RF), XGBoost, and CatBoost achieved the highest F1-score of 96% with the Chi-Square feature selection technique in the customer complaint dataset and 98% with the RF feature selection technique in the seller complaint dataset. To explain the incident reasoning, Local Interpretable Model Agnostic Explanation (LIME) and Shapely Additive Explanation (SHAP) were further utilized. The proposed scheme achieved a 1.57% higher F1-score and 2.13% higher accuracy than previous works.
-                    </p>
-                  </div>
-                  
-              </div>
-          </div>
-      </li>
-   <!-- paper 2 will appear here -->
   </ol>
 </div>
 
