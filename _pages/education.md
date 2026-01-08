@@ -34,7 +34,7 @@ redirect_from:
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">Premier University, Chattogram, BD</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Lecturer at Department of CSE</strong></p>
-        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - June 2025</p>
+        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2024 - April 2025</p>
         <p style="margin: 5px 0;"><strong>Courses Taken:</strong> Neural Networks and Fuzzy Logic | 🎯<a href="../files/NNFL.pdf"           style="color: #990033;">[OBE Course Plan]</a></p>
         <p style="margin: 5px 0;">Neural Networks and Fuzzy Logic Lab | 🎯<a href="../files/NNFLL.pdf"                     
         style="color: #990033;">[OBE Course Plan]</a></p>
