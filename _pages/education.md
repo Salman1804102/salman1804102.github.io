@@ -57,7 +57,7 @@ redirect_from:
       <div style="text-align: left;">
         <p style="margin: 0; font-size: 1.3em; font-weight: bold;">CUET NLP Lab</p>
         <p style="margin: 5px 0; font-size: 1.0em;"><strong>Published Three Conference Papers in EACL2024</strong></p>
-        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2023 - Present</p>
+        <p style="margin: 5px 0;"><strong>Work Period:</strong> November 2023 - March 2024</p>
         <p style="margin: 5px 0;"><strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate" style="color: #007bff; text-decoration-line: underline;">Prof. Dr. Moshiul Hoque</a></p>
       </div>
     </div>
